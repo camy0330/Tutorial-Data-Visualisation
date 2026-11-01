@@ -1,0 +1,119 @@
+state,district,date,poverty_absolute,poverty_relative,year,population,primary,secondary,total_teachers,teachers_per_1000,teacher_availability_rank,poverty_category,teacher_category
+Johor,Batu Pahat,2024-01-01,2.4,11.6,2024,510.1,3428.0,2539.0,5967.0,11.697706332091746,20.0,At or Below Average,Below Average
+Johor,Johor Bahru,2024-01-01,1.9,9.9,2024,1799.1,5042.0,3899.0,8941.0,4.969707075760103,1.0,At or Below Average,Below Average
+Johor,Kluang,2024-01-01,5.7,24.8,2024,333.7,2305.0,1889.0,4194.0,12.56817500749176,26.0,At or Below Average,Below Average
+Johor,Kota Tinggi,2024-01-01,4.2,22.7,2024,233.5,1875.0,1470.0,3345.0,14.325481798715204,37.0,At or Below Average,Below Average
+Johor,Kulai,2024-01-01,0.1,6.3,2024,351.3,2462.0,1835.0,4297.0,12.231710788499857,22.0,At or Below Average,Below Average
+Johor,Mersing,2024-01-01,6.7,25.0,2024,81.0,815.0,568.0,1383.0,17.074074074074073,68.0,At or Below Average,Below Average
+Johor,Muar,2024-01-01,2.1,16.1,2024,323.2,2243.0,1911.0,4154.0,12.852722772277229,28.0,At or Below Average,Below Average
+Johor,Pontian,2024-01-01,2.0,25.7,2024,177.9,1640.0,1214.0,2854.0,16.04272062956717,52.0,At or Below Average,Below Average
+Johor,Segamat,2024-01-01,3.1,16.8,2024,205.1,1813.0,1397.0,3210.0,15.650901999024866,50.0,At or Below Average,Below Average
+Johor,Tangkak,2024-01-01,4.0,19.2,2024,169.4,1237.0,988.0,2225.0,13.134592680047225,29.0,At or Below Average,Below Average
+Kedah,Baling,2024-01-01,14.7,24.0,2024,148.1,1437.0,967.0,2404.0,16.2322754895341,57.0,Above Average,Below Average
+Kedah,Kota Setar,2024-01-01,5.5,10.4,2024,381.7,3150.0,2707.0,5857.0,15.344511396384595,46.0,At or Below Average,Below Average
+Kedah,Kubang Pasu,2024-01-01,4.0,6.4,2024,253.3,2001.0,1579.0,3580.0,14.133438610343466,36.0,At or Below Average,Below Average
+Kedah,Langkawi,2024-01-01,6.0,8.3,2024,99.8,846.0,684.0,1530.0,15.330661322645291,45.0,At or Below Average,Below Average
+Kedah,Padang Terap,2024-01-01,8.0,8.0,2024,67.7,661.0,520.0,1181.0,17.44460856720827,72.0,At or Below Average,At or Above Average
+Kedah,Pendang,2024-01-01,7.3,16.3,2024,101.5,1053.0,816.0,1869.0,18.413793103448278,81.0,At or Below Average,At or Above Average
+Kedah,Sik,2024-01-01,8.7,14.3,2024,70.1,645.0,483.0,1128.0,16.09129814550642,54.0,At or Below Average,Below Average
+Kelantan,Bachok,2024-01-01,11.3,12.1,2024,165.5,1427.0,1306.0,2733.0,16.513595166163142,61.0,Above Average,Below Average
+Kelantan,Gua Musang,2024-01-01,16.3,7.5,2024,110.5,1205.0,667.0,1872.0,16.941176470588236,65.0,Above Average,Below Average
+Kelantan,Jeli,2024-01-01,10.1,19.3,2024,57.7,528.0,361.0,889.0,15.407279029462737,47.0,At or Below Average,Below Average
+Kelantan,Kota Bharu,2024-01-01,9.9,6.7,2024,583.7,4495.0,3524.0,8019.0,13.738221689223915,31.0,At or Below Average,Below Average
+Kelantan,Kuala Krai,2024-01-01,20.2,22.8,2024,111.6,1244.0,928.0,2172.0,19.46236559139785,87.0,Above Average,At or Above Average
+Kelantan,Machang,2024-01-01,7.3,10.9,2024,116.7,970.0,733.0,1703.0,14.592973436161097,38.0,At or Below Average,Below Average
+Kelantan,Pasir Mas,2024-01-01,8.6,11.4,2024,240.4,1959.0,1596.0,3555.0,14.787853577371047,42.0,At or Below Average,Below Average
+Kelantan,Tanah Merah,2024-01-01,14.9,11.6,2024,158.4,1256.0,1159.0,2415.0,15.246212121212121,43.0,Above Average,Below Average
+Kelantan,Tumpat,2024-01-01,12.7,8.0,2024,189.1,1564.0,1063.0,2627.0,13.892120571126389,34.0,Above Average,Below Average
+Melaka,Alor Gajah,2024-01-01,4.5,11.4,2024,260.5,2109.0,1478.0,3587.0,13.769673704414588,32.0,At or Below Average,Below Average
+Melaka,Jasin,2024-01-01,1.1,10.0,2024,156.4,1563.0,1341.0,2904.0,18.56777493606138,82.0,At or Below Average,At or Above Average
+Melaka,Melaka Tengah,2024-01-01,2.8,10.0,2024,629.9,4075.0,3157.0,7232.0,11.48118749007779,18.0,At or Below Average,Below Average
+Negeri Sembilan,Kuala Pilah,2024-01-01,6.2,27.8,2024,72.3,789.0,750.0,1539.0,21.28630705394191,98.0,At or Below Average,At or Above Average
+Negeri Sembilan,Port Dickson,2024-01-01,4.4,16.7,2024,135.2,1225.0,885.0,2110.0,15.606508875739646,49.0,At or Below Average,Below Average
+Negeri Sembilan,Rembau,2024-01-01,2.6,19.9,2024,49.3,540.0,777.0,1317.0,26.71399594320487,109.0,At or Below Average,At or Above Average
+Negeri Sembilan,Seremban,2024-01-01,2.8,6.2,2024,712.3,4545.0,3675.0,8220.0,11.540081426365296,19.0,At or Below Average,Below Average
+Negeri Sembilan,Tampin,2024-01-01,7.0,15.1,2024,90.5,897.0,641.0,1538.0,16.994475138121548,67.0,At or Below Average,Below Average
+Pahang,Bentong,2024-01-01,2.0,0.3,2024,121.2,913.0,958.0,1871.0,15.437293729372938,48.0,At or Below Average,Below Average
+Pahang,Bera,2024-01-01,9.0,18.5,2024,101.0,906.0,570.0,1476.0,14.613861386138614,39.0,At or Below Average,Below Average
+Pahang,Cameron Highlands,2024-01-01,5.0,1.7,2024,44.5,416.0,199.0,615.0,13.820224719101123,33.0,At or Below Average,Below Average
+Pahang,Jerantut,2024-01-01,8.8,14.3,2024,99.9,1083.0,773.0,1856.0,18.57857857857858,83.0,At or Below Average,At or Above Average
+Pahang,Kuantan,2024-01-01,3.7,5.1,2024,571.1,3896.0,3222.0,7118.0,12.463666608299771,25.0,At or Below Average,Below Average
+Pahang,Lipis,2024-01-01,9.2,0.8,2024,102.2,972.0,794.0,1766.0,17.279843444227005,71.0,At or Below Average,Below Average
+Pahang,Maran,2024-01-01,7.9,7.9,2024,119.0,1168.0,964.0,2132.0,17.915966386554622,76.0,At or Below Average,At or Above Average
+Pahang,Pekan,2024-01-01,10.9,8.5,2024,127.8,1250.0,882.0,2132.0,16.682316118935837,63.0,Above Average,Below Average
+Pahang,Raub,2024-01-01,3.4,0.8,2024,100.2,850.0,625.0,1475.0,14.720558882235528,40.0,At or Below Average,Below Average
+Pahang,Rompin,2024-01-01,8.2,3.9,2024,102.9,1152.0,1070.0,2222.0,21.593780369290574,100.0,At or Below Average,At or Above Average
+Pahang,Temerloh,2024-01-01,6.2,13.1,2024,177.8,1586.0,1327.0,2913.0,16.38357705286839,59.0,At or Below Average,Below Average
+Perak,Bagan Datuk,2024-01-01,11.5,18.6,2024,83.4,828.0,548.0,1376.0,16.498800959232614,60.0,Above Average,Below Average
+Perak,Batang Padang,2024-01-01,11.5,18.5,2024,126.8,1258.0,856.0,2114.0,16.671924290220822,62.0,Above Average,Below Average
+Perak,Hilir Perak,2024-01-01,12.3,15.4,2024,141.8,1199.0,1096.0,2295.0,16.184767277856135,56.0,Above Average,Below Average
+Perak,Hulu Perak,2024-01-01,13.3,11.6,2024,98.4,1163.0,769.0,1932.0,19.634146341463413,89.0,Above Average,At or Above Average
+Perak,Kerian,2024-01-01,7.3,9.2,2024,169.5,1707.0,1604.0,3311.0,19.533923303834808,88.0,At or Below Average,At or Above Average
+Perak,Kuala Kangsar,2024-01-01,11.3,12.8,2024,179.9,1827.0,1589.0,3416.0,18.988326848249027,85.0,Above Average,At or Above Average
+Perak,Manjung,2024-01-01,3.9,7.6,2024,255.2,2229.0,1533.0,3762.0,14.741379310344827,41.0,At or Below Average,Below Average
+Perak,Muallim,2024-01-01,7.7,10.9,2024,79.2,741.0,649.0,1390.0,17.55050505050505,74.0,At or Below Average,At or Above Average
+Perak,Perak Tengah,2024-01-01,10.2,15.9,2024,98.8,1143.0,955.0,2098.0,21.234817813765183,97.0,At or Below Average,At or Above Average
+Pulau Pinang,Barat Daya,2024-01-01,0.4,7.5,2024,248.2,1513.0,880.0,2393.0,9.641418211120065,12.0,At or Below Average,Below Average
+Pulau Pinang,Timur Laut,2024-01-01,0.4,14.3,2024,569.9,2334.0,2356.0,4690.0,8.229513949815757,6.0,At or Below Average,Below Average
+Sabah,Beaufort,2024-01-01,20.4,25.3,2024,77.6,992.0,667.0,1659.0,21.378865979381445,99.0,Above Average,At or Above Average
+Sabah,Beluran,2024-01-01,33.0,17.0,2024,90.0,776.0,318.0,1094.0,12.155555555555555,21.0,Above Average,Below Average
+Sabah,Keningau,2024-01-01,12.8,11.5,2024,158.0,1673.0,1223.0,2896.0,18.329113924050635,80.0,Above Average,At or Above Average
+Sabah,Kinabatangan,2024-01-01,26.7,10.4,2024,164.3,645.0,233.0,878.0,5.3438831405964695,2.0,Above Average,Below Average
+Sabah,Kota Belud,2024-01-01,26.1,17.0,2024,110.8,1213.0,742.0,1955.0,17.644404332129966,75.0,Above Average,At or Above Average
+Sabah,Kota Kinabalu,2024-01-01,12.0,7.7,2024,546.6,2634.0,1999.0,4633.0,8.476033662641786,8.0,Above Average,Below Average
+Sabah,Kota Marudu,2024-01-01,40.0,38.8,2024,73.7,884.0,595.0,1479.0,20.067842605156038,92.0,Above Average,At or Above Average
+Sabah,Kuala Penyu,2024-01-01,14.3,30.4,2024,24.6,406.0,190.0,596.0,24.227642276422763,104.0,Above Average,At or Above Average
+Sabah,Kudat,2024-01-01,35.3,32.3,2024,93.1,1128.0,818.0,1946.0,20.902255639097746,95.0,Above Average,At or Above Average
+Sabah,Kunak,2024-01-01,29.2,26.1,2024,79.6,484.0,280.0,764.0,9.597989949748744,10.0,Above Average,Below Average
+Sabah,Lahad Datu,2024-01-01,13.6,3.4,2024,253.8,1392.0,1047.0,2439.0,9.609929078014185,11.0,Above Average,Below Average
+Sabah,Papar,2024-01-01,12.0,9.0,2024,156.4,1269.0,859.0,2128.0,13.606138107416879,30.0,Above Average,Below Average
+Sabah,Penampang,2024-01-01,5.7,5.9,2024,167.6,1077.0,756.0,1833.0,10.936754176610979,16.0,At or Below Average,Below Average
+Sabah,Pitas,2024-01-01,50.0,44.6,2024,38.6,632.0,361.0,993.0,25.72538860103627,107.0,Above Average,At or Above Average
+Sabah,Ranau,2024-01-01,23.5,27.9,2024,88.6,1257.0,721.0,1978.0,22.32505643340858,102.0,Above Average,At or Above Average
+Sabah,Sandakan,2024-01-01,15.2,12.0,2024,499.4,2155.0,1555.0,3710.0,7.428914697637165,5.0,Above Average,Below Average
+Sabah,Semporna,2024-01-01,30.4,24.0,2024,199.4,1298.0,802.0,2100.0,10.531594784353059,15.0,Above Average,Below Average
+Sabah,Sipitang,2024-01-01,15.3,9.0,2024,40.5,484.0,244.0,728.0,17.97530864197531,77.0,Above Average,At or Above Average
+Sabah,Tambunan,2024-01-01,8.3,13.9,2024,33.3,517.0,278.0,795.0,23.873873873873876,103.0,At or Below Average,At or Above Average
+Sabah,Tawau,2024-01-01,13.2,13.0,2024,413.6,2301.0,1736.0,4037.0,9.76063829787234,14.0,Above Average,Below Average
+Sabah,Tenom,2024-01-01,12.1,17.7,2024,53.8,816.0,365.0,1181.0,21.95167286245353,101.0,Above Average,At or Above Average
+Sabah,Tuaran,2024-01-01,23.7,13.9,2024,142.2,1582.0,861.0,2443.0,17.180028129395218,70.0,Above Average,Below Average
+Sarawak,Bau,2024-01-01,6.2,17.8,2024,53.8,644.0,373.0,1017.0,18.903345724907066,84.0,At or Below Average,At or Above Average
+Sarawak,Belaga,2024-01-01,13.6,27.3,2024,22.6,261.0,147.0,408.0,18.05309734513274,78.0,Above Average,At or Above Average
+Sarawak,Betong,2024-01-01,7.6,23.9,2024,37.0,848.0,598.0,1446.0,39.08108108108108,115.0,At or Below Average,At or Above Average
+Sarawak,Bintulu,2024-01-01,3.7,3.2,2024,189.0,1101.0,1054.0,2155.0,11.402116402116402,17.0,At or Below Average,Below Average
+Sarawak,Dalat,2024-01-01,10.1,31.9,2024,21.7,387.0,233.0,620.0,28.571428571428573,112.0,At or Below Average,At or Above Average
+Sarawak,Daro,2024-01-01,26.8,27.7,2024,20.0,640.0,236.0,876.0,43.8,117.0,Above Average,At or Above Average
+Sarawak,Julau,2024-01-01,26.6,38.0,2024,15.6,476.0,171.0,647.0,41.47435897435898,116.0,Above Average,At or Above Average
+Sarawak,Kanowit,2024-01-01,21.8,33.3,2024,25.0,501.0,194.0,695.0,27.8,111.0,Above Average,At or Above Average
+Sarawak,Kapit,2024-01-01,15.5,36.2,2024,36.9,703.0,397.0,1100.0,29.81029810298103,113.0,Above Average,At or Above Average
+Sarawak,Kuching,2024-01-01,7.7,7.9,2024,625.0,2440.0,2180.0,4620.0,7.392,4.0,At or Below Average,Below Average
+Sarawak,Lawas,2024-01-01,14.6,28.1,2024,38.1,507.0,251.0,758.0,19.89501312335958,91.0,Above Average,At or Above Average
+Sarawak,Limbang,2024-01-01,14.4,31.1,2024,46.5,567.0,351.0,918.0,19.741935483870968,90.0,Above Average,At or Above Average
+Sarawak,Lundu,2024-01-01,12.9,26.9,2024,34.4,495.0,231.0,726.0,21.1046511627907,96.0,Above Average,At or Above Average
+Sarawak,Miri,2024-01-01,3.8,3.5,2024,256.1,1679.0,1467.0,3146.0,12.284263959390861,23.0,At or Below Average,Below Average
+Sarawak,Mukah,2024-01-01,11.9,18.8,2024,42.5,549.0,259.0,808.0,19.011764705882353,86.0,Above Average,At or Above Average
+Sarawak,Samarahan,2024-01-01,6.3,7.2,2024,135.6,1356.0,946.0,2302.0,16.976401179941004,66.0,At or Below Average,Below Average
+Sarawak,Saratok,2024-01-01,5.0,32.9,2024,23.5,766.0,369.0,1135.0,48.297872340425535,118.0,At or Below Average,At or Above Average
+Sarawak,Sarikei,2024-01-01,17.8,20.5,2024,45.0,753.0,396.0,1149.0,25.533333333333335,106.0,Above Average,At or Above Average
+Sarawak,Selangau,2024-01-01,17.2,20.2,2024,20.5,324.0,49.0,373.0,18.195121951219512,79.0,Above Average,At or Above Average
+Sarawak,Serian,2024-01-01,11.8,25.5,2024,87.6,1534.0,891.0,2425.0,27.682648401826487,110.0,Above Average,At or Above Average
+Sarawak,Sibu,2024-01-01,6.3,10.1,2024,255.4,2285.0,1827.0,4112.0,16.10023492560689,55.0,At or Below Average,Below Average
+Sarawak,Simunjan,2024-01-01,14.9,35.5,2024,37.0,689.0,234.0,923.0,24.945945945945947,105.0,Above Average,At or Above Average
+Sarawak,Song,2024-01-01,11.3,40.8,2024,10.3,239.0,133.0,372.0,36.11650485436893,114.0,Above Average,At or Above Average
+Sarawak,Sri Aman,2024-01-01,6.2,25.2,2024,61.3,631.0,373.0,1004.0,16.37846655791191,58.0,At or Below Average,Below Average
+Sarawak,Subis,2024-01-01,2.4,4.7,2024,55.5,623.0,309.0,932.0,16.792792792792792,64.0,At or Below Average,Below Average
+Selangor,Gombak,2024-01-01,2.1,9.8,2024,979.9,4587.0,3724.0,8311.0,8.481477701806307,9.0,At or Below Average,Below Average
+Selangor,Klang,2024-01-01,1.0,12.0,2024,1174.7,5725.0,4158.0,9883.0,8.413211883885246,7.0,At or Below Average,Below Average
+Selangor,Kuala Langat,2024-01-01,0.3,2.2,2024,326.4,2301.0,1711.0,4012.0,12.291666666666668,24.0,At or Below Average,Below Average
+Selangor,Kuala Selangor,2024-01-01,1.8,21.0,2024,298.4,2378.0,1774.0,4152.0,13.914209115281503,35.0,At or Below Average,Below Average
+Selangor,Sabak Bernam,2024-01-01,2.7,25.7,2024,110.3,1100.0,1184.0,2284.0,20.70716228467815,94.0,At or Below Average,At or Above Average
+Selangor,Sepang,2024-01-01,0.1,1.1,2024,347.0,1996.0,1352.0,3348.0,9.648414985590778,13.0,At or Below Average,Below Average
+Selangor,Ulu Langat,2024-01-01,0.1,0.3,2024,1508.0,6324.0,4485.0,10809.0,7.167771883289125,3.0,At or Below Average,Below Average
+Selangor,Ulu Selangor,2024-01-01,0.4,16.7,2024,258.3,1940.0,1340.0,3280.0,12.698412698412698,27.0,At or Below Average,Below Average
+Terengganu,Besut,2024-01-01,13.1,14.2,2024,165.4,1743.0,1664.0,3407.0,20.598548972188635,93.0,Above Average,At or Above Average
+Terengganu,Dungun,2024-01-01,4.4,12.4,2024,167.9,1588.0,1342.0,2930.0,17.450863609291243,73.0,At or Below Average,At or Above Average
+Terengganu,Kemaman,2024-01-01,3.5,6.7,2024,231.7,1940.0,1607.0,3547.0,15.308588692274494,44.0,At or Below Average,Below Average
+Terengganu,Kuala Nerus,2024-01-01,1.6,2.4,2024,155.8,1188.0,1316.0,2504.0,16.07188703465982,53.0,At or Below Average,Below Average
+Terengganu,Kuala Terengganu,2024-01-01,4.2,9.4,2024,245.1,2217.0,1984.0,4201.0,17.139942880456957,69.0,At or Below Average,Below Average
+Terengganu,Marang,2024-01-01,7.3,13.9,2024,126.7,1081.0,919.0,2000.0,15.785319652722967,51.0,At or Below Average,Below Average
+Terengganu,Setiu,2024-01-01,4.7,7.7,2024,64.3,913.0,780.0,1693.0,26.329704510108865,108.0,At or Below Average,At or Above Average

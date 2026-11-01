@@ -1,0 +1,1133 @@
+state,district,date,sex,age,ethnicity,population
+Johor,Batu Pahat,2020-01-01,both,overall,overall,495.3
+Johor,Johor Bahru,2020-01-01,both,overall,overall,1711.2
+Johor,Kluang,2020-01-01,both,overall,overall,323.8
+Johor,Kota Tinggi,2020-01-01,both,overall,overall,222.4
+Johor,Kulai,2020-01-01,both,overall,overall,329.5
+Johor,Mersing,2020-01-01,both,overall,overall,78.2
+Johor,Muar,2020-01-01,both,overall,overall,314.8
+Johor,Pontian,2020-01-01,both,overall,overall,173.3
+Johor,Segamat,2020-01-01,both,overall,overall,197.8
+Johor,Tangkak,2020-01-01,both,overall,overall,163.4
+Kedah,Baling,2020-01-01,both,overall,overall,142.6
+Kedah,Bandar Baharu,2020-01-01,both,overall,overall,44.4
+Kedah,Kota Setar,2020-01-01,both,overall,overall,374.1
+Kedah,Kuala Muda,2020-01-01,both,overall,overall,545.0
+Kedah,Kubang Pasu,2020-01-01,both,overall,overall,237.8
+Kedah,Kulim,2020-01-01,both,overall,overall,337.7
+Kedah,Langkawi,2020-01-01,both,overall,overall,94.1
+Kedah,Padang Terap,2020-01-01,both,overall,overall,65.7
+Kedah,Pendang,2020-01-01,both,overall,overall,98.9
+Kedah,Pokok Sena,2020-01-01,both,overall,overall,49.8
+Kedah,Sik,2020-01-01,both,overall,overall,67.9
+Kedah,Yan,2020-01-01,both,overall,overall,73.4
+Kelantan,Bachok,2020-01-01,both,overall,overall,157.3
+Kelantan,Gua Musang,2020-01-01,both,overall,overall,101.9
+Kelantan,Jeli,2020-01-01,both,overall,overall,54.7
+Kelantan,Kecil Lojing,2020-01-01,both,overall,overall,10.6
+Kelantan,Kota Bharu,2020-01-01,both,overall,overall,555.8
+Kelantan,Kuala Krai,2020-01-01,both,overall,overall,105.0
+Kelantan,Machang,2020-01-01,both,overall,overall,110.0
+Kelantan,Pasir Mas,2020-01-01,both,overall,overall,230.4
+Kelantan,Pasir Puteh,2020-01-01,both,overall,overall,136.2
+Kelantan,Tanah Merah,2020-01-01,both,overall,overall,150.8
+Kelantan,Tumpat,2020-01-01,both,overall,overall,179.9
+Melaka,Alor Gajah,2020-01-01,both,overall,overall,249.4
+Melaka,Jasin,2020-01-01,both,overall,overall,151.9
+Melaka,Melaka Tengah,2020-01-01,both,overall,overall,597.1
+Negeri Sembilan,Jelebu,2020-01-01,both,overall,overall,46.1
+Negeri Sembilan,Jempol,2020-01-01,both,overall,overall,127.2
+Negeri Sembilan,Kuala Pilah,2020-01-01,both,overall,overall,70.3
+Negeri Sembilan,Port Dickson,2020-01-01,both,overall,overall,128.7
+Negeri Sembilan,Rembau,2020-01-01,both,overall,overall,47.3
+Negeri Sembilan,Seremban,2020-01-01,both,overall,overall,692.3
+Negeri Sembilan,Tampin,2020-01-01,both,overall,overall,88.1
+Pahang,Bentong,2020-01-01,both,overall,overall,116.8
+Pahang,Bera,2020-01-01,both,overall,overall,98.1
+Pahang,Cameron Highlands,2020-01-01,both,overall,overall,39.0
+Pahang,Jerantut,2020-01-01,both,overall,overall,96.0
+Pahang,Kuantan,2020-01-01,both,overall,overall,548.0
+Pahang,Lipis,2020-01-01,both,overall,overall,96.6
+Pahang,Maran,2020-01-01,both,overall,overall,112.3
+Pahang,Pekan,2020-01-01,both,overall,overall,121.2
+Pahang,Raub,2020-01-01,both,overall,overall,96.1
+Pahang,Rompin,2020-01-01,both,overall,overall,98.1
+Pahang,Temerloh,2020-01-01,both,overall,overall,169.0
+Perak,Bagan Datuk,2020-01-01,both,overall,overall,82.8
+Perak,Batang Padang,2020-01-01,both,overall,overall,124.0
+Perak,Hilir Perak,2020-01-01,both,overall,overall,142.0
+Perak,Hulu Perak,2020-01-01,both,overall,overall,95.1
+Perak,Kampar,2020-01-01,both,overall,overall,98.7
+Perak,Kerian,2020-01-01,both,overall,overall,166.4
+Perak,Kinta,2020-01-01,both,overall,overall,888.8
+Perak,Kuala Kangsar,2020-01-01,both,overall,overall,176.1
+Perak,Larut Dan Matang,2020-01-01,both,overall,overall,269.6
+Perak,Manjung,2020-01-01,both,overall,overall,247.0
+Perak,Muallim,2020-01-01,both,overall,overall,76.7
+Perak,Perak Tengah,2020-01-01,both,overall,overall,94.6
+Perak,Selama,2020-01-01,both,overall,overall,34.4
+Perlis,Perlis,2020-01-01,both,overall,overall,284.9
+Pulau Pinang,Barat Daya,2020-01-01,both,overall,overall,237.7
+Pulau Pinang,Seberang Perai Selatan,2020-01-01,both,overall,overall,184.0
+Pulau Pinang,Seberang Perai Tengah,2020-01-01,both,overall,overall,423.0
+Pulau Pinang,Seberang Perai Utara,2020-01-01,both,overall,overall,339.1
+Pulau Pinang,Timur Laut,2020-01-01,both,overall,overall,556.6
+Sabah,Beaufort,2020-01-01,both,overall,overall,75.7
+Sabah,Beluran,2020-01-01,both,overall,overall,77.1
+Sabah,Kalabakan,2020-01-01,both,overall,overall,48.2
+Sabah,Keningau,2020-01-01,both,overall,overall,150.9
+Sabah,Kinabatangan,2020-01-01,both,overall,overall,143.1
+Sabah,Kota Belud,2020-01-01,both,overall,overall,107.2
+Sabah,Kota Kinabalu,2020-01-01,both,overall,overall,500.4
+Sabah,Kota Marudu,2020-01-01,both,overall,overall,69.5
+Sabah,Kuala Penyu,2020-01-01,both,overall,overall,23.7
+Sabah,Kudat,2020-01-01,both,overall,overall,86.4
+Sabah,Kunak,2020-01-01,both,overall,overall,68.9
+Sabah,Lahad Datu,2020-01-01,both,overall,overall,229.1
+Sabah,Nabawan,2020-01-01,both,overall,overall,28.3
+Sabah,Papar,2020-01-01,both,overall,overall,150.7
+Sabah,Penampang,2020-01-01,both,overall,overall,162.2
+Sabah,Pitas,2020-01-01,both,overall,overall,36.7
+Sabah,Putatan,2020-01-01,both,overall,overall,68.8
+Sabah,Ranau,2020-01-01,both,overall,overall,85.1
+Sabah,Sandakan,2020-01-01,both,overall,overall,439.1
+Sabah,Semporna,2020-01-01,both,overall,overall,166.6
+Sabah,Sipitang,2020-01-01,both,overall,overall,37.8
+Sabah,Tambunan,2020-01-01,both,overall,overall,31.6
+Sabah,Tawau,2020-01-01,both,overall,overall,372.6
+Sabah,Telupid,2020-01-01,both,overall,overall,29.2
+Sabah,Tenom,2020-01-01,both,overall,overall,51.3
+Sabah,Tongod,2020-01-01,both,overall,overall,42.7
+Sabah,Tuaran,2020-01-01,both,overall,overall,135.7
+Sarawak,Asajaya,2020-01-01,both,overall,overall,33.6
+Sarawak,Bau,2020-01-01,both,overall,overall,52.6
+Sarawak,Belaga,2020-01-01,both,overall,overall,22.5
+Sarawak,Beluru,2020-01-01,both,overall,overall,28.7
+Sarawak,Betong,2020-01-01,both,overall,overall,36.3
+Sarawak,Bintulu,2020-01-01,both,overall,overall,178.6
+Sarawak,Bukit Mabong,2020-01-01,both,overall,overall,10.2
+Sarawak,Dalat,2020-01-01,both,overall,overall,21.1
+Sarawak,Daro,2020-01-01,both,overall,overall,19.5
+Sarawak,Julau,2020-01-01,both,overall,overall,15.3
+Sarawak,Kabong,2020-01-01,both,overall,overall,18.4
+Sarawak,Kanowit,2020-01-01,both,overall,overall,24.7
+Sarawak,Kapit,2020-01-01,both,overall,overall,36.0
+Sarawak,Kuching,2020-01-01,both,overall,overall,609.2
+Sarawak,Lawas,2020-01-01,both,overall,overall,36.6
+Sarawak,Limbang,2020-01-01,both,overall,overall,45.1
+Sarawak,Lubok Antu,2020-01-01,both,overall,overall,24.6
+Sarawak,Lundu,2020-01-01,both,overall,overall,33.5
+Sarawak,Maradong,2020-01-01,both,overall,overall,20.3
+Sarawak,Marudi,2020-01-01,both,overall,overall,18.8
+Sarawak,Matu,2020-01-01,both,overall,overall,16.3
+Sarawak,Miri,2020-01-01,both,overall,overall,248.9
+Sarawak,Mukah,2020-01-01,both,overall,overall,42.3
+Sarawak,Pakan,2020-01-01,both,overall,overall,15.5
+Sarawak,Pusa,2020-01-01,both,overall,overall,19.6
+Sarawak,Samarahan,2020-01-01,both,overall,overall,128.3
+Sarawak,Saratok,2020-01-01,both,overall,overall,23.1
+Sarawak,Sarikei,2020-01-01,both,overall,overall,44.0
+Sarawak,Sebauh,2020-01-01,both,overall,overall,29.6
+Sarawak,Selangau,2020-01-01,both,overall,overall,19.8
+Sarawak,Serian,2020-01-01,both,overall,overall,85.3
+Sarawak,Sibu,2020-01-01,both,overall,overall,248.1
+Sarawak,Simunjan,2020-01-01,both,overall,overall,36.2
+Sarawak,Song,2020-01-01,both,overall,overall,10.0
+Sarawak,Sri Aman,2020-01-01,both,overall,overall,61.2
+Sarawak,Subis,2020-01-01,both,overall,overall,57.3
+Sarawak,Tanjung Manis,2020-01-01,both,overall,overall,7.9
+Sarawak,Tatau,2020-01-01,both,overall,overall,31.9
+Sarawak,Tebedu,2020-01-01,both,overall,overall,25.2
+Sarawak,Telang Usan,2020-01-01,both,overall,overall,17.4
+Selangor,Gombak,2020-01-01,both,overall,overall,942.4
+Selangor,Klang,2020-01-01,both,overall,overall,1088.9
+Selangor,Kuala Langat,2020-01-01,both,overall,overall,307.4
+Selangor,Kuala Selangor,2020-01-01,both,overall,overall,281.7
+Selangor,Petaling,2020-01-01,both,overall,overall,2298.1
+Selangor,Sabak Bernam,2020-01-01,both,overall,overall,107.1
+Selangor,Sepang,2020-01-01,both,overall,overall,325.2
+Selangor,Ulu Langat,2020-01-01,both,overall,overall,1400.5
+Selangor,Ulu Selangor,2020-01-01,both,overall,overall,243.0
+Terengganu,Besut,2020-01-01,both,overall,overall,154.2
+Terengganu,Dungun,2020-01-01,both,overall,overall,158.1
+Terengganu,Hulu Terengganu,2020-01-01,both,overall,overall,69.9
+Terengganu,Kemaman,2020-01-01,both,overall,overall,215.6
+Terengganu,Kuala Nerus,2020-01-01,both,overall,overall,145.6
+Terengganu,Kuala Terengganu,2020-01-01,both,overall,overall,229.8
+Terengganu,Marang,2020-01-01,both,overall,overall,116.6
+Terengganu,Setiu,2020-01-01,both,overall,overall,59.7
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2020-01-01,both,overall,overall,1982.1
+W.P. Labuan,W.P. Labuan,2020-01-01,both,overall,overall,95.1
+W.P. Putrajaya,W.P. Putrajaya,2020-01-01,both,overall,overall,109.2
+Johor,Batu Pahat,2021-01-01,both,overall,overall,497.2
+Johor,Johor Bahru,2021-01-01,both,overall,overall,1715.4
+Johor,Kluang,2021-01-01,both,overall,overall,325.3
+Johor,Kota Tinggi,2021-01-01,both,overall,overall,223.6
+Johor,Kulai,2021-01-01,both,overall,overall,328.2
+Johor,Mersing,2021-01-01,both,overall,overall,78.8
+Johor,Muar,2021-01-01,both,overall,overall,315.8
+Johor,Pontian,2021-01-01,both,overall,overall,174.2
+Johor,Segamat,2021-01-01,both,overall,overall,197.4
+Johor,Tangkak,2021-01-01,both,overall,overall,164.0
+Kedah,Baling,2021-01-01,both,overall,overall,144.2
+Kedah,Bandar Baharu,2021-01-01,both,overall,overall,44.4
+Kedah,Kota Setar,2021-01-01,both,overall,overall,376.3
+Kedah,Kuala Muda,2021-01-01,both,overall,overall,546.3
+Kedah,Kubang Pasu,2021-01-01,both,overall,overall,248.7
+Kedah,Kulim,2021-01-01,both,overall,overall,339.0
+Kedah,Langkawi,2021-01-01,both,overall,overall,95.1
+Kedah,Padang Terap,2021-01-01,both,overall,overall,66.4
+Kedah,Pendang,2021-01-01,both,overall,overall,99.3
+Kedah,Pokok Sena,2021-01-01,both,overall,overall,50.0
+Kedah,Sik,2021-01-01,both,overall,overall,68.3
+Kedah,Yan,2021-01-01,both,overall,overall,73.6
+Kelantan,Bachok,2021-01-01,both,overall,overall,158.9
+Kelantan,Gua Musang,2021-01-01,both,overall,overall,102.5
+Kelantan,Jeli,2021-01-01,both,overall,overall,55.6
+Kelantan,Kecil Lojing,2021-01-01,both,overall,overall,10.7
+Kelantan,Kota Bharu,2021-01-01,both,overall,overall,562.4
+Kelantan,Kuala Krai,2021-01-01,both,overall,overall,105.9
+Kelantan,Machang,2021-01-01,both,overall,overall,112.9
+Kelantan,Pasir Mas,2021-01-01,both,overall,overall,231.9
+Kelantan,Pasir Puteh,2021-01-01,both,overall,overall,137.4
+Kelantan,Tanah Merah,2021-01-01,both,overall,overall,152.4
+Kelantan,Tumpat,2021-01-01,both,overall,overall,181.7
+Melaka,Alor Gajah,2021-01-01,both,overall,overall,251.0
+Melaka,Jasin,2021-01-01,both,overall,overall,155.9
+Melaka,Melaka Tengah,2021-01-01,both,overall,overall,597.7
+Negeri Sembilan,Jelebu,2021-01-01,both,overall,overall,45.8
+Negeri Sembilan,Jempol,2021-01-01,both,overall,overall,127.1
+Negeri Sembilan,Kuala Pilah,2021-01-01,both,overall,overall,70.0
+Negeri Sembilan,Port Dickson,2021-01-01,both,overall,overall,128.9
+Negeri Sembilan,Rembau,2021-01-01,both,overall,overall,47.4
+Negeri Sembilan,Seremban,2021-01-01,both,overall,overall,696.1
+Negeri Sembilan,Tampin,2021-01-01,both,overall,overall,88.8
+Pahang,Bentong,2021-01-01,both,overall,overall,115.7
+Pahang,Bera,2021-01-01,both,overall,overall,98.0
+Pahang,Cameron Highlands,2021-01-01,both,overall,overall,38.5
+Pahang,Jerantut,2021-01-01,both,overall,overall,95.9
+Pahang,Kuantan,2021-01-01,both,overall,overall,554.6
+Pahang,Lipis,2021-01-01,both,overall,overall,96.6
+Pahang,Maran,2021-01-01,both,overall,overall,113.5
+Pahang,Pekan,2021-01-01,both,overall,overall,122.6
+Pahang,Raub,2021-01-01,both,overall,overall,96.0
+Pahang,Rompin,2021-01-01,both,overall,overall,100.6
+Pahang,Temerloh,2021-01-01,both,overall,overall,169.4
+Perak,Bagan Datuk,2021-01-01,both,overall,overall,83.6
+Perak,Batang Padang,2021-01-01,both,overall,overall,126.3
+Perak,Hilir Perak,2021-01-01,both,overall,overall,145.0
+Perak,Hulu Perak,2021-01-01,both,overall,overall,95.3
+Perak,Kampar,2021-01-01,both,overall,overall,98.3
+Perak,Kerian,2021-01-01,both,overall,overall,167.8
+Perak,Kinta,2021-01-01,both,overall,overall,893.6
+Perak,Kuala Kangsar,2021-01-01,both,overall,overall,176.3
+Perak,Larut Dan Matang,2021-01-01,both,overall,overall,272.2
+Perak,Manjung,2021-01-01,both,overall,overall,250.1
+Perak,Muallim,2021-01-01,both,overall,overall,77.9
+Perak,Perak Tengah,2021-01-01,both,overall,overall,95.0
+Perak,Selama,2021-01-01,both,overall,overall,34.4
+Perlis,Perlis,2021-01-01,both,overall,overall,287.6
+Pulau Pinang,Barat Daya,2021-01-01,both,overall,overall,238.5
+Pulau Pinang,Seberang Perai Selatan,2021-01-01,both,overall,overall,186.5
+Pulau Pinang,Seberang Perai Tengah,2021-01-01,both,overall,overall,421.6
+Pulau Pinang,Seberang Perai Utara,2021-01-01,both,overall,overall,339.8
+Pulau Pinang,Timur Laut,2021-01-01,both,overall,overall,553.6
+Sabah,Beaufort,2021-01-01,both,overall,overall,76.5
+Sabah,Beluran,2021-01-01,both,overall,overall,80.5
+Sabah,Kalabakan,2021-01-01,both,overall,overall,50.2
+Sabah,Keningau,2021-01-01,both,overall,overall,151.2
+Sabah,Kinabatangan,2021-01-01,both,overall,overall,135.4
+Sabah,Kota Belud,2021-01-01,both,overall,overall,108.5
+Sabah,Kota Kinabalu,2021-01-01,both,overall,overall,496.4
+Sabah,Kota Marudu,2021-01-01,both,overall,overall,70.3
+Sabah,Kuala Penyu,2021-01-01,both,overall,overall,23.6
+Sabah,Kudat,2021-01-01,both,overall,overall,85.9
+Sabah,Kunak,2021-01-01,both,overall,overall,67.0
+Sabah,Lahad Datu,2021-01-01,both,overall,overall,233.2
+Sabah,Nabawan,2021-01-01,both,overall,overall,28.7
+Sabah,Papar,2021-01-01,both,overall,overall,151.3
+Sabah,Penampang,2021-01-01,both,overall,overall,165.5
+Sabah,Pitas,2021-01-01,both,overall,overall,37.1
+Sabah,Putatan,2021-01-01,both,overall,overall,69.2
+Sabah,Ranau,2021-01-01,both,overall,overall,86.4
+Sabah,Sandakan,2021-01-01,both,overall,overall,432.1
+Sabah,Semporna,2021-01-01,both,overall,overall,160.4
+Sabah,Sipitang,2021-01-01,both,overall,overall,37.5
+Sabah,Tambunan,2021-01-01,both,overall,overall,31.7
+Sabah,Tawau,2021-01-01,both,overall,overall,374.0
+Sabah,Telupid,2021-01-01,both,overall,overall,29.6
+Sabah,Tenom,2021-01-01,both,overall,overall,51.6
+Sabah,Tongod,2021-01-01,both,overall,overall,42.2
+Sabah,Tuaran,2021-01-01,both,overall,overall,136.5
+Sarawak,Asajaya,2021-01-01,both,overall,overall,33.8
+Sarawak,Bau,2021-01-01,both,overall,overall,52.9
+Sarawak,Belaga,2021-01-01,both,overall,overall,22.8
+Sarawak,Beluru,2021-01-01,both,overall,overall,29.3
+Sarawak,Betong,2021-01-01,both,overall,overall,36.3
+Sarawak,Bintulu,2021-01-01,both,overall,overall,177.0
+Sarawak,Bukit Mabong,2021-01-01,both,overall,overall,10.3
+Sarawak,Dalat,2021-01-01,both,overall,overall,21.1
+Sarawak,Daro,2021-01-01,both,overall,overall,19.5
+Sarawak,Julau,2021-01-01,both,overall,overall,15.3
+Sarawak,Kabong,2021-01-01,both,overall,overall,18.5
+Sarawak,Kanowit,2021-01-01,both,overall,overall,24.7
+Sarawak,Kapit,2021-01-01,both,overall,overall,36.0
+Sarawak,Kuching,2021-01-01,both,overall,overall,612.5
+Sarawak,Lawas,2021-01-01,both,overall,overall,36.9
+Sarawak,Limbang,2021-01-01,both,overall,overall,45.3
+Sarawak,Lubok Antu,2021-01-01,both,overall,overall,24.7
+Sarawak,Lundu,2021-01-01,both,overall,overall,33.7
+Sarawak,Maradong,2021-01-01,both,overall,overall,20.4
+Sarawak,Marudi,2021-01-01,both,overall,overall,19.2
+Sarawak,Matu,2021-01-01,both,overall,overall,16.6
+Sarawak,Miri,2021-01-01,both,overall,overall,250.4
+Sarawak,Mukah,2021-01-01,both,overall,overall,42.8
+Sarawak,Pakan,2021-01-01,both,overall,overall,15.5
+Sarawak,Pusa,2021-01-01,both,overall,overall,19.6
+Sarawak,Samarahan,2021-01-01,both,overall,overall,132.7
+Sarawak,Saratok,2021-01-01,both,overall,overall,23.1
+Sarawak,Sarikei,2021-01-01,both,overall,overall,44.2
+Sarawak,Sebauh,2021-01-01,both,overall,overall,28.2
+Sarawak,Selangau,2021-01-01,both,overall,overall,19.8
+Sarawak,Serian,2021-01-01,both,overall,overall,85.5
+Sarawak,Sibu,2021-01-01,both,overall,overall,247.6
+Sarawak,Simunjan,2021-01-01,both,overall,overall,36.4
+Sarawak,Song,2021-01-01,both,overall,overall,10.0
+Sarawak,Sri Aman,2021-01-01,both,overall,overall,61.3
+Sarawak,Subis,2021-01-01,both,overall,overall,58.7
+Sarawak,Tanjung Manis,2021-01-01,both,overall,overall,8.1
+Sarawak,Tatau,2021-01-01,both,overall,overall,32.4
+Sarawak,Tebedu,2021-01-01,both,overall,overall,25.2
+Sarawak,Telang Usan,2021-01-01,both,overall,overall,17.4
+Selangor,Gombak,2021-01-01,both,overall,overall,948.0
+Selangor,Klang,2021-01-01,both,overall,overall,1078.7
+Selangor,Kuala Langat,2021-01-01,both,overall,overall,312.2
+Selangor,Kuala Selangor,2021-01-01,both,overall,overall,285.1
+Selangor,Petaling,2021-01-01,both,overall,overall,2315.7
+Selangor,Sabak Bernam,2021-01-01,both,overall,overall,107.5
+Selangor,Sepang,2021-01-01,both,overall,overall,330.7
+Selangor,Ulu Langat,2021-01-01,both,overall,overall,1393.3
+Selangor,Ulu Selangor,2021-01-01,both,overall,overall,243.4
+Terengganu,Besut,2021-01-01,both,overall,overall,156.8
+Terengganu,Dungun,2021-01-01,both,overall,overall,160.7
+Terengganu,Hulu Terengganu,2021-01-01,both,overall,overall,71.6
+Terengganu,Kemaman,2021-01-01,both,overall,overall,218.7
+Terengganu,Kuala Nerus,2021-01-01,both,overall,overall,149.3
+Terengganu,Kuala Terengganu,2021-01-01,both,overall,overall,233.6
+Terengganu,Marang,2021-01-01,both,overall,overall,119.5
+Terengganu,Setiu,2021-01-01,both,overall,overall,60.5
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2021-01-01,both,overall,overall,1964.0
+W.P. Labuan,W.P. Labuan,2021-01-01,both,overall,overall,96.0
+W.P. Putrajaya,W.P. Putrajaya,2021-01-01,both,overall,overall,115.2
+Johor,Batu Pahat,2022-01-01,both,overall,overall,497.5
+Johor,Johor Bahru,2022-01-01,both,overall,overall,1723.7
+Johor,Kluang,2022-01-01,both,overall,overall,323.5
+Johor,Kota Tinggi,2022-01-01,both,overall,overall,224.9
+Johor,Kulai,2022-01-01,both,overall,overall,329.2
+Johor,Mersing,2022-01-01,both,overall,overall,79.1
+Johor,Muar,2022-01-01,both,overall,overall,314.0
+Johor,Pontian,2022-01-01,both,overall,overall,173.6
+Johor,Segamat,2022-01-01,both,overall,overall,198.2
+Johor,Tangkak,2022-01-01,both,overall,overall,164.6
+Kedah,Baling,2022-01-01,both,overall,overall,144.9
+Kedah,Bandar Baharu,2022-01-01,both,overall,overall,44.7
+Kedah,Kota Setar,2022-01-01,both,overall,overall,376.8
+Kedah,Kuala Muda,2022-01-01,both,overall,overall,550.5
+Kedah,Kubang Pasu,2022-01-01,both,overall,overall,249.7
+Kedah,Kulim,2022-01-01,both,overall,overall,341.3
+Kedah,Langkawi,2022-01-01,both,overall,overall,96.4
+Kedah,Padang Terap,2022-01-01,both,overall,overall,66.5
+Kedah,Pendang,2022-01-01,both,overall,overall,99.8
+Kedah,Pokok Sena,2022-01-01,both,overall,overall,50.0
+Kedah,Sik,2022-01-01,both,overall,overall,68.6
+Kedah,Yan,2022-01-01,both,overall,overall,73.8
+Kelantan,Bachok,2022-01-01,both,overall,overall,160.7
+Kelantan,Gua Musang,2022-01-01,both,overall,overall,104.0
+Kelantan,Jeli,2022-01-01,both,overall,overall,56.1
+Kelantan,Kecil Lojing,2022-01-01,both,overall,overall,10.8
+Kelantan,Kota Bharu,2022-01-01,both,overall,overall,567.5
+Kelantan,Kuala Krai,2022-01-01,both,overall,overall,107.1
+Kelantan,Machang,2022-01-01,both,overall,overall,113.9
+Kelantan,Pasir Mas,2022-01-01,both,overall,overall,234.2
+Kelantan,Pasir Puteh,2022-01-01,both,overall,overall,138.9
+Kelantan,Tanah Merah,2022-01-01,both,overall,overall,153.7
+Kelantan,Tumpat,2022-01-01,both,overall,overall,183.7
+Melaka,Alor Gajah,2022-01-01,both,overall,overall,251.8
+Melaka,Jasin,2022-01-01,both,overall,overall,153.9
+Melaka,Melaka Tengah,2022-01-01,both,overall,overall,602.8
+Negeri Sembilan,Jelebu,2022-01-01,both,overall,overall,46.3
+Negeri Sembilan,Jempol,2022-01-01,both,overall,overall,127.6
+Negeri Sembilan,Kuala Pilah,2022-01-01,both,overall,overall,70.4
+Negeri Sembilan,Port Dickson,2022-01-01,both,overall,overall,130.1
+Negeri Sembilan,Rembau,2022-01-01,both,overall,overall,47.8
+Negeri Sembilan,Seremban,2022-01-01,both,overall,overall,696.9
+Negeri Sembilan,Tampin,2022-01-01,both,overall,overall,88.8
+Pahang,Bentong,2022-01-01,both,overall,overall,116.7
+Pahang,Bera,2022-01-01,both,overall,overall,98.9
+Pahang,Cameron Highlands,2022-01-01,both,overall,overall,39.2
+Pahang,Jerantut,2022-01-01,both,overall,overall,97.0
+Pahang,Kuantan,2022-01-01,both,overall,overall,557.9
+Pahang,Lipis,2022-01-01,both,overall,overall,97.9
+Pahang,Maran,2022-01-01,both,overall,overall,114.7
+Pahang,Pekan,2022-01-01,both,overall,overall,123.5
+Pahang,Raub,2022-01-01,both,overall,overall,96.8
+Pahang,Rompin,2022-01-01,both,overall,overall,100.4
+Pahang,Temerloh,2022-01-01,both,overall,overall,171.4
+Perak,Bagan Datuk,2022-01-01,both,overall,overall,82.3
+Perak,Batang Padang,2022-01-01,both,overall,overall,125.7
+Perak,Hilir Perak,2022-01-01,both,overall,overall,142.3
+Perak,Hulu Perak,2022-01-01,both,overall,overall,95.9
+Perak,Kampar,2022-01-01,both,overall,overall,98.2
+Perak,Kerian,2022-01-01,both,overall,overall,167.5
+Perak,Kinta,2022-01-01,both,overall,overall,895.8
+Perak,Kuala Kangsar,2022-01-01,both,overall,overall,176.7
+Perak,Larut Dan Matang,2022-01-01,both,overall,overall,272.6
+Perak,Manjung,2022-01-01,both,overall,overall,249.6
+Perak,Muallim,2022-01-01,both,overall,overall,78.0
+Perak,Perak Tengah,2022-01-01,both,overall,overall,95.6
+Perak,Selama,2022-01-01,both,overall,overall,34.5
+Perlis,Perlis,2022-01-01,both,overall,overall,289.8
+Pulau Pinang,Barat Daya,2022-01-01,both,overall,overall,239.6
+Pulau Pinang,Seberang Perai Selatan,2022-01-01,both,overall,overall,185.5
+Pulau Pinang,Seberang Perai Tengah,2022-01-01,both,overall,overall,422.8
+Pulau Pinang,Seberang Perai Utara,2022-01-01,both,overall,overall,341.3
+Pulau Pinang,Timur Laut,2022-01-01,both,overall,overall,551.8
+Sabah,Beaufort,2022-01-01,both,overall,overall,76.1
+Sabah,Beluran,2022-01-01,both,overall,overall,76.3
+Sabah,Kalabakan,2022-01-01,both,overall,overall,46.6
+Sabah,Keningau,2022-01-01,both,overall,overall,153.2
+Sabah,Kinabatangan,2022-01-01,both,overall,overall,138.1
+Sabah,Kota Belud,2022-01-01,both,overall,overall,108.3
+Sabah,Kota Kinabalu,2022-01-01,both,overall,overall,500.8
+Sabah,Kota Marudu,2022-01-01,both,overall,overall,71.1
+Sabah,Kuala Penyu,2022-01-01,both,overall,overall,23.7
+Sabah,Kudat,2022-01-01,both,overall,overall,87.3
+Sabah,Kunak,2022-01-01,both,overall,overall,67.8
+Sabah,Lahad Datu,2022-01-01,both,overall,overall,226.9
+Sabah,Nabawan,2022-01-01,both,overall,overall,29.2
+Sabah,Papar,2022-01-01,both,overall,overall,152.6
+Sabah,Penampang,2022-01-01,both,overall,overall,163.2
+Sabah,Pitas,2022-01-01,both,overall,overall,37.3
+Sabah,Putatan,2022-01-01,both,overall,overall,69.2
+Sabah,Ranau,2022-01-01,both,overall,overall,86.3
+Sabah,Sandakan,2022-01-01,both,overall,overall,435.3
+Sabah,Semporna,2022-01-01,both,overall,overall,165.4
+Sabah,Sipitang,2022-01-01,both,overall,overall,38.1
+Sabah,Tambunan,2022-01-01,both,overall,overall,32.1
+Sabah,Tawau,2022-01-01,both,overall,overall,369.6
+Sabah,Telupid,2022-01-01,both,overall,overall,28.9
+Sabah,Tenom,2022-01-01,both,overall,overall,52.0
+Sabah,Tongod,2022-01-01,both,overall,overall,42.2
+Sabah,Tuaran,2022-01-01,both,overall,overall,137.1
+Sarawak,Asajaya,2022-01-01,both,overall,overall,34.1
+Sarawak,Bau,2022-01-01,both,overall,overall,53.1
+Sarawak,Belaga,2022-01-01,both,overall,overall,22.6
+Sarawak,Beluru,2022-01-01,both,overall,overall,28.0
+Sarawak,Betong,2022-01-01,both,overall,overall,36.5
+Sarawak,Bintulu,2022-01-01,both,overall,overall,179.7
+Sarawak,Bukit Mabong,2022-01-01,both,overall,overall,10.4
+Sarawak,Dalat,2022-01-01,both,overall,overall,21.2
+Sarawak,Daro,2022-01-01,both,overall,overall,19.6
+Sarawak,Julau,2022-01-01,both,overall,overall,15.4
+Sarawak,Kabong,2022-01-01,both,overall,overall,18.6
+Sarawak,Kanowit,2022-01-01,both,overall,overall,24.6
+Sarawak,Kapit,2022-01-01,both,overall,overall,36.2
+Sarawak,Kuching,2022-01-01,both,overall,overall,615.8
+Sarawak,Lawas,2022-01-01,both,overall,overall,37.2
+Sarawak,Limbang,2022-01-01,both,overall,overall,45.6
+Sarawak,Lubok Antu,2022-01-01,both,overall,overall,24.6
+Sarawak,Lundu,2022-01-01,both,overall,overall,33.8
+Sarawak,Maradong,2022-01-01,both,overall,overall,20.5
+Sarawak,Marudi,2022-01-01,both,overall,overall,18.8
+Sarawak,Matu,2022-01-01,both,overall,overall,16.4
+Sarawak,Miri,2022-01-01,both,overall,overall,251.2
+Sarawak,Mukah,2022-01-01,both,overall,overall,42.5
+Sarawak,Pakan,2022-01-01,both,overall,overall,15.6
+Sarawak,Pusa,2022-01-01,both,overall,overall,19.7
+Sarawak,Samarahan,2022-01-01,both,overall,overall,133.5
+Sarawak,Saratok,2022-01-01,both,overall,overall,23.1
+Sarawak,Sarikei,2022-01-01,both,overall,overall,44.4
+Sarawak,Sebauh,2022-01-01,both,overall,overall,29.1
+Sarawak,Selangau,2022-01-01,both,overall,overall,19.9
+Sarawak,Serian,2022-01-01,both,overall,overall,86.0
+Sarawak,Sibu,2022-01-01,both,overall,overall,249.0
+Sarawak,Simunjan,2022-01-01,both,overall,overall,36.5
+Sarawak,Song,2022-01-01,both,overall,overall,10.0
+Sarawak,Sri Aman,2022-01-01,both,overall,overall,61.1
+Sarawak,Subis,2022-01-01,both,overall,overall,56.6
+Sarawak,Tanjung Manis,2022-01-01,both,overall,overall,7.9
+Sarawak,Tatau,2022-01-01,both,overall,overall,32.0
+Sarawak,Tebedu,2022-01-01,both,overall,overall,25.3
+Sarawak,Telang Usan,2022-01-01,both,overall,overall,17.4
+Selangor,Gombak,2022-01-01,both,overall,overall,950.2
+Selangor,Klang,2022-01-01,both,overall,overall,1094.1
+Selangor,Kuala Langat,2022-01-01,both,overall,overall,314.5
+Selangor,Kuala Selangor,2022-01-01,both,overall,overall,287.6
+Selangor,Petaling,2022-01-01,both,overall,overall,2304.8
+Selangor,Sabak Bernam,2022-01-01,both,overall,overall,107.9
+Selangor,Sepang,2022-01-01,both,overall,overall,331.5
+Selangor,Ulu Langat,2022-01-01,both,overall,overall,1413.3
+Selangor,Ulu Selangor,2022-01-01,both,overall,overall,246.4
+Terengganu,Besut,2022-01-01,both,overall,overall,159.3
+Terengganu,Dungun,2022-01-01,both,overall,overall,162.5
+Terengganu,Hulu Terengganu,2022-01-01,both,overall,overall,72.3
+Terengganu,Kemaman,2022-01-01,both,overall,overall,221.7
+Terengganu,Kuala Nerus,2022-01-01,both,overall,overall,151.1
+Terengganu,Kuala Terengganu,2022-01-01,both,overall,overall,236.7
+Terengganu,Marang,2022-01-01,both,overall,overall,121.5
+Terengganu,Setiu,2022-01-01,both,overall,overall,61.5
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2022-01-01,both,overall,overall,1961.2
+W.P. Labuan,W.P. Labuan,2022-01-01,both,overall,overall,96.9
+W.P. Putrajaya,W.P. Putrajaya,2022-01-01,both,overall,overall,117.0
+Johor,Batu Pahat,2023-01-01,both,overall,overall,504.0
+Johor,Johor Bahru,2023-01-01,both,overall,overall,1761.6
+Johor,Kluang,2023-01-01,both,overall,overall,328.7
+Johor,Kota Tinggi,2023-01-01,both,overall,overall,229.3
+Johor,Mersing,2023-01-01,both,overall,overall,80.1
+Johor,Muar,2023-01-01,both,overall,overall,318.7
+Johor,Pontian,2023-01-01,both,overall,overall,175.8
+Johor,Segamat,2023-01-01,both,overall,overall,201.6
+Johor,Kulai,2023-01-01,both,overall,overall,340.3
+Johor,Tangkak,2023-01-01,both,overall,overall,167.1
+Kedah,Baling,2023-01-01,both,overall,overall,146.7
+Kedah,Bandar Baharu,2023-01-01,both,overall,overall,45.1
+Kedah,Kota Setar,2023-01-01,both,overall,overall,379.3
+Kedah,Kuala Muda,2023-01-01,both,overall,overall,560.3
+Kedah,Kubang Pasu,2023-01-01,both,overall,overall,251.5
+Kedah,Kulim,2023-01-01,both,overall,overall,346.4
+Kedah,Langkawi,2023-01-01,both,overall,overall,98.0
+Kedah,Padang Terap,2023-01-01,both,overall,overall,67.1
+Kedah,Sik,2023-01-01,both,overall,overall,69.3
+Kedah,Yan,2023-01-01,both,overall,overall,74.3
+Kedah,Pendang,2023-01-01,both,overall,overall,100.7
+Kedah,Pokok Sena,2023-01-01,both,overall,overall,50.5
+Kelantan,Bachok,2023-01-01,both,overall,overall,163.1
+Kelantan,Kota Bharu,2023-01-01,both,overall,overall,575.8
+Kelantan,Machang,2023-01-01,both,overall,overall,115.3
+Kelantan,Pasir Mas,2023-01-01,both,overall,overall,237.5
+Kelantan,Pasir Puteh,2023-01-01,both,overall,overall,141.0
+Kelantan,Tanah Merah,2023-01-01,both,overall,overall,156.1
+Kelantan,Tumpat,2023-01-01,both,overall,overall,186.5
+Kelantan,Gua Musang,2023-01-01,both,overall,overall,107.2
+Kelantan,Kuala Krai,2023-01-01,both,overall,overall,109.4
+Kelantan,Jeli,2023-01-01,both,overall,overall,56.9
+Kelantan,Kecil Lojing,2023-01-01,both,overall,overall,11.1
+Melaka,Alor Gajah,2023-01-01,both,overall,overall,256.3
+Melaka,Jasin,2023-01-01,both,overall,overall,154.5
+Melaka,Melaka Tengah,2023-01-01,both,overall,overall,617.5
+Negeri Sembilan,Jelebu,2023-01-01,both,overall,overall,47.5
+Negeri Sembilan,Kuala Pilah,2023-01-01,both,overall,overall,71.4
+Negeri Sembilan,Port Dickson,2023-01-01,both,overall,overall,132.7
+Negeri Sembilan,Rembau,2023-01-01,both,overall,overall,48.5
+Negeri Sembilan,Seremban,2023-01-01,both,overall,overall,705.5
+Negeri Sembilan,Tampin,2023-01-01,both,overall,overall,89.8
+Negeri Sembilan,Jempol,2023-01-01,both,overall,overall,129.5
+Pahang,Bentong,2023-01-01,both,overall,overall,119.6
+Pahang,Cameron Highlands,2023-01-01,both,overall,overall,40.9
+Pahang,Jerantut,2023-01-01,both,overall,overall,98.6
+Pahang,Kuantan,2023-01-01,both,overall,overall,565.8
+Pahang,Lipis,2023-01-01,both,overall,overall,100.1
+Pahang,Pekan,2023-01-01,both,overall,overall,125.9
+Pahang,Raub,2023-01-01,both,overall,overall,98.8
+Pahang,Temerloh,2023-01-01,both,overall,overall,174.7
+Pahang,Rompin,2023-01-01,both,overall,overall,101.6
+Pahang,Maran,2023-01-01,both,overall,overall,117.0
+Pahang,Bera,2023-01-01,both,overall,overall,100.1
+Pulau Pinang,Seberang Perai Tengah,2023-01-01,both,overall,overall,433.5
+Pulau Pinang,Seberang Perai Utara,2023-01-01,both,overall,overall,346.6
+Pulau Pinang,Seberang Perai Selatan,2023-01-01,both,overall,overall,186.8
+Pulau Pinang,Timur Laut,2023-01-01,both,overall,overall,561.6
+Pulau Pinang,Barat Daya,2023-01-01,both,overall,overall,244.2
+Perak,Batang Padang,2023-01-01,both,overall,overall,126.2
+Perak,Manjung,2023-01-01,both,overall,overall,252.3
+Perak,Kinta,2023-01-01,both,overall,overall,909.1
+Perak,Kerian,2023-01-01,both,overall,overall,168.5
+Perak,Kuala Kangsar,2023-01-01,both,overall,overall,178.3
+Perak,Larut Dan Matang,2023-01-01,both,overall,overall,275.4
+Perak,Hilir Perak,2023-01-01,both,overall,overall,142.1
+Perak,Hulu Perak,2023-01-01,both,overall,overall,97.1
+Perak,Perak Tengah,2023-01-01,both,overall,overall,97.2
+Perak,Kampar,2023-01-01,both,overall,overall,98.9
+Perak,Muallim,2023-01-01,both,overall,overall,78.6
+Perak,Bagan Datuk,2023-01-01,both,overall,overall,82.8
+Perak,Selama,2023-01-01,both,overall,overall,34.8
+Selangor,Gombak,2023-01-01,both,overall,overall,966.2
+Selangor,Klang,2023-01-01,both,overall,overall,1134.0
+Selangor,Kuala Langat,2023-01-01,both,overall,overall,320.7
+Selangor,Kuala Selangor,2023-01-01,both,overall,overall,293.2
+Selangor,Petaling,2023-01-01,both,overall,overall,2334.7
+Selangor,Sabak Bernam,2023-01-01,both,overall,overall,109.2
+Selangor,Sepang,2023-01-01,both,overall,overall,339.2
+Selangor,Ulu Langat,2023-01-01,both,overall,overall,1460.3
+Selangor,Ulu Selangor,2023-01-01,both,overall,overall,252.2
+Terengganu,Besut,2023-01-01,both,overall,overall,162.6
+Terengganu,Dungun,2023-01-01,both,overall,overall,165.3
+Terengganu,Kemaman,2023-01-01,both,overall,overall,226.7
+Terengganu,Kuala Terengganu,2023-01-01,both,overall,overall,241.0
+Terengganu,Marang,2023-01-01,both,overall,overall,124.2
+Terengganu,Hulu Terengganu,2023-01-01,both,overall,overall,73.7
+Terengganu,Setiu,2023-01-01,both,overall,overall,62.9
+Terengganu,Kuala Nerus,2023-01-01,both,overall,overall,153.6
+Sabah,Tawau,2023-01-01,both,overall,overall,394.2
+Sabah,Lahad Datu,2023-01-01,both,overall,overall,242.1
+Sabah,Semporna,2023-01-01,both,overall,overall,186.0
+Sabah,Sandakan,2023-01-01,both,overall,overall,470.4
+Sabah,Kinabatangan,2023-01-01,both,overall,overall,149.1
+Sabah,Beluran,2023-01-01,both,overall,overall,83.9
+Sabah,Kota Kinabalu,2023-01-01,both,overall,overall,525.7
+Sabah,Ranau,2023-01-01,both,overall,overall,87.5
+Sabah,Kota Belud,2023-01-01,both,overall,overall,109.6
+Sabah,Tuaran,2023-01-01,both,overall,overall,140.0
+Sabah,Penampang,2023-01-01,both,overall,overall,165.9
+Sabah,Papar,2023-01-01,both,overall,overall,154.8
+Sabah,Kudat,2023-01-01,both,overall,overall,90.7
+Sabah,Kota Marudu,2023-01-01,both,overall,overall,72.4
+Sabah,Pitas,2023-01-01,both,overall,overall,38.0
+Sabah,Beaufort,2023-01-01,both,overall,overall,77.0
+Sabah,Kuala Penyu,2023-01-01,both,overall,overall,24.2
+Sabah,Sipitang,2023-01-01,both,overall,overall,39.4
+Sabah,Tenom,2023-01-01,both,overall,overall,52.9
+Sabah,Nabawan,2023-01-01,both,overall,overall,30.1
+Sabah,Keningau,2023-01-01,both,overall,overall,156.1
+Sabah,Tambunan,2023-01-01,both,overall,overall,32.7
+Sabah,Kunak,2023-01-01,both,overall,overall,76.2
+Sabah,Tongod,2023-01-01,both,overall,overall,44.0
+Sabah,Putatan,2023-01-01,both,overall,overall,70.2
+Sabah,Telupid,2023-01-01,both,overall,overall,30.3
+Sabah,Kalabakan,2023-01-01,both,overall,overall,53.3
+Sarawak,Kuching,2023-01-01,both,overall,overall,621.3
+Sarawak,Bau,2023-01-01,both,overall,overall,53.6
+Sarawak,Lundu,2023-01-01,both,overall,overall,34.2
+Sarawak,Samarahan,2023-01-01,both,overall,overall,134.6
+Sarawak,Serian,2023-01-01,both,overall,overall,86.9
+Sarawak,Simunjan,2023-01-01,both,overall,overall,36.9
+Sarawak,Sri Aman,2023-01-01,both,overall,overall,61.3
+Sarawak,Lubok Antu,2023-01-01,both,overall,overall,24.6
+Sarawak,Betong,2023-01-01,both,overall,overall,36.8
+Sarawak,Saratok,2023-01-01,both,overall,overall,23.4
+Sarawak,Sarikei,2023-01-01,both,overall,overall,44.7
+Sarawak,Maradong,2023-01-01,both,overall,overall,20.7
+Sarawak,Daro,2023-01-01,both,overall,overall,19.9
+Sarawak,Julau,2023-01-01,both,overall,overall,15.5
+Sarawak,Sibu,2023-01-01,both,overall,overall,252.9
+Sarawak,Dalat,2023-01-01,both,overall,overall,21.6
+Sarawak,Mukah,2023-01-01,both,overall,overall,42.7
+Sarawak,Kanowit,2023-01-01,both,overall,overall,24.9
+Sarawak,Bintulu,2023-01-01,both,overall,overall,185.2
+Sarawak,Tatau,2023-01-01,both,overall,overall,32.1
+Sarawak,Kapit,2023-01-01,both,overall,overall,36.6
+Sarawak,Song,2023-01-01,both,overall,overall,10.2
+Sarawak,Belaga,2023-01-01,both,overall,overall,22.7
+Sarawak,Miri,2023-01-01,both,overall,overall,254.4
+Sarawak,Marudi,2023-01-01,both,overall,overall,18.7
+Sarawak,Limbang,2023-01-01,both,overall,overall,46.1
+Sarawak,Lawas,2023-01-01,both,overall,overall,37.7
+Sarawak,Matu,2023-01-01,both,overall,overall,16.5
+Sarawak,Asajaya,2023-01-01,both,overall,overall,34.5
+Sarawak,Pakan,2023-01-01,both,overall,overall,15.6
+Sarawak,Selangau,2023-01-01,both,overall,overall,20.3
+Sarawak,Tebedu,2023-01-01,both,overall,overall,25.5
+Sarawak,Pusa,2023-01-01,both,overall,overall,20.0
+Sarawak,Kabong,2023-01-01,both,overall,overall,18.8
+Sarawak,Tanjung Manis,2023-01-01,both,overall,overall,8.0
+Sarawak,Sebauh,2023-01-01,both,overall,overall,31.2
+Sarawak,Bukit Mabong,2023-01-01,both,overall,overall,10.6
+Sarawak,Subis,2023-01-01,both,overall,overall,56.0
+Sarawak,Beluru,2023-01-01,both,overall,overall,27.7
+Sarawak,Telang Usan,2023-01-01,both,overall,overall,17.4
+Perlis,Perlis,2023-01-01,both,overall,overall,293.1
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2023-01-01,both,overall,overall,2005.7
+W.P. Labuan,W.P. Labuan,2023-01-01,both,overall,overall,99.0
+W.P. Putrajaya,W.P. Putrajaya,2023-01-01,both,overall,overall,118.8
+Johor,Batu Pahat,2024-01-01,both,overall,overall,510.1
+Johor,Johor Bahru,2024-01-01,both,overall,overall,1799.1
+Johor,Kluang,2024-01-01,both,overall,overall,333.7
+Johor,Kota Tinggi,2024-01-01,both,overall,overall,233.5
+Johor,Mersing,2024-01-01,both,overall,overall,81.0
+Johor,Muar,2024-01-01,both,overall,overall,323.2
+Johor,Pontian,2024-01-01,both,overall,overall,177.9
+Johor,Segamat,2024-01-01,both,overall,overall,205.1
+Johor,Kulai,2024-01-01,both,overall,overall,351.3
+Johor,Tangkak,2024-01-01,both,overall,overall,169.4
+Kedah,Baling,2024-01-01,both,overall,overall,148.1
+Kedah,Bandar Baharu,2024-01-01,both,overall,overall,45.6
+Kedah,Kota Setar,2024-01-01,both,overall,overall,381.7
+Kedah,Kuala Muda,2024-01-01,both,overall,overall,571.3
+Kedah,Kubang Pasu,2024-01-01,both,overall,overall,253.3
+Kedah,Kulim,2024-01-01,both,overall,overall,352.2
+Kedah,Langkawi,2024-01-01,both,overall,overall,99.8
+Kedah,Padang Terap,2024-01-01,both,overall,overall,67.7
+Kedah,Sik,2024-01-01,both,overall,overall,70.1
+Kedah,Yan,2024-01-01,both,overall,overall,74.7
+Kedah,Pendang,2024-01-01,both,overall,overall,101.5
+Kedah,Pokok Sena,2024-01-01,both,overall,overall,51.0
+Kelantan,Bachok,2024-01-01,both,overall,overall,165.5
+Kelantan,Kota Bharu,2024-01-01,both,overall,overall,583.7
+Kelantan,Machang,2024-01-01,both,overall,overall,116.7
+Kelantan,Pasir Mas,2024-01-01,both,overall,overall,240.4
+Kelantan,Pasir Puteh,2024-01-01,both,overall,overall,142.9
+Kelantan,Tanah Merah,2024-01-01,both,overall,overall,158.4
+Kelantan,Tumpat,2024-01-01,both,overall,overall,189.1
+Kelantan,Gua Musang,2024-01-01,both,overall,overall,110.5
+Kelantan,Kuala Krai,2024-01-01,both,overall,overall,111.6
+Kelantan,Jeli,2024-01-01,both,overall,overall,57.7
+Kelantan,Kecil Lojing,2024-01-01,both,overall,overall,11.3
+Melaka,Alor Gajah,2024-01-01,both,overall,overall,260.5
+Melaka,Jasin,2024-01-01,both,overall,overall,156.4
+Melaka,Melaka Tengah,2024-01-01,both,overall,overall,629.9
+Negeri Sembilan,Jelebu,2024-01-01,both,overall,overall,48.7
+Negeri Sembilan,Kuala Pilah,2024-01-01,both,overall,overall,72.3
+Negeri Sembilan,Port Dickson,2024-01-01,both,overall,overall,135.2
+Negeri Sembilan,Rembau,2024-01-01,both,overall,overall,49.3
+Negeri Sembilan,Seremban,2024-01-01,both,overall,overall,712.3
+Negeri Sembilan,Tampin,2024-01-01,both,overall,overall,90.5
+Negeri Sembilan,Jempol,2024-01-01,both,overall,overall,131.2
+Pahang,Bentong,2024-01-01,both,overall,overall,121.2
+Pahang,Cameron Highlands,2024-01-01,both,overall,overall,44.5
+Pahang,Jerantut,2024-01-01,both,overall,overall,99.9
+Pahang,Kuantan,2024-01-01,both,overall,overall,571.1
+Pahang,Lipis,2024-01-01,both,overall,overall,102.2
+Pahang,Pekan,2024-01-01,both,overall,overall,127.8
+Pahang,Raub,2024-01-01,both,overall,overall,100.2
+Pahang,Temerloh,2024-01-01,both,overall,overall,177.8
+Pahang,Rompin,2024-01-01,both,overall,overall,102.9
+Pahang,Maran,2024-01-01,both,overall,overall,119.0
+Pahang,Bera,2024-01-01,both,overall,overall,101.0
+Pulau Pinang,Seberang Perai Tengah,2024-01-01,both,overall,overall,443.2
+Pulau Pinang,Seberang Perai Utara,2024-01-01,both,overall,overall,351.0
+Pulau Pinang,Seberang Perai Selatan,2024-01-01,both,overall,overall,188.1
+Pulau Pinang,Timur Laut,2024-01-01,both,overall,overall,569.9
+Pulau Pinang,Barat Daya,2024-01-01,both,overall,overall,248.2
+Perak,Batang Padang,2024-01-01,both,overall,overall,126.8
+Perak,Manjung,2024-01-01,both,overall,overall,255.2
+Perak,Kinta,2024-01-01,both,overall,overall,923.0
+Perak,Kerian,2024-01-01,both,overall,overall,169.5
+Perak,Kuala Kangsar,2024-01-01,both,overall,overall,179.9
+Perak,Larut Dan Matang,2024-01-01,both,overall,overall,278.3
+Perak,Hilir Perak,2024-01-01,both,overall,overall,141.8
+Perak,Hulu Perak,2024-01-01,both,overall,overall,98.4
+Perak,Perak Tengah,2024-01-01,both,overall,overall,98.8
+Perak,Kampar,2024-01-01,both,overall,overall,99.9
+Perak,Muallim,2024-01-01,both,overall,overall,79.2
+Perak,Bagan Datuk,2024-01-01,both,overall,overall,83.4
+Perak,Selama,2024-01-01,both,overall,overall,35.2
+Selangor,Gombak,2024-01-01,both,overall,overall,979.9
+Selangor,Klang,2024-01-01,both,overall,overall,1174.7
+Selangor,Kuala Langat,2024-01-01,both,overall,overall,326.4
+Selangor,Kuala Selangor,2024-01-01,both,overall,overall,298.4
+Selangor,Petaling,2024-01-01,both,overall,overall,2359.7
+Selangor,Sabak Bernam,2024-01-01,both,overall,overall,110.3
+Selangor,Sepang,2024-01-01,both,overall,overall,347.0
+Selangor,Ulu Langat,2024-01-01,both,overall,overall,1508.0
+Selangor,Ulu Selangor,2024-01-01,both,overall,overall,258.3
+Terengganu,Besut,2024-01-01,both,overall,overall,165.4
+Terengganu,Dungun,2024-01-01,both,overall,overall,167.9
+Terengganu,Kemaman,2024-01-01,both,overall,overall,231.7
+Terengganu,Kuala Terengganu,2024-01-01,both,overall,overall,245.1
+Terengganu,Marang,2024-01-01,both,overall,overall,126.7
+Terengganu,Hulu Terengganu,2024-01-01,both,overall,overall,74.6
+Terengganu,Setiu,2024-01-01,both,overall,overall,64.3
+Terengganu,Kuala Nerus,2024-01-01,both,overall,overall,155.8
+Sabah,Tawau,2024-01-01,both,overall,overall,413.6
+Sabah,Lahad Datu,2024-01-01,both,overall,overall,253.8
+Sabah,Semporna,2024-01-01,both,overall,overall,199.4
+Sabah,Sandakan,2024-01-01,both,overall,overall,499.4
+Sabah,Kinabatangan,2024-01-01,both,overall,overall,164.3
+Sabah,Beluran,2024-01-01,both,overall,overall,90.0
+Sabah,Kota Kinabalu,2024-01-01,both,overall,overall,546.6
+Sabah,Ranau,2024-01-01,both,overall,overall,88.6
+Sabah,Kota Belud,2024-01-01,both,overall,overall,110.8
+Sabah,Tuaran,2024-01-01,both,overall,overall,142.2
+Sabah,Penampang,2024-01-01,both,overall,overall,167.6
+Sabah,Papar,2024-01-01,both,overall,overall,156.4
+Sabah,Kudat,2024-01-01,both,overall,overall,93.1
+Sabah,Kota Marudu,2024-01-01,both,overall,overall,73.7
+Sabah,Pitas,2024-01-01,both,overall,overall,38.6
+Sabah,Beaufort,2024-01-01,both,overall,overall,77.6
+Sabah,Kuala Penyu,2024-01-01,both,overall,overall,24.6
+Sabah,Sipitang,2024-01-01,both,overall,overall,40.5
+Sabah,Tenom,2024-01-01,both,overall,overall,53.8
+Sabah,Nabawan,2024-01-01,both,overall,overall,30.8
+Sabah,Keningau,2024-01-01,both,overall,overall,158.0
+Sabah,Tambunan,2024-01-01,both,overall,overall,33.3
+Sabah,Kunak,2024-01-01,both,overall,overall,79.6
+Sabah,Tongod,2024-01-01,both,overall,overall,44.9
+Sabah,Putatan,2024-01-01,both,overall,overall,71.0
+Sabah,Telupid,2024-01-01,both,overall,overall,31.2
+Sabah,Kalabakan,2024-01-01,both,overall,overall,58.7
+Sarawak,Kuching,2024-01-01,both,overall,overall,625.0
+Sarawak,Bau,2024-01-01,both,overall,overall,53.8
+Sarawak,Lundu,2024-01-01,both,overall,overall,34.4
+Sarawak,Samarahan,2024-01-01,both,overall,overall,135.6
+Sarawak,Serian,2024-01-01,both,overall,overall,87.6
+Sarawak,Simunjan,2024-01-01,both,overall,overall,37.0
+Sarawak,Sri Aman,2024-01-01,both,overall,overall,61.3
+Sarawak,Lubok Antu,2024-01-01,both,overall,overall,24.6
+Sarawak,Betong,2024-01-01,both,overall,overall,37.0
+Sarawak,Saratok,2024-01-01,both,overall,overall,23.5
+Sarawak,Sarikei,2024-01-01,both,overall,overall,45.0
+Sarawak,Maradong,2024-01-01,both,overall,overall,20.8
+Sarawak,Daro,2024-01-01,both,overall,overall,20.0
+Sarawak,Julau,2024-01-01,both,overall,overall,15.6
+Sarawak,Sibu,2024-01-01,both,overall,overall,255.4
+Sarawak,Dalat,2024-01-01,both,overall,overall,21.7
+Sarawak,Mukah,2024-01-01,both,overall,overall,42.5
+Sarawak,Kanowit,2024-01-01,both,overall,overall,25.0
+Sarawak,Bintulu,2024-01-01,both,overall,overall,189.0
+Sarawak,Tatau,2024-01-01,both,overall,overall,31.9
+Sarawak,Kapit,2024-01-01,both,overall,overall,36.9
+Sarawak,Song,2024-01-01,both,overall,overall,10.3
+Sarawak,Belaga,2024-01-01,both,overall,overall,22.6
+Sarawak,Miri,2024-01-01,both,overall,overall,256.1
+Sarawak,Marudi,2024-01-01,both,overall,overall,18.4
+Sarawak,Limbang,2024-01-01,both,overall,overall,46.5
+Sarawak,Lawas,2024-01-01,both,overall,overall,38.1
+Sarawak,Matu,2024-01-01,both,overall,overall,16.4
+Sarawak,Asajaya,2024-01-01,both,overall,overall,34.8
+Sarawak,Pakan,2024-01-01,both,overall,overall,15.7
+Sarawak,Selangau,2024-01-01,both,overall,overall,20.5
+Sarawak,Tebedu,2024-01-01,both,overall,overall,25.7
+Sarawak,Pusa,2024-01-01,both,overall,overall,20.2
+Sarawak,Kabong,2024-01-01,both,overall,overall,19.0
+Sarawak,Tanjung Manis,2024-01-01,both,overall,overall,7.9
+Sarawak,Sebauh,2024-01-01,both,overall,overall,31.3
+Sarawak,Bukit Mabong,2024-01-01,both,overall,overall,10.6
+Sarawak,Subis,2024-01-01,both,overall,overall,55.5
+Sarawak,Beluru,2024-01-01,both,overall,overall,26.8
+Sarawak,Telang Usan,2024-01-01,both,overall,overall,17.4
+Perlis,Perlis,2024-01-01,both,overall,overall,296.8
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2024-01-01,both,overall,overall,2067.5
+W.P. Labuan,W.P. Labuan,2024-01-01,both,overall,overall,100.8
+W.P. Putrajaya,W.P. Putrajaya,2024-01-01,both,overall,overall,120.3
+Johor,Batu Pahat,2025-01-01,both,overall,overall,511.7
+Johor,Johor Bahru,2025-01-01,both,overall,overall,1813.4
+Johor,Kluang,2025-01-01,both,overall,overall,335.0
+Johor,Kota Tinggi,2025-01-01,both,overall,overall,234.6
+Johor,Mersing,2025-01-01,both,overall,overall,81.3
+Johor,Muar,2025-01-01,both,overall,overall,323.9
+Johor,Pontian,2025-01-01,both,overall,overall,177.8
+Johor,Segamat,2025-01-01,both,overall,overall,204.4
+Johor,Kulai,2025-01-01,both,overall,overall,352.7
+Johor,Tangkak,2025-01-01,both,overall,overall,169.2
+Kedah,Baling,2025-01-01,both,overall,overall,149.0
+Kedah,Bandar Baharu,2025-01-01,both,overall,overall,45.6
+Kedah,Kota Setar,2025-01-01,both,overall,overall,383.0
+Kedah,Kuala Muda,2025-01-01,both,overall,overall,574.5
+Kedah,Kubang Pasu,2025-01-01,both,overall,overall,254.1
+Kedah,Kulim,2025-01-01,both,overall,overall,353.8
+Kedah,Langkawi,2025-01-01,both,overall,overall,100.5
+Kedah,Padang Terap,2025-01-01,both,overall,overall,67.8
+Kedah,Sik,2025-01-01,both,overall,overall,70.4
+Kedah,Yan,2025-01-01,both,overall,overall,75.1
+Kedah,Pendang,2025-01-01,both,overall,overall,101.9
+Kedah,Pokok Sena,2025-01-01,both,overall,overall,51.2
+Kelantan,Bachok,2025-01-01,both,overall,overall,167.5
+Kelantan,Kota Bharu,2025-01-01,both,overall,overall,589.8
+Kelantan,Machang,2025-01-01,both,overall,overall,117.6
+Kelantan,Pasir Mas,2025-01-01,both,overall,overall,242.8
+Kelantan,Pasir Puteh,2025-01-01,both,overall,overall,144.6
+Kelantan,Tanah Merah,2025-01-01,both,overall,overall,159.8
+Kelantan,Tumpat,2025-01-01,both,overall,overall,191.1
+Kelantan,Gua Musang,2025-01-01,both,overall,overall,111.3
+Kelantan,Kuala Krai,2025-01-01,both,overall,overall,112.4
+Kelantan,Jeli,2025-01-01,both,overall,overall,58.2
+Kelantan,Kecil Lojing,2025-01-01,both,overall,overall,11.7
+Melaka,Alor Gajah,2025-01-01,both,overall,overall,261.7
+Melaka,Jasin,2025-01-01,both,overall,overall,157.4
+Melaka,Melaka Tengah,2025-01-01,both,overall,overall,632.9
+Negeri Sembilan,Jelebu,2025-01-01,both,overall,overall,48.6
+Negeri Sembilan,Kuala Pilah,2025-01-01,both,overall,overall,72.4
+Negeri Sembilan,Port Dickson,2025-01-01,both,overall,overall,135.5
+Negeri Sembilan,Rembau,2025-01-01,both,overall,overall,49.5
+Negeri Sembilan,Seremban,2025-01-01,both,overall,overall,716.5
+Negeri Sembilan,Tampin,2025-01-01,both,overall,overall,90.7
+Negeri Sembilan,Jempol,2025-01-01,both,overall,overall,130.7
+Pahang,Bentong,2025-01-01,both,overall,overall,119.9
+Pahang,Cameron Highlands,2025-01-01,both,overall,overall,44.7
+Pahang,Jerantut,2025-01-01,both,overall,overall,100.3
+Pahang,Kuantan,2025-01-01,both,overall,overall,576.3
+Pahang,Lipis,2025-01-01,both,overall,overall,103.2
+Pahang,Pekan,2025-01-01,both,overall,overall,129.3
+Pahang,Raub,2025-01-01,both,overall,overall,99.7
+Pahang,Temerloh,2025-01-01,both,overall,overall,178.6
+Pahang,Rompin,2025-01-01,both,overall,overall,103.9
+Pahang,Maran,2025-01-01,both,overall,overall,119.8
+Pahang,Bera,2025-01-01,both,overall,overall,101.2
+Pulau Pinang,Seberang Perai Tengah,2025-01-01,both,overall,overall,445.5
+Pulau Pinang,Seberang Perai Utara,2025-01-01,both,overall,overall,353.1
+Pulau Pinang,Seberang Perai Selatan,2025-01-01,both,overall,overall,189.5
+Pulau Pinang,Timur Laut,2025-01-01,both,overall,overall,566.3
+Pulau Pinang,Barat Daya,2025-01-01,both,overall,overall,249.9
+Perak,Batang Padang,2025-01-01,both,overall,overall,127.0
+Perak,Manjung,2025-01-01,both,overall,overall,256.1
+Perak,Kinta,2025-01-01,both,overall,overall,927.1
+Perak,Kerian,2025-01-01,both,overall,overall,169.8
+Perak,Kuala Kangsar,2025-01-01,both,overall,overall,179.6
+Perak,Larut Dan Matang,2025-01-01,both,overall,overall,278.1
+Perak,Hilir Perak,2025-01-01,both,overall,overall,141.7
+Perak,Hulu Perak,2025-01-01,both,overall,overall,98.4
+Perak,Perak Tengah,2025-01-01,both,overall,overall,99.2
+Perak,Kampar,2025-01-01,both,overall,overall,98.8
+Perak,Muallim,2025-01-01,both,overall,overall,79.6
+Perak,Bagan Datuk,2025-01-01,both,overall,overall,83.4
+Perak,Selama,2025-01-01,both,overall,overall,35.0
+Selangor,Gombak,2025-01-01,both,overall,overall,985.9
+Selangor,Klang,2025-01-01,both,overall,overall,1183.2
+Selangor,Kuala Langat,2025-01-01,both,overall,overall,329.1
+Selangor,Kuala Selangor,2025-01-01,both,overall,overall,301.7
+Selangor,Petaling,2025-01-01,both,overall,overall,2370.7
+Selangor,Sabak Bernam,2025-01-01,both,overall,overall,110.5
+Selangor,Sepang,2025-01-01,both,overall,overall,350.5
+Selangor,Ulu Langat,2025-01-01,both,overall,overall,1517.4
+Selangor,Ulu Selangor,2025-01-01,both,overall,overall,259.8
+Terengganu,Besut,2025-01-01,both,overall,overall,167.4
+Terengganu,Dungun,2025-01-01,both,overall,overall,169.8
+Terengganu,Kemaman,2025-01-01,both,overall,overall,234.8
+Terengganu,Kuala Terengganu,2025-01-01,both,overall,overall,248.2
+Terengganu,Marang,2025-01-01,both,overall,overall,128.6
+Terengganu,Hulu Terengganu,2025-01-01,both,overall,overall,74.8
+Terengganu,Setiu,2025-01-01,both,overall,overall,64.8
+Terengganu,Kuala Nerus,2025-01-01,both,overall,overall,157.5
+Sabah,Tawau,2025-01-01,both,overall,overall,415.7
+Sabah,Lahad Datu,2025-01-01,both,overall,overall,252.4
+Sabah,Semporna,2025-01-01,both,overall,overall,201.0
+Sabah,Sandakan,2025-01-01,both,overall,overall,503.7
+Sabah,Kinabatangan,2025-01-01,both,overall,overall,164.3
+Sabah,Beluran,2025-01-01,both,overall,overall,90.4
+Sabah,Kota Kinabalu,2025-01-01,both,overall,overall,551.8
+Sabah,Ranau,2025-01-01,both,overall,overall,89.1
+Sabah,Kota Belud,2025-01-01,both,overall,overall,111.4
+Sabah,Tuaran,2025-01-01,both,overall,overall,142.8
+Sabah,Penampang,2025-01-01,both,overall,overall,166.6
+Sabah,Papar,2025-01-01,both,overall,overall,122.7
+Sabah,Kudat,2025-01-01,both,overall,overall,93.7
+Sabah,Kota Marudu,2025-01-01,both,overall,overall,74.6
+Sabah,Pitas,2025-01-01,both,overall,overall,38.9
+Sabah,Beaufort,2025-01-01,both,overall,overall,56.8
+Sabah,Kuala Penyu,2025-01-01,both,overall,overall,24.8
+Sabah,Sipitang,2025-01-01,both,overall,overall,40.7
+Sabah,Tenom,2025-01-01,both,overall,overall,54.3
+Sabah,Nabawan,2025-01-01,both,overall,overall,31.1
+Sabah,Keningau,2025-01-01,both,overall,overall,157.7
+Sabah,Tambunan,2025-01-01,both,overall,overall,33.7
+Sabah,Kunak,2025-01-01,both,overall,overall,78.1
+Sabah,Tongod,2025-01-01,both,overall,overall,43.7
+Sabah,Putatan,2025-01-01,both,overall,overall,71.0
+Sabah,Telupid,2025-01-01,both,overall,overall,30.5
+Sabah,Kalabakan,2025-01-01,both,overall,overall,59.0
+Sabah,Membakut,2025-01-01,both,overall,overall,54.0
+Sarawak,Kuching,2025-01-01,both,overall,overall,626.9
+Sarawak,Bau,2025-01-01,both,overall,overall,54.1
+Sarawak,Lundu,2025-01-01,both,overall,overall,34.8
+Sarawak,Samarahan,2025-01-01,both,overall,overall,136.5
+Sarawak,Serian,2025-01-01,both,overall,overall,56.5
+Sarawak,Simunjan,2025-01-01,both,overall,overall,12.0
+Sarawak,Sri Aman,2025-01-01,both,overall,overall,42.9
+Sarawak,Lubok Antu,2025-01-01,both,overall,overall,24.7
+Sarawak,Betong,2025-01-01,both,overall,overall,37.3
+Sarawak,Saratok,2025-01-01,both,overall,overall,23.5
+Sarawak,Sarikei,2025-01-01,both,overall,overall,45.2
+Sarawak,Maradong,2025-01-01,both,overall,overall,20.9
+Sarawak,Daro,2025-01-01,both,overall,overall,20.4
+Sarawak,Julau,2025-01-01,both,overall,overall,15.8
+Sarawak,Sibu,2025-01-01,both,overall,overall,256.3
+Sarawak,Dalat,2025-01-01,both,overall,overall,21.9
+Sarawak,Mukah,2025-01-01,both,overall,overall,42.7
+Sarawak,Kanowit,2025-01-01,both,overall,overall,25.3
+Sarawak,Bintulu,2025-01-01,both,overall,overall,189.2
+Sarawak,Tatau,2025-01-01,both,overall,overall,32.3
+Sarawak,Kapit,2025-01-01,both,overall,overall,37.3
+Sarawak,Song,2025-01-01,both,overall,overall,10.3
+Sarawak,Belaga,2025-01-01,both,overall,overall,22.6
+Sarawak,Miri,2025-01-01,both,overall,overall,257.6
+Sarawak,Marudi,2025-01-01,both,overall,overall,18.6
+Sarawak,Limbang,2025-01-01,both,overall,overall,46.7
+Sarawak,Lawas,2025-01-01,both,overall,overall,38.3
+Sarawak,Matu,2025-01-01,both,overall,overall,16.5
+Sarawak,Asajaya,2025-01-01,both,overall,overall,35.1
+Sarawak,Pakan,2025-01-01,both,overall,overall,15.7
+Sarawak,Selangau,2025-01-01,both,overall,overall,20.6
+Sarawak,Tebedu,2025-01-01,both,overall,overall,25.6
+Sarawak,Pusa,2025-01-01,both,overall,overall,20.3
+Sarawak,Kabong,2025-01-01,both,overall,overall,19.2
+Sarawak,Tanjung Manis,2025-01-01,both,overall,overall,7.9
+Sarawak,Sebauh,2025-01-01,both,overall,overall,31.5
+Sarawak,Bukit Mabong,2025-01-01,both,overall,overall,10.6
+Sarawak,Subis,2025-01-01,both,overall,overall,55.6
+Sarawak,Beluru,2025-01-01,both,overall,overall,26.8
+Sarawak,Telang Usan,2025-01-01,both,overall,overall,17.3
+Sarawak,Gedong,2025-01-01,both,overall,overall,11.5
+Sarawak,Sebuyau,2025-01-01,both,overall,overall,12.5
+Sarawak,Siburan,2025-01-01,both,overall,overall,31.9
+Sarawak,Pantu,2025-01-01,both,overall,overall,10.7
+Sarawak,Lingga,2025-01-01,both,overall,overall,8.9
+Perlis,Perlis,2025-01-01,both,overall,overall,297.0
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2025-01-01,both,overall,overall,2075.2
+W.P. Labuan,W.P. Labuan,2025-01-01,both,overall,overall,100.9
+W.P. Putrajaya,W.P. Putrajaya,2025-01-01,both,overall,overall,120.7
+Johor,Batu Pahat,2026-01-01,both,overall,overall,513.4
+Johor,Johor Bahru,2026-01-01,both,overall,overall,1827.2
+Johor,Kluang,2026-01-01,both,overall,overall,336.4
+Johor,Kota Tinggi,2026-01-01,both,overall,overall,235.9
+Johor,Mersing,2026-01-01,both,overall,overall,81.7
+Johor,Muar,2026-01-01,both,overall,overall,325.0
+Johor,Pontian,2026-01-01,both,overall,overall,177.8
+Johor,Segamat,2026-01-01,both,overall,overall,203.8
+Johor,Kulai,2026-01-01,both,overall,overall,354.2
+Johor,Tangkak,2026-01-01,both,overall,overall,168.9
+Kedah,Baling,2026-01-01,both,overall,overall,150.0
+Kedah,Bandar Baharu,2026-01-01,both,overall,overall,45.7
+Kedah,Kota Setar,2026-01-01,both,overall,overall,384.1
+Kedah,Kuala Muda,2026-01-01,both,overall,overall,577.9
+Kedah,Kubang Pasu,2026-01-01,both,overall,overall,255.0
+Kedah,Kulim,2026-01-01,both,overall,overall,355.5
+Kedah,Langkawi,2026-01-01,both,overall,overall,101.2
+Kedah,Padang Terap,2026-01-01,both,overall,overall,68.0
+Kedah,Sik,2026-01-01,both,overall,overall,70.9
+Kedah,Yan,2026-01-01,both,overall,overall,75.4
+Kedah,Pendang,2026-01-01,both,overall,overall,102.3
+Kedah,Pokok Sena,2026-01-01,both,overall,overall,51.4
+Kelantan,Bachok,2026-01-01,both,overall,overall,169.4
+Kelantan,Kota Bharu,2026-01-01,both,overall,overall,595.5
+Kelantan,Machang,2026-01-01,both,overall,overall,118.6
+Kelantan,Pasir Mas,2026-01-01,both,overall,overall,245.1
+Kelantan,Pasir Puteh,2026-01-01,both,overall,overall,146.4
+Kelantan,Tanah Merah,2026-01-01,both,overall,overall,161.2
+Kelantan,Tumpat,2026-01-01,both,overall,overall,193.1
+Kelantan,Gua Musang,2026-01-01,both,overall,overall,112.5
+Kelantan,Kuala Krai,2026-01-01,both,overall,overall,113.0
+Kelantan,Jeli,2026-01-01,both,overall,overall,58.5
+Kelantan,Kecil Lojing,2026-01-01,both,overall,overall,12.0
+Melaka,Alor Gajah,2026-01-01,both,overall,overall,262.9
+Melaka,Jasin,2026-01-01,both,overall,overall,158.5
+Melaka,Melaka Tengah,2026-01-01,both,overall,overall,636.0
+Negeri Sembilan,Jelebu,2026-01-01,both,overall,overall,48.4
+Negeri Sembilan,Kuala Pilah,2026-01-01,both,overall,overall,72.5
+Negeri Sembilan,Port Dickson,2026-01-01,both,overall,overall,135.9
+Negeri Sembilan,Rembau,2026-01-01,both,overall,overall,49.7
+Negeri Sembilan,Seremban,2026-01-01,both,overall,overall,720.6
+Negeri Sembilan,Tampin,2026-01-01,both,overall,overall,91.0
+Negeri Sembilan,Jempol,2026-01-01,both,overall,overall,130.4
+Pahang,Bentong,2026-01-01,both,overall,overall,118.7
+Pahang,Cameron Highlands,2026-01-01,both,overall,overall,44.9
+Pahang,Jerantut,2026-01-01,both,overall,overall,100.7
+Pahang,Kuantan,2026-01-01,both,overall,overall,581.4
+Pahang,Lipis,2026-01-01,both,overall,overall,104.4
+Pahang,Pekan,2026-01-01,both,overall,overall,130.7
+Pahang,Raub,2026-01-01,both,overall,overall,99.3
+Pahang,Temerloh,2026-01-01,both,overall,overall,179.3
+Pahang,Rompin,2026-01-01,both,overall,overall,104.9
+Pahang,Maran,2026-01-01,both,overall,overall,120.7
+Pahang,Bera,2026-01-01,both,overall,overall,101.4
+Pulau Pinang,Seberang Perai Tengah,2026-01-01,both,overall,overall,446.7
+Pulau Pinang,Seberang Perai Utara,2026-01-01,both,overall,overall,354.7
+Pulau Pinang,Seberang Perai Selatan,2026-01-01,both,overall,overall,191.0
+Pulau Pinang,Timur Laut,2026-01-01,both,overall,overall,565.3
+Pulau Pinang,Barat Daya,2026-01-01,both,overall,overall,250.6
+Perak,Batang Padang,2026-01-01,both,overall,overall,127.2
+Perak,Manjung,2026-01-01,both,overall,overall,257.0
+Perak,Kinta,2026-01-01,both,overall,overall,931.0
+Perak,Kerian,2026-01-01,both,overall,overall,170.1
+Perak,Kuala Kangsar,2026-01-01,both,overall,overall,179.3
+Perak,Larut Dan Matang,2026-01-01,both,overall,overall,277.9
+Perak,Hilir Perak,2026-01-01,both,overall,overall,141.5
+Perak,Hulu Perak,2026-01-01,both,overall,overall,98.4
+Perak,Perak Tengah,2026-01-01,both,overall,overall,99.6
+Perak,Kampar,2026-01-01,both,overall,overall,97.7
+Perak,Muallim,2026-01-01,both,overall,overall,79.9
+Perak,Bagan Datuk,2026-01-01,both,overall,overall,83.5
+Perak,Selama,2026-01-01,both,overall,overall,35.0
+Selangor,Gombak,2026-01-01,both,overall,overall,991.9
+Selangor,Klang,2026-01-01,both,overall,overall,1191.2
+Selangor,Kuala Langat,2026-01-01,both,overall,overall,331.6
+Selangor,Kuala Selangor,2026-01-01,both,overall,overall,305.0
+Selangor,Petaling,2026-01-01,both,overall,overall,2382.0
+Selangor,Sabak Bernam,2026-01-01,both,overall,overall,110.9
+Selangor,Sepang,2026-01-01,both,overall,overall,354.1
+Selangor,Ulu Langat,2026-01-01,both,overall,overall,1526.4
+Selangor,Ulu Selangor,2026-01-01,both,overall,overall,261.2
+Terengganu,Besut,2026-01-01,both,overall,overall,169.4
+Terengganu,Dungun,2026-01-01,both,overall,overall,171.9
+Terengganu,Kemaman,2026-01-01,both,overall,overall,238.0
+Terengganu,Kuala Terengganu,2026-01-01,both,overall,overall,251.3
+Terengganu,Marang,2026-01-01,both,overall,overall,130.7
+Terengganu,Hulu Terengganu,2026-01-01,both,overall,overall,75.1
+Terengganu,Setiu,2026-01-01,both,overall,overall,65.3
+Terengganu,Kuala Nerus,2026-01-01,both,overall,overall,159.2
+Sabah,Tawau,2026-01-01,both,overall,overall,418.1
+Sabah,Lahad Datu,2026-01-01,both,overall,overall,251.1
+Sabah,Semporna,2026-01-01,both,overall,overall,202.7
+Sabah,Sandakan,2026-01-01,both,overall,overall,508.3
+Sabah,Kinabatangan,2026-01-01,both,overall,overall,164.4
+Sabah,Beluran,2026-01-01,both,overall,overall,90.9
+Sabah,Kota Kinabalu,2026-01-01,both,overall,overall,556.1
+Sabah,Ranau,2026-01-01,both,overall,overall,89.6
+Sabah,Kota Belud,2026-01-01,both,overall,overall,112.0
+Sabah,Tuaran,2026-01-01,both,overall,overall,143.4
+Sabah,Penampang,2026-01-01,both,overall,overall,165.5
+Sabah,Papar,2026-01-01,both,overall,overall,122.5
+Sabah,Kudat,2026-01-01,both,overall,overall,94.2
+Sabah,Kota Marudu,2026-01-01,both,overall,overall,75.5
+Sabah,Pitas,2026-01-01,both,overall,overall,39.2
+Sabah,Beaufort,2026-01-01,both,overall,overall,56.6
+Sabah,Kuala Penyu,2026-01-01,both,overall,overall,25.0
+Sabah,Sipitang,2026-01-01,both,overall,overall,41.0
+Sabah,Tenom,2026-01-01,both,overall,overall,54.7
+Sabah,Nabawan,2026-01-01,both,overall,overall,31.4
+Sabah,Keningau,2026-01-01,both,overall,overall,157.4
+Sabah,Tambunan,2026-01-01,both,overall,overall,34.0
+Sabah,Kunak,2026-01-01,both,overall,overall,76.7
+Sabah,Tongod,2026-01-01,both,overall,overall,42.5
+Sabah,Putatan,2026-01-01,both,overall,overall,71.0
+Sabah,Telupid,2026-01-01,both,overall,overall,29.9
+Sabah,Kalabakan,2026-01-01,both,overall,overall,59.3
+Sabah,Membakut,2026-01-01,both,overall,overall,53.8
+Sarawak,Kuching,2026-01-01,both,overall,overall,628.6
+Sarawak,Bau,2026-01-01,both,overall,overall,54.2
+Sarawak,Lundu,2026-01-01,both,overall,overall,35.1
+Sarawak,Samarahan,2026-01-01,both,overall,overall,137.2
+Sarawak,Serian,2026-01-01,both,overall,overall,56.7
+Sarawak,Simunjan,2026-01-01,both,overall,overall,12.0
+Sarawak,Sri Aman,2026-01-01,both,overall,overall,43.1
+Sarawak,Lubok Antu,2026-01-01,both,overall,overall,24.7
+Sarawak,Betong,2026-01-01,both,overall,overall,37.6
+Sarawak,Saratok,2026-01-01,both,overall,overall,23.6
+Sarawak,Sarikei,2026-01-01,both,overall,overall,45.3
+Sarawak,Maradong,2026-01-01,both,overall,overall,20.9
+Sarawak,Daro,2026-01-01,both,overall,overall,20.8
+Sarawak,Julau,2026-01-01,both,overall,overall,15.9
+Sarawak,Sibu,2026-01-01,both,overall,overall,257.1
+Sarawak,Dalat,2026-01-01,both,overall,overall,22.1
+Sarawak,Mukah,2026-01-01,both,overall,overall,43.0
+Sarawak,Kanowit,2026-01-01,both,overall,overall,25.6
+Sarawak,Bintulu,2026-01-01,both,overall,overall,189.3
+Sarawak,Tatau,2026-01-01,both,overall,overall,32.6
+Sarawak,Kapit,2026-01-01,both,overall,overall,37.8
+Sarawak,Song,2026-01-01,both,overall,overall,10.4
+Sarawak,Belaga,2026-01-01,both,overall,overall,22.7
+Sarawak,Miri,2026-01-01,both,overall,overall,259.0
+Sarawak,Marudi,2026-01-01,both,overall,overall,18.9
+Sarawak,Limbang,2026-01-01,both,overall,overall,46.8
+Sarawak,Lawas,2026-01-01,both,overall,overall,38.6
+Sarawak,Matu,2026-01-01,both,overall,overall,16.6
+Sarawak,Asajaya,2026-01-01,both,overall,overall,35.5
+Sarawak,Pakan,2026-01-01,both,overall,overall,15.8
+Sarawak,Selangau,2026-01-01,both,overall,overall,20.8
+Sarawak,Tebedu,2026-01-01,both,overall,overall,25.6
+Sarawak,Pusa,2026-01-01,both,overall,overall,20.4
+Sarawak,Kabong,2026-01-01,both,overall,overall,19.4
+Sarawak,Tanjung Manis,2026-01-01,both,overall,overall,8.0
+Sarawak,Sebauh,2026-01-01,both,overall,overall,31.6
+Sarawak,Bukit Mabong,2026-01-01,both,overall,overall,10.7
+Sarawak,Subis,2026-01-01,both,overall,overall,55.8
+Sarawak,Beluru,2026-01-01,both,overall,overall,26.8
+Sarawak,Telang Usan,2026-01-01,both,overall,overall,17.3
+Sarawak,Gedong,2026-01-01,both,overall,overall,11.8
+Sarawak,Sebuyau,2026-01-01,both,overall,overall,12.4
+Sarawak,Siburan,2026-01-01,both,overall,overall,32.2
+Sarawak,Pantu,2026-01-01,both,overall,overall,10.7
+Sarawak,Lingga,2026-01-01,both,overall,overall,8.8
+Perlis,Perlis,2026-01-01,both,overall,overall,297.3
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2026-01-01,both,overall,overall,2082.3
+W.P. Labuan,W.P. Labuan,2026-01-01,both,overall,overall,101.1
+W.P. Putrajaya,W.P. Putrajaya,2026-01-01,both,overall,overall,121.4

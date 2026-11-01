@@ -1,0 +1,1308 @@
+state,district,date,primary,secondary,total_teachers
+Johor,Batu Pahat,2017-01-01,3632.0,2698.0,6330.0
+Johor,Batu Pahat,2018-01-01,3756.0,2697.0,6453.0
+Johor,Batu Pahat,2019-01-01,3643.0,2654.0,6297.0
+Johor,Batu Pahat,2020-01-01,3550.0,2591.0,6141.0
+Johor,Batu Pahat,2021-01-01,3491.0,2547.0,6038.0
+Johor,Batu Pahat,2022-01-01,3420.0,2590.0,6010.0
+Johor,Batu Pahat,2023-06-30,3354.0,2538.0,5892.0
+Johor,Batu Pahat,2024-06-30,3428.0,2539.0,5967.0
+Johor,Batu Pahat,2025-06-30,3458.0,2504.0,5962.0
+Johor,Johor Bahru,2017-01-01,8880.0,7333.0,16213.0
+Johor,Johor Bahru,2018-01-01,9972.0,7700.0,17672.0
+Johor,Johor Bahru,2019-01-01,9778.0,7688.0,17466.0
+Johor,Johor Bahru,2020-01-01,10052.0,7616.0,17668.0
+Johor,Johor Bahru,2021-01-01,9962.0,7486.0,17448.0
+Johor,Johor Bahru,2022-01-01,9743.0,7761.0,17504.0
+Johor,Johor Bahru,2023-06-30,4818.0,3865.0,8683.0
+Johor,Johor Bahru,2024-06-30,5042.0,3899.0,8941.0
+Johor,Johor Bahru,2025-06-30,5066.0,3900.0,8966.0
+Johor,Kluang,2017-01-01,2368.0,1992.0,4360.0
+Johor,Kluang,2018-01-01,2438.0,1960.0,4398.0
+Johor,Kluang,2019-01-01,2373.0,1960.0,4333.0
+Johor,Kluang,2020-01-01,2374.0,1923.0,4297.0
+Johor,Kluang,2021-01-01,2331.0,1866.0,4197.0
+Johor,Kluang,2022-01-01,2271.0,1891.0,4162.0
+Johor,Kluang,2023-06-30,2267.0,1872.0,4139.0
+Johor,Kluang,2024-06-30,2305.0,1889.0,4194.0
+Johor,Kluang,2025-06-30,2334.0,1885.0,4219.0
+Johor,Kota Tinggi,2017-01-01,1782.0,1497.0,3279.0
+Johor,Kota Tinggi,2018-01-01,2213.0,1799.0,4012.0
+Johor,Kota Tinggi,2019-01-01,2150.0,1772.0,3922.0
+Johor,Kota Tinggi,2020-01-01,2181.0,1740.0,3921.0
+Johor,Kota Tinggi,2021-01-01,2145.0,1735.0,3880.0
+Johor,Kota Tinggi,2022-01-01,2103.0,1764.0,3867.0
+Johor,Kota Tinggi,2023-06-30,1810.0,1452.0,3262.0
+Johor,Kota Tinggi,2024-06-30,1875.0,1470.0,3345.0
+Johor,Kota Tinggi,2025-06-30,1902.0,1462.0,3364.0
+Johor,Kulai,2017-01-01,2350.0,1718.0,4068.0
+Johor,Kulai,2018-01-01,1613.0,1231.0,2844.0
+Johor,Kulai,2019-01-01,1587.0,1247.0,2834.0
+Johor,Kulai,2020-01-01,1591.0,1229.0,2820.0
+Johor,Kulai,2021-01-01,1588.0,1203.0,2791.0
+Johor,Kulai,2022-01-01,1547.0,1248.0,2795.0
+Johor,Kulai,2023-06-30,2410.0,1811.0,4221.0
+Johor,Kulai,2024-06-30,2462.0,1835.0,4297.0
+Johor,Kulai,2025-06-30,2480.0,1843.0,4323.0
+Johor,Mersing,2017-01-01,821.0,606.0,1427.0
+Johor,Mersing,2018-01-01,855.0,604.0,1459.0
+Johor,Mersing,2019-01-01,824.0,610.0,1434.0
+Johor,Mersing,2020-01-01,825.0,597.0,1422.0
+Johor,Mersing,2021-01-01,818.0,578.0,1396.0
+Johor,Mersing,2022-01-01,803.0,558.0,1361.0
+Johor,Mersing,2023-06-30,785.0,570.0,1355.0
+Johor,Mersing,2024-06-30,815.0,568.0,1383.0
+Johor,Mersing,2025-06-30,843.0,572.0,1415.0
+Johor,Muar,2017-01-01,2384.0,1814.0,4198.0
+Johor,Muar,2018-01-01,2425.0,1849.0,4274.0
+Johor,Muar,2019-01-01,2350.0,1862.0,4212.0
+Johor,Muar,2020-01-01,2331.0,1863.0,4194.0
+Johor,Muar,2021-01-01,2298.0,1837.0,4135.0
+Johor,Muar,2022-01-01,2237.0,1885.0,4122.0
+Johor,Muar,2023-06-30,2199.0,1881.0,4080.0
+Johor,Muar,2024-06-30,2243.0,1911.0,4154.0
+Johor,Muar,2025-06-30,2253.0,1905.0,4158.0
+Johor,Pasir Gudang,2023-06-30,4390.0,3500.0,7890.0
+Johor,Pasir Gudang,2024-06-30,4600.0,3504.0,8104.0
+Johor,Pasir Gudang,2025-06-30,4615.0,3511.0,8126.0
+Johor,Pontian,2017-01-01,1689.0,1242.0,2931.0
+Johor,Pontian,2018-01-01,1749.0,1251.0,3000.0
+Johor,Pontian,2019-01-01,1704.0,1262.0,2966.0
+Johor,Pontian,2020-01-01,1709.0,1245.0,2954.0
+Johor,Pontian,2021-01-01,1670.0,1212.0,2882.0
+Johor,Pontian,2022-01-01,1624.0,1212.0,2836.0
+Johor,Pontian,2023-06-30,1615.0,1210.0,2825.0
+Johor,Pontian,2024-06-30,1640.0,1214.0,2854.0
+Johor,Pontian,2025-06-30,1670.0,1199.0,2869.0
+Johor,Segamat,2017-01-01,1839.0,1494.0,3333.0
+Johor,Segamat,2018-01-01,1932.0,1466.0,3398.0
+Johor,Segamat,2019-01-01,1905.0,1441.0,3346.0
+Johor,Segamat,2020-01-01,1884.0,1407.0,3291.0
+Johor,Segamat,2021-01-01,1874.0,1366.0,3240.0
+Johor,Segamat,2022-01-01,1795.0,1378.0,3173.0
+Johor,Segamat,2023-06-30,1797.0,1347.0,3144.0
+Johor,Segamat,2024-06-30,1813.0,1397.0,3210.0
+Johor,Segamat,2025-06-30,1833.0,1399.0,3232.0
+Johor,Tangkak,2017-01-01,1342.0,1030.0,2372.0
+Johor,Tangkak,2018-01-01,1358.0,1028.0,2386.0
+Johor,Tangkak,2019-01-01,1326.0,1033.0,2359.0
+Johor,Tangkak,2020-01-01,1298.0,1011.0,2309.0
+Johor,Tangkak,2021-01-01,1261.0,991.0,2252.0
+Johor,Tangkak,2022-01-01,1240.0,989.0,2229.0
+Johor,Tangkak,2023-06-30,1228.0,972.0,2200.0
+Johor,Tangkak,2024-06-30,1237.0,988.0,2225.0
+Johor,Tangkak,2025-06-30,1268.0,974.0,2242.0
+Kedah,Baling,2017-01-01,2113.0,1635.0,3748.0
+Kedah,Baling,2018-01-01,1517.0,1094.0,2611.0
+Kedah,Baling,2019-01-01,1460.0,1072.0,2532.0
+Kedah,Baling,2020-01-01,1440.0,1014.0,2454.0
+Kedah,Baling,2021-01-01,1435.0,986.0,2421.0
+Kedah,Baling,2022-01-01,1476.0,1001.0,2477.0
+Kedah,Baling,2023-06-30,1455.0,959.0,2414.0
+Kedah,Baling,2024-06-30,1437.0,967.0,2404.0
+Kedah,Baling,2025-06-30,1427.0,980.0,2407.0
+Kedah,Bandar Baharu,2017-01-01,2698.0,2193.0,4891.0
+Kedah,Bandar Baharu,2018-01-01,491.0,299.0,790.0
+Kedah,Bandar Baharu,2019-01-01,493.0,293.0,786.0
+Kedah,Bandar Baharu,2020-01-01,494.0,279.0,773.0
+Kedah,Bandar Baharu,2021-01-01,475.0,267.0,742.0
+Kedah,Bandar Baharu,2022-01-01,492.0,268.0,760.0
+Kedah,Kota Setar,2017-01-01,3250.0,3012.0,6262.0
+Kedah,Kota Setar,2018-01-01,2798.0,2626.0,5424.0
+Kedah,Kota Setar,2019-01-01,2776.0,2552.0,5328.0
+Kedah,Kota Setar,2020-01-01,2742.0,2496.0,5238.0
+Kedah,Kota Setar,2021-01-01,2748.0,2440.0,5188.0
+Kedah,Kota Setar,2022-01-01,2842.0,2505.0,5347.0
+Kedah,Kota Setar,2023-06-30,3176.0,2688.0,5864.0
+Kedah,Kota Setar,2024-06-30,3150.0,2707.0,5857.0
+Kedah,Kota Setar,2025-06-30,3172.0,2729.0,5901.0
+Kedah,Kuala Muda,2017-01-01,4386.0,3697.0,8083.0
+Kedah,Kuala Muda,2018-01-01,3699.0,3135.0,6834.0
+Kedah,Kuala Muda,2019-01-01,3739.0,3141.0,6880.0
+Kedah,Kuala Muda,2020-01-01,3723.0,3096.0,6819.0
+Kedah,Kuala Muda,2021-01-01,3695.0,3003.0,6698.0
+Kedah,Kuala Muda,2022-01-01,3828.0,3038.0,6866.0
+Kedah,Kuala Muda,2025-06-30,3266.0,2477.0,5743.0
+Kedah,Kuala Muda/Yan,2023-06-30,4447.0,3524.0,7971.0
+Kedah,Kuala Muda/Yan,2024-06-30,4417.0,3486.0,7903.0
+Kedah,Kubang Pasu,2017-01-01,1980.0,1691.0,3671.0
+Kedah,Kubang Pasu,2018-01-01,2009.0,1672.0,3681.0
+Kedah,Kubang Pasu,2019-01-01,2006.0,1684.0,3690.0
+Kedah,Kubang Pasu,2020-01-01,2006.0,1638.0,3644.0
+Kedah,Kubang Pasu,2021-01-01,1998.0,1579.0,3577.0
+Kedah,Kubang Pasu,2022-01-01,2055.0,1619.0,3674.0
+Kedah,Kubang Pasu,2023-06-30,2032.0,1575.0,3607.0
+Kedah,Kubang Pasu,2024-06-30,2001.0,1579.0,3580.0
+Kedah,Kubang Pasu,2025-06-30,2012.0,1562.0,3574.0
+Kedah,Kulim,2018-01-01,2311.0,1887.0,4198.0
+Kedah,Kulim,2019-01-01,2351.0,1877.0,4228.0
+Kedah,Kulim,2020-01-01,2319.0,1863.0,4182.0
+Kedah,Kulim,2021-01-01,2301.0,1817.0,4118.0
+Kedah,Kulim,2022-01-01,2354.0,1832.0,4186.0
+Kedah,Kulim/Bandar Baharu,2023-06-30,2772.0,2027.0,4799.0
+Kedah,Kulim/Bandar Baharu,2024-06-30,2743.0,2053.0,4796.0
+Kedah,Kulim/Bandar Baharu,2025-06-30,2716.0,2070.0,4786.0
+Kedah,Langkawi,2017-01-01,786.0,649.0,1435.0
+Kedah,Langkawi,2018-01-01,816.0,687.0,1503.0
+Kedah,Langkawi,2019-01-01,839.0,693.0,1532.0
+Kedah,Langkawi,2020-01-01,879.0,686.0,1565.0
+Kedah,Langkawi,2021-01-01,849.0,700.0,1549.0
+Kedah,Langkawi,2022-01-01,865.0,684.0,1549.0
+Kedah,Langkawi,2023-06-30,841.0,671.0,1512.0
+Kedah,Langkawi,2024-06-30,846.0,684.0,1530.0
+Kedah,Langkawi,2025-06-30,843.0,675.0,1518.0
+Kedah,Padang Terap,2017-01-01,673.0,566.0,1239.0
+Kedah,Padang Terap,2018-01-01,670.0,578.0,1248.0
+Kedah,Padang Terap,2019-01-01,671.0,556.0,1227.0
+Kedah,Padang Terap,2020-01-01,676.0,540.0,1216.0
+Kedah,Padang Terap,2021-01-01,664.0,526.0,1190.0
+Kedah,Padang Terap,2022-01-01,677.0,537.0,1214.0
+Kedah,Padang Terap,2023-06-30,670.0,515.0,1185.0
+Kedah,Padang Terap,2024-06-30,661.0,520.0,1181.0
+Kedah,Padang Terap,2025-06-30,660.0,524.0,1184.0
+Kedah,Pendang,2017-01-01,1062.0,837.0,1899.0
+Kedah,Pendang,2018-01-01,1067.0,822.0,1889.0
+Kedah,Pendang,2019-01-01,1062.0,818.0,1880.0
+Kedah,Pendang,2020-01-01,1055.0,795.0,1850.0
+Kedah,Pendang,2021-01-01,1033.0,791.0,1824.0
+Kedah,Pendang,2022-01-01,1080.0,822.0,1902.0
+Kedah,Pendang,2023-06-30,1068.0,796.0,1864.0
+Kedah,Pendang,2024-06-30,1053.0,816.0,1869.0
+Kedah,Pendang,2025-06-30,1048.0,816.0,1864.0
+Kedah,Pokok Sena,2018-01-01,426.0,319.0,745.0
+Kedah,Pokok Sena,2019-01-01,421.0,298.0,719.0
+Kedah,Pokok Sena,2020-01-01,410.0,285.0,695.0
+Kedah,Pokok Sena,2021-01-01,406.0,277.0,683.0
+Kedah,Pokok Sena,2022-01-01,419.0,289.0,708.0
+Kedah,Sik,2018-01-01,685.0,507.0,1192.0
+Kedah,Sik,2019-01-01,665.0,491.0,1156.0
+Kedah,Sik,2020-01-01,665.0,479.0,1144.0
+Kedah,Sik,2021-01-01,650.0,471.0,1121.0
+Kedah,Sik,2022-01-01,676.0,496.0,1172.0
+Kedah,Sik,2023-06-30,660.0,489.0,1149.0
+Kedah,Sik,2024-06-30,645.0,483.0,1128.0
+Kedah,Sik,2025-06-30,644.0,479.0,1123.0
+Kedah,Yan,2018-01-01,713.0,572.0,1285.0
+Kedah,Yan,2019-01-01,678.0,558.0,1236.0
+Kedah,Yan,2020-01-01,660.0,554.0,1214.0
+Kedah,Yan,2021-01-01,664.0,525.0,1189.0
+Kedah,Yan,2022-01-01,673.0,592.0,1265.0
+Kedah,Yan,2025-06-30,1174.0,1006.0,2180.0
+Kelantan,Bachok,2017-01-01,1394.0,1305.0,2699.0
+Kelantan,Bachok,2018-01-01,1448.0,1345.0,2793.0
+Kelantan,Bachok,2019-01-01,1408.0,1338.0,2746.0
+Kelantan,Bachok,2020-01-01,1432.0,1319.0,2751.0
+Kelantan,Bachok,2021-01-01,1405.0,1300.0,2705.0
+Kelantan,Bachok,2022-01-01,1426.0,1314.0,2740.0
+Kelantan,Bachok,2023-06-30,1433.0,1286.0,2719.0
+Kelantan,Bachok,2024-06-30,1427.0,1306.0,2733.0
+Kelantan,Bachok,2025-06-30,1431.0,1290.0,2721.0
+Kelantan,Gua Musang,2017-01-01,1072.0,601.0,1673.0
+Kelantan,Gua Musang,2018-01-01,969.0,611.0,1580.0
+Kelantan,Gua Musang,2019-01-01,1008.0,654.0,1662.0
+Kelantan,Gua Musang,2020-01-01,1026.0,655.0,1681.0
+Kelantan,Gua Musang,2021-01-01,1008.0,653.0,1661.0
+Kelantan,Gua Musang,2022-01-01,1044.0,683.0,1727.0
+Kelantan,Gua Musang,2023-06-30,1171.0,662.0,1833.0
+Kelantan,Gua Musang,2024-06-30,1205.0,667.0,1872.0
+Kelantan,Gua Musang,2025-06-30,1201.0,677.0,1878.0
+Kelantan,Jeli,2017-01-01,525.0,359.0,884.0
+Kelantan,Jeli,2018-01-01,538.0,374.0,912.0
+Kelantan,Jeli,2019-01-01,551.0,368.0,919.0
+Kelantan,Jeli,2020-01-01,551.0,375.0,926.0
+Kelantan,Jeli,2021-01-01,538.0,359.0,897.0
+Kelantan,Jeli,2022-01-01,547.0,365.0,912.0
+Kelantan,Jeli,2023-06-30,538.0,356.0,894.0
+Kelantan,Jeli,2024-06-30,528.0,361.0,889.0
+Kelantan,Jeli,2025-06-30,517.0,375.0,892.0
+Kelantan,Kota Bharu,2017-01-01,4451.0,3704.0,8155.0
+Kelantan,Kota Bharu,2018-01-01,4603.0,3706.0,8309.0
+Kelantan,Kota Bharu,2019-01-01,4627.0,3715.0,8342.0
+Kelantan,Kota Bharu,2020-01-01,4552.0,3694.0,8246.0
+Kelantan,Kota Bharu,2021-01-01,4527.0,3566.0,8093.0
+Kelantan,Kota Bharu,2022-01-01,4582.0,3554.0,8136.0
+Kelantan,Kota Bharu,2023-06-30,4521.0,3523.0,8044.0
+Kelantan,Kota Bharu,2024-06-30,4495.0,3524.0,8019.0
+Kelantan,Kota Bharu,2025-06-30,4508.0,3493.0,8001.0
+Kelantan,Kuala Krai,2017-01-01,1215.0,898.0,2113.0
+Kelantan,Kuala Krai,2018-01-01,1249.0,934.0,2183.0
+Kelantan,Kuala Krai,2019-01-01,1285.0,972.0,2257.0
+Kelantan,Kuala Krai,2020-01-01,1292.0,944.0,2236.0
+Kelantan,Kuala Krai,2021-01-01,1266.0,931.0,2197.0
+Kelantan,Kuala Krai,2022-01-01,1294.0,968.0,2262.0
+Kelantan,Kuala Krai,2023-06-30,1260.0,928.0,2188.0
+Kelantan,Kuala Krai,2024-06-30,1244.0,928.0,2172.0
+Kelantan,Kuala Krai,2025-06-30,1246.0,951.0,2197.0
+Kelantan,Machang,2017-01-01,991.0,809.0,1800.0
+Kelantan,Machang,2018-01-01,1023.0,782.0,1805.0
+Kelantan,Machang,2019-01-01,1025.0,780.0,1805.0
+Kelantan,Machang,2020-01-01,1009.0,780.0,1789.0
+Kelantan,Machang,2021-01-01,1002.0,750.0,1752.0
+Kelantan,Machang,2022-01-01,1015.0,755.0,1770.0
+Kelantan,Machang,2023-06-30,981.0,732.0,1713.0
+Kelantan,Machang,2024-06-30,970.0,733.0,1703.0
+Kelantan,Machang,2025-06-30,953.0,750.0,1703.0
+Kelantan,Pasir Mas,2017-01-01,2023.0,1664.0,3687.0
+Kelantan,Pasir Mas,2018-01-01,2062.0,1645.0,3707.0
+Kelantan,Pasir Mas,2019-01-01,2040.0,1677.0,3717.0
+Kelantan,Pasir Mas,2020-01-01,2026.0,1630.0,3656.0
+Kelantan,Pasir Mas,2021-01-01,1986.0,1616.0,3602.0
+Kelantan,Pasir Mas,2022-01-01,2028.0,1640.0,3668.0
+Kelantan,Pasir Mas,2023-06-30,1984.0,1590.0,3574.0
+Kelantan,Pasir Mas,2024-06-30,1959.0,1596.0,3555.0
+Kelantan,Pasir Mas,2025-06-30,1947.0,1588.0,3535.0
+Kelantan,Pasir Puteh,2017-01-01,1381.0,1079.0,2460.0
+Kelantan,Pasir Puteh,2018-01-01,1425.0,1119.0,2544.0
+Kelantan,Pasir Puteh,2019-01-01,1423.0,1099.0,2522.0
+Kelantan,Pasir Puteh,2020-01-01,1398.0,1066.0,2464.0
+Kelantan,Pasir Puteh,2021-01-01,1402.0,1062.0,2464.0
+Kelantan,Pasir Puteh,2022-01-01,1407.0,1112.0,2519.0
+Kelantan,Pasir Putih,2023-06-30,1387.0,1104.0,2491.0
+Kelantan,Pasir Putih,2024-06-30,1368.0,1122.0,2490.0
+Kelantan,Pasir Putih,2025-06-30,1349.0,1109.0,2458.0
+Kelantan,Tanah Merah,2017-01-01,1244.0,1158.0,2402.0
+Kelantan,Tanah Merah,2018-01-01,1306.0,1175.0,2481.0
+Kelantan,Tanah Merah,2019-01-01,1305.0,1147.0,2452.0
+Kelantan,Tanah Merah,2020-01-01,1279.0,1145.0,2424.0
+Kelantan,Tanah Merah,2021-01-01,1272.0,1118.0,2390.0
+Kelantan,Tanah Merah,2022-01-01,1302.0,1150.0,2452.0
+Kelantan,Tanah Merah,2023-06-30,1276.0,1124.0,2400.0
+Kelantan,Tanah Merah,2024-06-30,1256.0,1159.0,2415.0
+Kelantan,Tanah Merah,2025-06-30,1244.0,1136.0,2380.0
+Kelantan,Tumpat,2017-01-01,1472.0,1096.0,2568.0
+Kelantan,Tumpat,2018-01-01,1535.0,1101.0,2636.0
+Kelantan,Tumpat,2019-01-01,1540.0,1074.0,2614.0
+Kelantan,Tumpat,2020-01-01,1532.0,1077.0,2609.0
+Kelantan,Tumpat,2021-01-01,1519.0,1045.0,2564.0
+Kelantan,Tumpat,2022-01-01,1572.0,1068.0,2640.0
+Kelantan,Tumpat,2023-06-30,1568.0,1028.0,2596.0
+Kelantan,Tumpat,2024-06-30,1564.0,1063.0,2627.0
+Kelantan,Tumpat,2025-06-30,1574.0,1060.0,2634.0
+Melaka,Alor Gajah,2017-01-01,2032.0,1543.0,3575.0
+Melaka,Alor Gajah,2018-01-01,2099.0,1524.0,3623.0
+Melaka,Alor Gajah,2019-01-01,2043.0,1516.0,3559.0
+Melaka,Alor Gajah,2020-01-01,2086.0,1515.0,3601.0
+Melaka,Alor Gajah,2021-01-01,2088.0,1467.0,3555.0
+Melaka,Alor Gajah,2022-01-01,2155.0,1506.0,3661.0
+Melaka,Alor Gajah,2023-06-30,2097.0,1460.0,3557.0
+Melaka,Alor Gajah,2024-06-30,2109.0,1478.0,3587.0
+Melaka,Alor Gajah,2025-06-30,2120.0,1525.0,3645.0
+Melaka,Jasin,2017-01-01,1605.0,1319.0,2924.0
+Melaka,Jasin,2018-01-01,1647.0,1368.0,3015.0
+Melaka,Jasin,2019-01-01,1613.0,1365.0,2978.0
+Melaka,Jasin,2020-01-01,1612.0,1371.0,2983.0
+Melaka,Jasin,2021-01-01,1618.0,1343.0,2961.0
+Melaka,Jasin,2022-01-01,1595.0,1364.0,2959.0
+Melaka,Jasin,2023-06-30,1562.0,1331.0,2893.0
+Melaka,Jasin,2024-06-30,1563.0,1341.0,2904.0
+Melaka,Jasin,2025-06-30,1565.0,1325.0,2890.0
+Melaka,Melaka Tengah,2017-01-01,3890.0,3314.0,7204.0
+Melaka,Melaka Tengah,2018-01-01,4088.0,3309.0,7397.0
+Melaka,Melaka Tengah,2019-01-01,4033.0,3287.0,7320.0
+Melaka,Melaka Tengah,2020-01-01,4096.0,3245.0,7341.0
+Melaka,Melaka Tengah,2021-01-01,4035.0,3157.0,7192.0
+Melaka,Melaka Tengah,2022-01-01,4092.0,3223.0,7315.0
+Melaka,Melaka Tengah,2023-06-30,4021.0,3144.0,7165.0
+Melaka,Melaka Tengah,2024-06-30,4075.0,3157.0,7232.0
+Melaka,Melaka Tengah,2025-06-30,4049.0,3224.0,7273.0
+Negeri Sembilan,Jelebu,2017-01-01,1649.0,1344.0,2993.0
+Negeri Sembilan,Jelebu,2018-01-01,482.0,378.0,860.0
+Negeri Sembilan,Jelebu,2019-01-01,464.0,369.0,833.0
+Negeri Sembilan,Jelebu,2020-01-01,469.0,376.0,845.0
+Negeri Sembilan,Jelebu,2021-01-01,465.0,373.0,838.0
+Negeri Sembilan,Jelebu,2022-01-01,458.0,375.0,833.0
+Negeri Sembilan,Jempol,2018-01-01,1231.0,944.0,2175.0
+Negeri Sembilan,Jempol,2019-01-01,1199.0,939.0,2138.0
+Negeri Sembilan,Jempol,2020-01-01,1210.0,914.0,2124.0
+Negeri Sembilan,Jempol,2021-01-01,1192.0,887.0,2079.0
+Negeri Sembilan,Jempol,2022-01-01,1189.0,899.0,2088.0
+Negeri Sembilan,Jempol/Jelebu,2023-06-30,1631.0,1279.0,2910.0
+Negeri Sembilan,Jempol/Jelebu,2024-06-30,1653.0,1278.0,2931.0
+Negeri Sembilan,Jempol/Jelebu,2025-06-30,1634.0,1260.0,2894.0
+Negeri Sembilan,Kuala Pilah,2017-01-01,823.0,740.0,1563.0
+Negeri Sembilan,Kuala Pilah,2018-01-01,826.0,778.0,1604.0
+Negeri Sembilan,Kuala Pilah,2019-01-01,813.0,770.0,1583.0
+Negeri Sembilan,Kuala Pilah,2020-01-01,800.0,750.0,1550.0
+Negeri Sembilan,Kuala Pilah,2021-01-01,784.0,725.0,1509.0
+Negeri Sembilan,Kuala Pilah,2022-01-01,793.0,755.0,1548.0
+Negeri Sembilan,Kuala Pilah,2023-06-30,774.0,750.0,1524.0
+Negeri Sembilan,Kuala Pilah,2024-06-30,789.0,750.0,1539.0
+Negeri Sembilan,Kuala Pilah,2025-06-30,805.0,748.0,1553.0
+Negeri Sembilan,Port Dickson,2017-01-01,1242.0,868.0,2110.0
+Negeri Sembilan,Port Dickson,2018-01-01,1236.0,888.0,2124.0
+Negeri Sembilan,Port Dickson,2019-01-01,1207.0,886.0,2093.0
+Negeri Sembilan,Port Dickson,2020-01-01,1247.0,886.0,2133.0
+Negeri Sembilan,Port Dickson,2021-01-01,1253.0,870.0,2123.0
+Negeri Sembilan,Port Dickson,2022-01-01,1242.0,889.0,2131.0
+Negeri Sembilan,Port Dickson,2023-06-30,1215.0,892.0,2107.0
+Negeri Sembilan,Port Dickson,2024-06-30,1225.0,885.0,2110.0
+Negeri Sembilan,Port Dickson,2025-06-30,1246.0,882.0,2128.0
+Negeri Sembilan,Rembau,2017-01-01,580.0,679.0,1259.0
+Negeri Sembilan,Rembau,2018-01-01,575.0,742.0,1317.0
+Negeri Sembilan,Rembau,2019-01-01,572.0,759.0,1331.0
+Negeri Sembilan,Rembau,2020-01-01,572.0,760.0,1332.0
+Negeri Sembilan,Rembau,2021-01-01,560.0,739.0,1299.0
+Negeri Sembilan,Rembau,2022-01-01,557.0,772.0,1329.0
+Negeri Sembilan,Rembau,2023-06-30,531.0,773.0,1304.0
+Negeri Sembilan,Rembau,2024-06-30,540.0,777.0,1317.0
+Negeri Sembilan,Rembau,2025-06-30,554.0,780.0,1334.0
+Negeri Sembilan,Seremban,2017-01-01,4288.0,3727.0,8015.0
+Negeri Sembilan,Seremban,2018-01-01,4337.0,3726.0,8063.0
+Negeri Sembilan,Seremban,2019-01-01,4350.0,3716.0,8066.0
+Negeri Sembilan,Seremban,2020-01-01,4374.0,3661.0,8035.0
+Negeri Sembilan,Seremban,2021-01-01,4425.0,3581.0,8006.0
+Negeri Sembilan,Seremban,2022-01-01,4481.0,3686.0,8167.0
+Negeri Sembilan,Seremban,2023-06-30,4460.0,3597.0,8057.0
+Negeri Sembilan,Seremban,2024-06-30,4545.0,3675.0,8220.0
+Negeri Sembilan,Seremban,2025-06-30,4567.0,3667.0,8234.0
+Negeri Sembilan,Tampin,2017-01-01,913.0,666.0,1579.0
+Negeri Sembilan,Tampin,2018-01-01,946.0,648.0,1594.0
+Negeri Sembilan,Tampin,2019-01-01,916.0,634.0,1550.0
+Negeri Sembilan,Tampin,2020-01-01,910.0,620.0,1530.0
+Negeri Sembilan,Tampin,2021-01-01,904.0,610.0,1514.0
+Negeri Sembilan,Tampin,2022-01-01,900.0,611.0,1511.0
+Negeri Sembilan,Tampin,2023-06-30,896.0,621.0,1517.0
+Negeri Sembilan,Tampin,2024-06-30,897.0,641.0,1538.0
+Negeri Sembilan,Tampin,2025-06-30,891.0,613.0,1504.0
+Pahang,Bentong,2017-01-01,881.0,965.0,1846.0
+Pahang,Bentong,2018-01-01,938.0,998.0,1936.0
+Pahang,Bentong,2019-01-01,912.0,972.0,1884.0
+Pahang,Bentong,2020-01-01,925.0,984.0,1909.0
+Pahang,Bentong,2021-01-01,906.0,938.0,1844.0
+Pahang,Bentong,2022-01-01,923.0,959.0,1882.0
+Pahang,Bentong,2023-06-30,905.0,943.0,1848.0
+Pahang,Bentong,2024-06-30,913.0,958.0,1871.0
+Pahang,Bentong,2025-06-30,904.0,949.0,1853.0
+Pahang,Bera,2017-01-01,860.0,575.0,1435.0
+Pahang,Bera,2018-01-01,971.0,567.0,1538.0
+Pahang,Bera,2019-01-01,956.0,572.0,1528.0
+Pahang,Bera,2020-01-01,942.0,561.0,1503.0
+Pahang,Bera,2021-01-01,931.0,555.0,1486.0
+Pahang,Bera,2022-01-01,939.0,576.0,1515.0
+Pahang,Bera,2023-06-30,919.0,564.0,1483.0
+Pahang,Bera,2024-06-30,906.0,570.0,1476.0
+Pahang,Bera,2025-06-30,917.0,565.0,1482.0
+Pahang,Cameron Highlands,2017-01-01,392.0,200.0,592.0
+Pahang,Cameron Highlands,2018-01-01,420.0,206.0,626.0
+Pahang,Cameron Highlands,2019-01-01,390.0,204.0,594.0
+Pahang,Cameron Highlands,2020-01-01,405.0,205.0,610.0
+Pahang,Cameron Highlands,2021-01-01,405.0,206.0,611.0
+Pahang,Cameron Highlands,2022-01-01,415.0,205.0,620.0
+Pahang,Cameron Highlands,2023-06-30,412.0,206.0,618.0
+Pahang,Cameron Highlands,2024-06-30,416.0,199.0,615.0
+Pahang,Cameron Highlands,2025-06-30,419.0,191.0,610.0
+Pahang,Jerantut,2017-01-01,1070.0,826.0,1896.0
+Pahang,Jerantut,2018-01-01,1086.0,775.0,1861.0
+Pahang,Jerantut,2019-01-01,1077.0,759.0,1836.0
+Pahang,Jerantut,2020-01-01,1068.0,759.0,1827.0
+Pahang,Jerantut,2021-01-01,1059.0,743.0,1802.0
+Pahang,Jerantut,2022-01-01,1063.0,795.0,1858.0
+Pahang,Jerantut,2023-06-30,1087.0,786.0,1873.0
+Pahang,Jerantut,2024-06-30,1083.0,773.0,1856.0
+Pahang,Jerantut,2025-06-30,1079.0,775.0,1854.0
+Pahang,Kuala Lipis,2018-01-01,1074.0,777.0,1851.0
+Pahang,Kuala Lipis,2019-01-01,1056.0,785.0,1841.0
+Pahang,Kuala Lipis,2020-01-01,1039.0,797.0,1836.0
+Pahang,Kuala Lipis,2021-01-01,1033.0,773.0,1806.0
+Pahang,Kuala Lipis,2022-01-01,1036.0,769.0,1805.0
+Pahang,Kuantan,2017-01-01,3623.0,3145.0,6768.0
+Pahang,Kuantan,2018-01-01,3867.0,3223.0,7090.0
+Pahang,Kuantan,2019-01-01,3855.0,3227.0,7082.0
+Pahang,Kuantan,2020-01-01,3867.0,3176.0,7043.0
+Pahang,Kuantan,2021-01-01,3907.0,3185.0,7092.0
+Pahang,Kuantan,2022-01-01,3975.0,3296.0,7271.0
+Pahang,Kuantan,2023-06-30,3900.0,3219.0,7119.0
+Pahang,Kuantan,2024-06-30,3896.0,3222.0,7118.0
+Pahang,Kuantan,2025-06-30,3896.0,3238.0,7134.0
+Pahang,Lipis,2017-01-01,1003.0,708.0,1711.0
+Pahang,Lipis,2023-06-30,974.0,786.0,1760.0
+Pahang,Lipis,2024-06-30,972.0,794.0,1766.0
+Pahang,Lipis,2025-06-30,968.0,795.0,1763.0
+Pahang,Maran,2017-01-01,1158.0,936.0,2094.0
+Pahang,Maran,2018-01-01,1230.0,979.0,2209.0
+Pahang,Maran,2019-01-01,1218.0,967.0,2185.0
+Pahang,Maran,2020-01-01,1191.0,959.0,2150.0
+Pahang,Maran,2021-01-01,1182.0,940.0,2122.0
+Pahang,Maran,2022-01-01,1195.0,982.0,2177.0
+Pahang,Maran,2023-06-30,1164.0,961.0,2125.0
+Pahang,Maran,2024-06-30,1168.0,964.0,2132.0
+Pahang,Maran,2025-06-30,1150.0,947.0,2097.0
+Pahang,Pekan,2017-01-01,1269.0,942.0,2211.0
+Pahang,Pekan,2018-01-01,1344.0,935.0,2279.0
+Pahang,Pekan,2019-01-01,1301.0,922.0,2223.0
+Pahang,Pekan,2020-01-01,1322.0,913.0,2235.0
+Pahang,Pekan,2021-01-01,1272.0,879.0,2151.0
+Pahang,Pekan,2022-01-01,1267.0,889.0,2156.0
+Pahang,Pekan,2023-06-30,1239.0,878.0,2117.0
+Pahang,Pekan,2024-06-30,1250.0,882.0,2132.0
+Pahang,Pekan,2025-06-30,1251.0,878.0,2129.0
+Pahang,Raub,2017-01-01,852.0,653.0,1505.0
+Pahang,Raub,2018-01-01,880.0,651.0,1531.0
+Pahang,Raub,2019-01-01,866.0,634.0,1500.0
+Pahang,Raub,2020-01-01,860.0,635.0,1495.0
+Pahang,Raub,2021-01-01,856.0,639.0,1495.0
+Pahang,Raub,2022-01-01,839.0,659.0,1498.0
+Pahang,Raub,2023-06-30,848.0,633.0,1481.0
+Pahang,Raub,2024-06-30,850.0,625.0,1475.0
+Pahang,Raub,2025-06-30,861.0,622.0,1483.0
+Pahang,Rompin,2017-01-01,1087.0,1033.0,2120.0
+Pahang,Rompin,2018-01-01,1230.0,1052.0,2282.0
+Pahang,Rompin,2019-01-01,1190.0,1061.0,2251.0
+Pahang,Rompin,2020-01-01,1182.0,1057.0,2239.0
+Pahang,Rompin,2021-01-01,1166.0,1031.0,2197.0
+Pahang,Rompin,2022-01-01,1187.0,1079.0,2266.0
+Pahang,Rompin,2023-06-30,1162.0,1047.0,2209.0
+Pahang,Rompin,2024-06-30,1152.0,1070.0,2222.0
+Pahang,Rompin,2025-06-30,1159.0,1069.0,2228.0
+Pahang,Temerloh,2017-01-01,1658.0,1334.0,2992.0
+Pahang,Temerloh,2018-01-01,1684.0,1349.0,3033.0
+Pahang,Temerloh,2019-01-01,1669.0,1345.0,3014.0
+Pahang,Temerloh,2020-01-01,1655.0,1323.0,2978.0
+Pahang,Temerloh,2021-01-01,1623.0,1289.0,2912.0
+Pahang,Temerloh,2022-01-01,1640.0,1353.0,2993.0
+Pahang,Temerloh,2023-06-30,1614.0,1315.0,2929.0
+Pahang,Temerloh,2024-06-30,1586.0,1327.0,2913.0
+Pahang,Temerloh,2025-06-30,1592.0,1316.0,2908.0
+Perak,Bagan Datuk,2018-01-01,896.0,604.0,1500.0
+Perak,Bagan Datuk,2019-01-01,850.0,589.0,1439.0
+Perak,Bagan Datuk,2020-01-01,860.0,587.0,1447.0
+Perak,Bagan Datuk,2021-01-01,831.0,564.0,1395.0
+Perak,Bagan Datuk,2022-01-01,843.0,573.0,1416.0
+Perak,Bagan Datuk,2023-06-30,825.0,552.0,1377.0
+Perak,Bagan Datuk,2024-06-30,828.0,548.0,1376.0
+Perak,Bagan Datuk,2025-06-30,840.0,554.0,1394.0
+Perak,Batang Padang,2017-01-01,1916.0,1560.0,3476.0
+Perak,Batang Padang,2018-01-01,1270.0,934.0,2204.0
+Perak,Batang Padang,2019-01-01,1251.0,909.0,2160.0
+Perak,Batang Padang,2020-01-01,1260.0,877.0,2137.0
+Perak,Batang Padang,2021-01-01,1231.0,860.0,2091.0
+Perak,Batang Padang,2022-01-01,1270.0,882.0,2152.0
+Perak,Batang Padang,2023-06-30,1255.0,855.0,2110.0
+Perak,Batang Padang,2024-06-30,1258.0,856.0,2114.0
+Perak,Batang Padang,2025-06-30,1271.0,856.0,2127.0
+Perak,Hilir Perak,2017-01-01,2175.0,1747.0,3922.0
+Perak,Hilir Perak,2018-01-01,1238.0,1145.0,2383.0
+Perak,Hilir Perak,2019-01-01,1199.0,1152.0,2351.0
+Perak,Hilir Perak,2020-01-01,1192.0,1147.0,2339.0
+Perak,Hilir Perak,2021-01-01,1178.0,1106.0,2284.0
+Perak,Hilir Perak,2022-01-01,1198.0,1093.0,2291.0
+Perak,Hilir Perak,2023-06-30,1182.0,1079.0,2261.0
+Perak,Hilir Perak,2024-06-30,1199.0,1096.0,2295.0
+Perak,Hilir Perak,2025-06-30,1217.0,1086.0,2303.0
+Perak,Hulu Perak,2017-01-01,1207.0,836.0,2043.0
+Perak,Hulu Perak,2018-01-01,1212.0,832.0,2044.0
+Perak,Hulu Perak,2019-01-01,1168.0,832.0,2000.0
+Perak,Hulu Perak,2020-01-01,1171.0,815.0,1986.0
+Perak,Hulu Perak,2021-01-01,1144.0,814.0,1958.0
+Perak,Hulu Perak,2022-01-01,1176.0,814.0,1990.0
+Perak,Hulu Perak,2023-06-30,1139.0,791.0,1930.0
+Perak,Hulu Perak,2024-06-30,1163.0,769.0,1932.0
+Perak,Hulu Perak,2025-06-30,1186.0,779.0,1965.0
+Perak,Kampar,2018-01-01,832.0,605.0,1437.0
+Perak,Kampar,2019-01-01,813.0,586.0,1399.0
+Perak,Kampar,2020-01-01,813.0,581.0,1394.0
+Perak,Kampar,2021-01-01,800.0,570.0,1370.0
+Perak,Kampar,2022-01-01,805.0,581.0,1386.0
+Perak,Kerian,2017-01-01,1844.0,1661.0,3505.0
+Perak,Kerian,2018-01-01,1867.0,1715.0,3582.0
+Perak,Kerian,2019-01-01,1814.0,1696.0,3510.0
+Perak,Kerian,2020-01-01,1781.0,1680.0,3461.0
+Perak,Kerian,2021-01-01,1719.0,1631.0,3350.0
+Perak,Kerian,2022-01-01,1723.0,1630.0,3353.0
+Perak,Kerian,2023-06-30,1692.0,1603.0,3295.0
+Perak,Kerian,2024-06-30,1707.0,1604.0,3311.0
+Perak,Kerian,2025-06-30,1683.0,1584.0,3267.0
+Perak,Kinta,2017-01-01,5809.0,5334.0,11143.0
+Perak,Kinta,2018-01-01,5217.0,4681.0,9898.0
+Perak,Kinta,2019-01-01,5124.0,4613.0,9737.0
+Perak,Kinta,2020-01-01,5139.0,4538.0,9677.0
+Perak,Kinta,2021-01-01,5085.0,4394.0,9479.0
+Perak,Kinta,2022-01-01,5123.0,4654.0,9777.0
+Perak,Kinta Selatan,2023-06-30,1489.0,1050.0,2539.0
+Perak,Kinta Selatan,2024-06-30,1526.0,1047.0,2573.0
+Perak,Kinta Selatan,2025-06-30,1518.0,1046.0,2564.0
+Perak,Kinta Utara,2023-06-30,4285.0,4031.0,8316.0
+Perak,Kinta Utara,2024-06-30,4309.0,4077.0,8386.0
+Perak,Kinta Utara,2025-06-30,4261.0,4027.0,8288.0
+Perak,Kuala Kangsar,2017-01-01,1834.0,1614.0,3448.0
+Perak,Kuala Kangsar,2018-01-01,1853.0,1645.0,3498.0
+Perak,Kuala Kangsar,2019-01-01,1823.0,1628.0,3451.0
+Perak,Kuala Kangsar,2020-01-01,1811.0,1623.0,3434.0
+Perak,Kuala Kangsar,2021-01-01,1782.0,1575.0,3357.0
+Perak,Kuala Kangsar,2022-01-01,1831.0,1582.0,3413.0
+Perak,Kuala Kangsar,2023-06-30,1807.0,1563.0,3370.0
+Perak,Kuala Kangsar,2024-06-30,1827.0,1589.0,3416.0
+Perak,Kuala Kangsar,2025-06-30,1851.0,1593.0,3444.0
+Perak,Larut Matang & Selama,2018-01-01,2869.0,2517.0,5386.0
+Perak,Larut Matang & Selama,2019-01-01,2790.0,2439.0,5229.0
+Perak,Larut Matang & Selama,2020-01-01,2749.0,2385.0,5134.0
+Perak,Larut Matang & Selama,2021-01-01,2719.0,2318.0,5037.0
+Perak,Larut Matang & Selama,2022-01-01,2761.0,2333.0,5094.0
+Perak,Larut dan Matang,2017-01-01,2841.0,2591.0,5432.0
+Perak,Larut/Matang/Selama,2023-06-30,2696.0,2275.0,4971.0
+Perak,Larut/Matang/Selama,2024-06-30,2742.0,2290.0,5032.0
+Perak,Larut/Matang/Selama,2025-06-30,2766.0,2279.0,5045.0
+Perak,Manjung,2023-06-30,2178.0,1527.0,3705.0
+Perak,Manjung,2024-06-30,2229.0,1533.0,3762.0
+Perak,Manjung,2025-06-30,2209.0,1544.0,3753.0
+Perak,Manjung (Dinding),2017-01-01,2189.0,1683.0,3872.0
+Perak,Manjung (Dinding),2018-01-01,2269.0,1625.0,3894.0
+Perak,Manjung (Dinding),2019-01-01,2211.0,1603.0,3814.0
+Perak,Manjung (Dinding),2020-01-01,2210.0,1584.0,3794.0
+Perak,Manjung (Dinding),2021-01-01,2205.0,1566.0,3771.0
+Perak,Manjung (Dinding),2022-01-01,2232.0,1588.0,3820.0
+Perak,Muallim,2018-01-01,702.0,629.0,1331.0
+Perak,Muallim,2019-01-01,694.0,652.0,1346.0
+Perak,Muallim,2020-01-01,710.0,643.0,1353.0
+Perak,Muallim,2021-01-01,709.0,635.0,1344.0
+Perak,Muallim,2022-01-01,728.0,645.0,1373.0
+Perak,Muallim,2023-06-30,728.0,625.0,1353.0
+Perak,Muallim,2024-06-30,741.0,649.0,1390.0
+Perak,Muallim,2025-06-30,750.0,656.0,1406.0
+Perak,Perak Tengah,2017-01-01,1128.0,932.0,2060.0
+Perak,Perak Tengah,2018-01-01,1177.0,957.0,2134.0
+Perak,Perak Tengah,2019-01-01,1146.0,938.0,2084.0
+Perak,Perak Tengah,2020-01-01,1136.0,927.0,2063.0
+Perak,Perak Tengah,2021-01-01,1108.0,906.0,2014.0
+Perak,Perak Tengah,2022-01-01,1140.0,958.0,2098.0
+Perak,Perak Tengah,2023-06-30,1114.0,942.0,2056.0
+Perak,Perak Tengah,2024-06-30,1143.0,955.0,2098.0
+Perak,Perak Tengah,2025-06-30,1169.0,960.0,2129.0
+Perlis,Perlis,2017-01-01,2327.0,2311.0,4638.0
+Perlis,Perlis,2018-01-01,2395.0,2353.0,4748.0
+Perlis,Perlis,2019-01-01,2377.0,2350.0,4727.0
+Perlis,Perlis,2020-01-01,2393.0,2330.0,4723.0
+Perlis,Perlis,2021-01-01,2394.0,2261.0,4655.0
+Perlis,Perlis,2022-01-01,2412.0,2282.0,4694.0
+Perlis,Perlis,2023-06-30,2364.0,2269.0,4633.0
+Perlis,Perlis,2024-06-30,2373.0,2277.0,4650.0
+Perlis,Perlis,2025-06-30,2410.0,2288.0,4698.0
+Pulau Pinang,Barat Daya,2017-01-01,1501.0,901.0,2402.0
+Pulau Pinang,Barat Daya,2018-01-01,1534.0,947.0,2481.0
+Pulau Pinang,Barat Daya,2019-01-01,1499.0,945.0,2444.0
+Pulau Pinang,Barat Daya,2020-01-01,1512.0,930.0,2442.0
+Pulau Pinang,Barat Daya,2021-01-01,1495.0,910.0,2405.0
+Pulau Pinang,Barat Daya,2022-01-01,1501.0,869.0,2370.0
+Pulau Pinang,Barat Daya,2023-06-30,1482.0,854.0,2336.0
+Pulau Pinang,Barat Daya,2024-06-30,1513.0,880.0,2393.0
+Pulau Pinang,Barat Daya,2025-06-30,1518.0,897.0,2415.0
+Pulau Pinang,Seberang Perai Selatan,2017-01-01,1420.0,1232.0,2652.0
+Pulau Pinang,Seberang Perai Selatan,2018-01-01,1468.0,1273.0,2741.0
+Pulau Pinang,Seberang Perai Selatan,2019-01-01,1461.0,1313.0,2774.0
+Pulau Pinang,Seberang Perai Selatan,2020-01-01,1475.0,1309.0,2784.0
+Pulau Pinang,Seberang Perai Selatan,2021-01-01,1459.0,1276.0,2735.0
+Pulau Pinang,Seberang Perai Selatan,2022-01-01,1488.0,1277.0,2765.0
+Pulau Pinang,Seberang Perai Selatan,2023-06-30,1460.0,1248.0,2708.0
+Pulau Pinang,Seberang Perai Selatan,2024-06-30,1446.0,1245.0,2691.0
+Pulau Pinang,Seberang Perai Selatan,2025-06-30,1430.0,1273.0,2703.0
+Pulau Pinang,Seberang Perai Tengah,2017-01-01,2645.0,2321.0,4966.0
+Pulau Pinang,Seberang Perai Tengah,2018-01-01,2701.0,2294.0,4995.0
+Pulau Pinang,Seberang Perai Tengah,2019-01-01,2650.0,2297.0,4947.0
+Pulau Pinang,Seberang Perai Tengah,2020-01-01,2622.0,2250.0,4872.0
+Pulau Pinang,Seberang Perai Tengah,2021-01-01,2567.0,2192.0,4759.0
+Pulau Pinang,Seberang Perai Tengah,2022-01-01,2596.0,2264.0,4860.0
+Pulau Pinang,Seberang Perai Tengah,2023-06-30,2549.0,2164.0,4713.0
+Pulau Pinang,Seberang Perai Tengah,2024-06-30,2562.0,2138.0,4700.0
+Pulau Pinang,Seberang Perai Tengah,2025-06-30,2548.0,2172.0,4720.0
+Pulau Pinang,Seberang Perai Utara,2017-01-01,2552.0,2245.0,4797.0
+Pulau Pinang,Seberang Perai Utara,2018-01-01,2669.0,2223.0,4892.0
+Pulau Pinang,Seberang Perai Utara,2019-01-01,2599.0,2202.0,4801.0
+Pulau Pinang,Seberang Perai Utara,2020-01-01,2597.0,2148.0,4745.0
+Pulau Pinang,Seberang Perai Utara,2021-01-01,2583.0,2112.0,4695.0
+Pulau Pinang,Seberang Perai Utara,2022-01-01,2635.0,2175.0,4810.0
+Pulau Pinang,Seberang Perai Utara,2023-06-30,2557.0,2114.0,4671.0
+Pulau Pinang,Seberang Perai Utara,2024-06-30,2523.0,2124.0,4647.0
+Pulau Pinang,Seberang Perai Utara,2025-06-30,2535.0,2164.0,4699.0
+Pulau Pinang,Timur Laut,2017-01-01,2486.0,2848.0,5334.0
+Pulau Pinang,Timur Laut,2018-01-01,2514.0,2759.0,5273.0
+Pulau Pinang,Timur Laut,2019-01-01,2434.0,2674.0,5108.0
+Pulau Pinang,Timur Laut,2020-01-01,2439.0,2581.0,5020.0
+Pulau Pinang,Timur Laut,2021-01-01,2401.0,2492.0,4893.0
+Pulau Pinang,Timur Laut,2022-01-01,2433.0,2441.0,4874.0
+Pulau Pinang,Timur Laut,2023-06-30,2359.0,2393.0,4752.0
+Pulau Pinang,Timur Laut,2024-06-30,2334.0,2356.0,4690.0
+Pulau Pinang,Timur Laut,2025-06-30,2324.0,2351.0,4675.0
+Sabah,Beaufort,2017-01-01,1013.0,655.0,1668.0
+Sabah,Beaufort,2018-01-01,1074.0,667.0,1741.0
+Sabah,Beaufort,2019-01-01,1046.0,682.0,1728.0
+Sabah,Beaufort,2020-01-01,1046.0,683.0,1729.0
+Sabah,Beaufort,2021-01-01,1039.0,674.0,1713.0
+Sabah,Beaufort,2022-01-01,1039.0,661.0,1700.0
+Sabah,Beaufort,2023-06-30,986.0,659.0,1645.0
+Sabah,Beaufort,2024-06-30,992.0,667.0,1659.0
+Sabah,Beaufort,2025-06-30,1013.0,675.0,1688.0
+Sabah,Beluran,2017-01-01,627.0,269.0,896.0
+Sabah,Beluran,2018-01-01,733.0,283.0,1016.0
+Sabah,Beluran,2019-01-01,709.0,273.0,982.0
+Sabah,Beluran,2020-01-01,756.0,269.0,1025.0
+Sabah,Beluran,2021-01-01,774.0,255.0,1029.0
+Sabah,Beluran,2022-01-01,747.0,294.0,1041.0
+Sabah,Beluran,2023-06-30,737.0,311.0,1048.0
+Sabah,Beluran,2024-06-30,776.0,318.0,1094.0
+Sabah,Beluran,2025-06-30,764.0,312.0,1076.0
+Sabah,Keningau,2017-01-01,1615.0,1055.0,2670.0
+Sabah,Keningau,2018-01-01,1667.0,1132.0,2799.0
+Sabah,Keningau,2019-01-01,1667.0,1153.0,2820.0
+Sabah,Keningau,2020-01-01,1693.0,1181.0,2874.0
+Sabah,Keningau,2021-01-01,1695.0,1164.0,2859.0
+Sabah,Keningau,2022-01-01,1692.0,1194.0,2886.0
+Sabah,Keningau,2023-06-30,1670.0,1209.0,2879.0
+Sabah,Keningau,2024-06-30,1673.0,1223.0,2896.0
+Sabah,Keningau,2025-06-30,1676.0,1225.0,2901.0
+Sabah,Kinabatangan,2017-01-01,566.0,197.0,763.0
+Sabah,Kinabatangan,2018-01-01,597.0,219.0,816.0
+Sabah,Kinabatangan,2019-01-01,588.0,218.0,806.0
+Sabah,Kinabatangan,2020-01-01,654.0,220.0,874.0
+Sabah,Kinabatangan,2021-01-01,634.0,207.0,841.0
+Sabah,Kinabatangan,2022-01-01,607.0,218.0,825.0
+Sabah,Kinabatangan,2023-06-30,613.0,224.0,837.0
+Sabah,Kinabatangan,2024-06-30,645.0,233.0,878.0
+Sabah,Kinabatangan,2025-06-30,640.0,238.0,878.0
+Sabah,Kota Belud,2017-01-01,1174.0,746.0,1920.0
+Sabah,Kota Belud,2018-01-01,1209.0,737.0,1946.0
+Sabah,Kota Belud,2019-01-01,1205.0,716.0,1921.0
+Sabah,Kota Belud,2020-01-01,1243.0,716.0,1959.0
+Sabah,Kota Belud,2021-01-01,1225.0,700.0,1925.0
+Sabah,Kota Belud,2022-01-01,1240.0,721.0,1961.0
+Sabah,Kota Belud,2023-06-30,1211.0,733.0,1944.0
+Sabah,Kota Belud,2024-06-30,1213.0,742.0,1955.0
+Sabah,Kota Belud,2025-06-30,1218.0,748.0,1966.0
+Sabah,Kota Kinabalu,2017-01-01,2394.0,1878.0,4272.0
+Sabah,Kota Kinabalu,2018-01-01,2494.0,1978.0,4472.0
+Sabah,Kota Kinabalu,2019-01-01,2520.0,1951.0,4471.0
+Sabah,Kota Kinabalu,2020-01-01,2606.0,1974.0,4580.0
+Sabah,Kota Kinabalu,2021-01-01,2599.0,1920.0,4519.0
+Sabah,Kota Kinabalu,2022-01-01,2658.0,1980.0,4638.0
+Sabah,Kota Kinabalu,2023-06-30,2616.0,1972.0,4588.0
+Sabah,Kota Kinabalu,2024-06-30,2634.0,1999.0,4633.0
+Sabah,Kota Kinabalu,2025-06-30,2595.0,2029.0,4624.0
+Sabah,Kota Marudu,2017-01-01,836.0,500.0,1336.0
+Sabah,Kota Marudu,2018-01-01,864.0,520.0,1384.0
+Sabah,Kota Marudu,2019-01-01,856.0,540.0,1396.0
+Sabah,Kota Marudu,2020-01-01,887.0,542.0,1429.0
+Sabah,Kota Marudu,2021-01-01,877.0,534.0,1411.0
+Sabah,Kota Marudu,2022-01-01,884.0,583.0,1467.0
+Sabah,Kota Marudu,2023-06-30,884.0,590.0,1474.0
+Sabah,Kota Marudu,2024-06-30,884.0,595.0,1479.0
+Sabah,Kota Marudu,2025-06-30,871.0,603.0,1474.0
+Sabah,Kuala Penyu,2017-01-01,402.0,194.0,596.0
+Sabah,Kuala Penyu,2018-01-01,432.0,190.0,622.0
+Sabah,Kuala Penyu,2019-01-01,412.0,184.0,596.0
+Sabah,Kuala Penyu,2020-01-01,418.0,186.0,604.0
+Sabah,Kuala Penyu,2021-01-01,409.0,180.0,589.0
+Sabah,Kuala Penyu,2022-01-01,423.0,187.0,610.0
+Sabah,Kuala Penyu,2023-06-30,409.0,190.0,599.0
+Sabah,Kuala Penyu,2024-06-30,406.0,190.0,596.0
+Sabah,Kuala Penyu,2025-06-30,418.0,186.0,604.0
+Sabah,Kudat,2017-01-01,1063.0,685.0,1748.0
+Sabah,Kudat,2018-01-01,1104.0,782.0,1886.0
+Sabah,Kudat,2019-01-01,1092.0,779.0,1871.0
+Sabah,Kudat,2020-01-01,1124.0,787.0,1911.0
+Sabah,Kudat,2021-01-01,1125.0,771.0,1896.0
+Sabah,Kudat,2022-01-01,1123.0,792.0,1915.0
+Sabah,Kudat,2023-06-30,1109.0,804.0,1913.0
+Sabah,Kudat,2024-06-30,1128.0,818.0,1946.0
+Sabah,Kudat,2025-06-30,1120.0,825.0,1945.0
+Sabah,Kunak,2017-01-01,411.0,258.0,669.0
+Sabah,Kunak,2018-01-01,451.0,267.0,718.0
+Sabah,Kunak,2019-01-01,447.0,270.0,717.0
+Sabah,Kunak,2020-01-01,465.0,257.0,722.0
+Sabah,Kunak,2021-01-01,469.0,252.0,721.0
+Sabah,Kunak,2022-01-01,466.0,265.0,731.0
+Sabah,Kunak,2023-06-30,471.0,280.0,751.0
+Sabah,Kunak,2024-06-30,484.0,280.0,764.0
+Sabah,Kunak,2025-06-30,489.0,292.0,781.0
+Sabah,Lahad Datu,2017-01-01,1203.0,872.0,2075.0
+Sabah,Lahad Datu,2018-01-01,1290.0,967.0,2257.0
+Sabah,Lahad Datu,2019-01-01,1256.0,987.0,2243.0
+Sabah,Lahad Datu,2020-01-01,1355.0,987.0,2342.0
+Sabah,Lahad Datu,2021-01-01,1362.0,950.0,2312.0
+Sabah,Lahad Datu,2022-01-01,1316.0,1002.0,2318.0
+Sabah,Lahad Datu,2023-06-30,1330.0,1021.0,2351.0
+Sabah,Lahad Datu,2024-06-30,1392.0,1047.0,2439.0
+Sabah,Lahad Datu,2025-06-30,1382.0,1032.0,2414.0
+Sabah,Nabawan,2017-01-01,393.0,185.0,578.0
+Sabah,Nabawan,2018-01-01,480.0,178.0,658.0
+Sabah,Nabawan,2019-01-01,458.0,190.0,648.0
+Sabah,Nabawan,2020-01-01,475.0,183.0,658.0
+Sabah,Nabawan,2021-01-01,461.0,176.0,637.0
+Sabah,Nabawan,2022-01-01,481.0,188.0,669.0
+Sabah,Papar,2017-01-01,1248.0,805.0,2053.0
+Sabah,Papar,2018-01-01,1237.0,815.0,2052.0
+Sabah,Papar,2019-01-01,1240.0,822.0,2062.0
+Sabah,Papar,2020-01-01,1237.0,831.0,2068.0
+Sabah,Papar,2021-01-01,1253.0,842.0,2095.0
+Sabah,Papar,2022-01-01,1249.0,848.0,2097.0
+Sabah,Papar,2023-06-30,1265.0,849.0,2114.0
+Sabah,Papar,2024-06-30,1269.0,859.0,2128.0
+Sabah,Papar,2025-06-30,1286.0,859.0,2145.0
+Sabah,Penampang,2017-01-01,995.0,648.0,1643.0
+Sabah,Penampang,2018-01-01,965.0,661.0,1626.0
+Sabah,Penampang,2019-01-01,978.0,645.0,1623.0
+Sabah,Penampang,2020-01-01,1010.0,670.0,1680.0
+Sabah,Penampang,2021-01-01,1012.0,661.0,1673.0
+Sabah,Penampang,2022-01-01,1001.0,701.0,1702.0
+Sabah,Penampang,2023-06-30,1074.0,729.0,1803.0
+Sabah,Penampang,2024-06-30,1077.0,756.0,1833.0
+Sabah,Penampang,2025-06-30,1076.0,760.0,1836.0
+Sabah,Pensiangan,2023-06-30,456.0,204.0,660.0
+Sabah,Pensiangan,2024-06-30,468.0,208.0,676.0
+Sabah,Pensiangan,2025-06-30,480.0,207.0,687.0
+Sabah,Pitas,2017-01-01,551.0,312.0,863.0
+Sabah,Pitas,2018-01-01,621.0,334.0,955.0
+Sabah,Pitas,2019-01-01,610.0,335.0,945.0
+Sabah,Pitas,2020-01-01,630.0,331.0,961.0
+Sabah,Pitas,2021-01-01,622.0,315.0,937.0
+Sabah,Pitas,2022-01-01,622.0,360.0,982.0
+Sabah,Pitas,2023-06-30,614.0,355.0,969.0
+Sabah,Pitas,2024-06-30,632.0,361.0,993.0
+Sabah,Pitas,2025-06-30,638.0,363.0,1001.0
+Sabah,Ranau,2017-01-01,1224.0,734.0,1958.0
+Sabah,Ranau,2018-01-01,1256.0,740.0,1996.0
+Sabah,Ranau,2019-01-01,1265.0,728.0,1993.0
+Sabah,Ranau,2020-01-01,1276.0,730.0,2006.0
+Sabah,Ranau,2021-01-01,1271.0,706.0,1977.0
+Sabah,Ranau,2022-01-01,1260.0,719.0,1979.0
+Sabah,Ranau,2023-06-30,1256.0,716.0,1972.0
+Sabah,Ranau,2024-06-30,1257.0,721.0,1978.0
+Sabah,Ranau,2025-06-30,1261.0,739.0,2000.0
+Sabah,Sandakan,2017-01-01,2013.0,1433.0,3446.0
+Sabah,Sandakan,2018-01-01,2097.0,1481.0,3578.0
+Sabah,Sandakan,2019-01-01,2060.0,1491.0,3551.0
+Sabah,Sandakan,2020-01-01,2153.0,1488.0,3641.0
+Sabah,Sandakan,2021-01-01,2134.0,1450.0,3584.0
+Sabah,Sandakan,2022-01-01,2085.0,1476.0,3561.0
+Sabah,Sandakan,2023-06-30,2099.0,1499.0,3598.0
+Sabah,Sandakan,2024-06-30,2155.0,1555.0,3710.0
+Sabah,Sandakan,2025-06-30,2136.0,1564.0,3700.0
+Sabah,Semporna,2017-01-01,1157.0,749.0,1906.0
+Sabah,Semporna,2018-01-01,1254.0,777.0,2031.0
+Sabah,Semporna,2019-01-01,1237.0,772.0,2009.0
+Sabah,Semporna,2020-01-01,1276.0,761.0,2037.0
+Sabah,Semporna,2021-01-01,1252.0,736.0,1988.0
+Sabah,Semporna,2022-01-01,1247.0,779.0,2026.0
+Sabah,Semporna,2023-06-30,1267.0,793.0,2060.0
+Sabah,Semporna,2024-06-30,1298.0,802.0,2100.0
+Sabah,Semporna,2025-06-30,1290.0,791.0,2081.0
+Sabah,Sipitang,2017-01-01,465.0,257.0,722.0
+Sabah,Sipitang,2018-01-01,492.0,251.0,743.0
+Sabah,Sipitang,2019-01-01,479.0,246.0,725.0
+Sabah,Sipitang,2020-01-01,486.0,247.0,733.0
+Sabah,Sipitang,2021-01-01,491.0,238.0,729.0
+Sabah,Sipitang,2022-01-01,479.0,248.0,727.0
+Sabah,Sipitang,2023-06-30,467.0,247.0,714.0
+Sabah,Sipitang,2024-06-30,484.0,244.0,728.0
+Sabah,Sipitang,2025-06-30,475.0,247.0,722.0
+Sabah,Tambunan,2017-01-01,556.0,289.0,845.0
+Sabah,Tambunan,2018-01-01,562.0,282.0,844.0
+Sabah,Tambunan,2019-01-01,558.0,279.0,837.0
+Sabah,Tambunan,2020-01-01,549.0,278.0,827.0
+Sabah,Tambunan,2021-01-01,544.0,273.0,817.0
+Sabah,Tambunan,2022-01-01,535.0,282.0,817.0
+Sabah,Tambunan,2023-06-30,518.0,283.0,801.0
+Sabah,Tambunan,2024-06-30,517.0,278.0,795.0
+Sabah,Tambunan,2025-06-30,518.0,279.0,797.0
+Sabah,Tawau,2017-01-01,2258.0,1567.0,3825.0
+Sabah,Tawau,2018-01-01,2316.0,1637.0,3953.0
+Sabah,Tawau,2019-01-01,2275.0,1655.0,3930.0
+Sabah,Tawau,2020-01-01,2322.0,1691.0,4013.0
+Sabah,Tawau,2021-01-01,2329.0,1677.0,4006.0
+Sabah,Tawau,2022-01-01,2327.0,1740.0,4067.0
+Sabah,Tawau,2023-06-30,2325.0,1731.0,4056.0
+Sabah,Tawau,2024-06-30,2301.0,1736.0,4037.0
+Sabah,Tawau,2025-06-30,2305.0,1745.0,4050.0
+Sabah,Telupid,2018-01-01,187.0,127.0,314.0
+Sabah,Telupid,2019-01-01,172.0,128.0,300.0
+Sabah,Telupid,2020-01-01,176.0,127.0,303.0
+Sabah,Telupid,2021-01-01,173.0,122.0,295.0
+Sabah,Telupid,2022-01-01,174.0,133.0,307.0
+Sabah,Telupid/Tongod,2023-06-30,547.0,310.0,857.0
+Sabah,Telupid/Tongod,2024-06-30,565.0,314.0,879.0
+Sabah,Telupid/Tongod,2025-06-30,574.0,313.0,887.0
+Sabah,Tenom,2017-01-01,734.0,341.0,1075.0
+Sabah,Tenom,2018-01-01,819.0,339.0,1158.0
+Sabah,Tenom,2019-01-01,789.0,335.0,1124.0
+Sabah,Tenom,2020-01-01,798.0,341.0,1139.0
+Sabah,Tenom,2021-01-01,809.0,325.0,1134.0
+Sabah,Tenom,2022-01-01,815.0,341.0,1156.0
+Sabah,Tenom,2023-06-30,807.0,360.0,1167.0
+Sabah,Tenom,2024-06-30,816.0,365.0,1181.0
+Sabah,Tenom,2025-06-30,805.0,367.0,1172.0
+Sabah,Tongod,2017-01-01,488.0,264.0,752.0
+Sabah,Tongod,2018-01-01,360.0,147.0,507.0
+Sabah,Tongod,2019-01-01,354.0,163.0,517.0
+Sabah,Tongod,2020-01-01,366.0,159.0,525.0
+Sabah,Tongod,2021-01-01,366.0,155.0,521.0
+Sabah,Tongod,2022-01-01,363.0,176.0,539.0
+Sabah,Tuaran,2017-01-01,1437.0,769.0,2206.0
+Sabah,Tuaran,2018-01-01,1497.0,758.0,2255.0
+Sabah,Tuaran,2019-01-01,1510.0,772.0,2282.0
+Sabah,Tuaran,2020-01-01,1547.0,785.0,2332.0
+Sabah,Tuaran,2021-01-01,1562.0,795.0,2357.0
+Sabah,Tuaran,2022-01-01,1583.0,811.0,2394.0
+Sabah,Tuaran,2023-06-30,1557.0,850.0,2407.0
+Sabah,Tuaran,2024-06-30,1582.0,861.0,2443.0
+Sabah,Tuaran,2025-06-30,1625.0,874.0,2499.0
+Sarawak,Asajaya,2018-01-01,523.0,342.0,865.0
+Sarawak,Asajaya,2019-01-01,528.0,326.0,854.0
+Sarawak,Asajaya,2020-01-01,531.0,333.0,864.0
+Sarawak,Asajaya,2021-01-01,520.0,329.0,849.0
+Sarawak,Asajaya,2022-01-01,508.0,342.0,850.0
+Sarawak,Baram,2023-06-30,691.0,340.0,1031.0
+Sarawak,Baram,2024-06-30,764.0,363.0,1127.0
+Sarawak,Baram,2025-06-30,828.0,357.0,1185.0
+Sarawak,Bau,2017-01-01,621.0,378.0,999.0
+Sarawak,Bau,2018-01-01,651.0,373.0,1024.0
+Sarawak,Bau,2019-01-01,660.0,377.0,1037.0
+Sarawak,Bau,2020-01-01,658.0,371.0,1029.0
+Sarawak,Bau,2021-01-01,655.0,364.0,1019.0
+Sarawak,Bau,2022-01-01,657.0,377.0,1034.0
+Sarawak,Bau,2023-06-30,653.0,379.0,1032.0
+Sarawak,Bau,2024-06-30,644.0,373.0,1017.0
+Sarawak,Bau,2025-06-30,660.0,372.0,1032.0
+Sarawak,Belaga,2017-01-01,271.0,148.0,419.0
+Sarawak,Belaga,2018-01-01,205.0,151.0,356.0
+Sarawak,Belaga,2019-01-01,195.0,149.0,344.0
+Sarawak,Belaga,2020-01-01,203.0,150.0,353.0
+Sarawak,Belaga,2021-01-01,197.0,139.0,336.0
+Sarawak,Belaga,2022-01-01,199.0,143.0,342.0
+Sarawak,Belaga,2023-06-30,259.0,144.0,403.0
+Sarawak,Belaga,2024-06-30,261.0,147.0,408.0
+Sarawak,Belaga,2025-06-30,269.0,145.0,414.0
+Sarawak,Betong,2017-01-01,888.0,559.0,1447.0
+Sarawak,Betong,2018-01-01,903.0,633.0,1536.0
+Sarawak,Betong,2019-01-01,910.0,604.0,1514.0
+Sarawak,Betong,2020-01-01,903.0,582.0,1485.0
+Sarawak,Betong,2021-01-01,883.0,557.0,1440.0
+Sarawak,Betong,2022-01-01,840.0,589.0,1429.0
+Sarawak,Betong,2023-06-30,832.0,586.0,1418.0
+Sarawak,Betong,2024-06-30,848.0,598.0,1446.0
+Sarawak,Betong,2025-06-30,874.0,588.0,1462.0
+Sarawak,Bintulu,2017-01-01,1103.0,913.0,2016.0
+Sarawak,Bintulu,2018-01-01,1173.0,972.0,2145.0
+Sarawak,Bintulu,2019-01-01,1171.0,980.0,2151.0
+Sarawak,Bintulu,2020-01-01,1166.0,940.0,2106.0
+Sarawak,Bintulu,2021-01-01,1154.0,900.0,2054.0
+Sarawak,Bintulu,2022-01-01,1129.0,975.0,2104.0
+Sarawak,Bintulu,2023-06-30,1089.0,999.0,2088.0
+Sarawak,Bintulu,2024-06-30,1101.0,1054.0,2155.0
+Sarawak,Bintulu,2025-06-30,1171.0,1054.0,2225.0
+Sarawak,Dalat,2017-01-01,399.0,231.0,630.0
+Sarawak,Dalat,2018-01-01,414.0,239.0,653.0
+Sarawak,Dalat,2019-01-01,395.0,230.0,625.0
+Sarawak,Dalat,2020-01-01,389.0,215.0,604.0
+Sarawak,Dalat,2021-01-01,379.0,200.0,579.0
+Sarawak,Dalat,2022-01-01,365.0,216.0,581.0
+Sarawak,Dalat,2023-06-30,369.0,218.0,587.0
+Sarawak,Dalat,2024-06-30,387.0,233.0,620.0
+Sarawak,Dalat,2025-06-30,409.0,237.0,646.0
+Sarawak,Daro,2017-01-01,668.0,195.0,863.0
+Sarawak,Daro,2018-01-01,678.0,178.0,856.0
+Sarawak,Daro,2019-01-01,685.0,178.0,863.0
+Sarawak,Daro,2020-01-01,670.0,176.0,846.0
+Sarawak,Daro,2021-01-01,641.0,167.0,808.0
+Sarawak,Daro,2022-01-01,612.0,182.0,794.0
+Sarawak,Daro,2023-06-30,615.0,231.0,846.0
+Sarawak,Daro,2024-06-30,640.0,236.0,876.0
+Sarawak,Daro,2025-06-30,669.0,241.0,910.0
+Sarawak,Julau,2017-01-01,466.0,169.0,635.0
+Sarawak,Julau,2018-01-01,497.0,170.0,667.0
+Sarawak,Julau,2019-01-01,475.0,168.0,643.0
+Sarawak,Julau,2020-01-01,499.0,168.0,667.0
+Sarawak,Julau,2021-01-01,486.0,161.0,647.0
+Sarawak,Julau,2022-01-01,500.0,175.0,675.0
+Sarawak,Julau,2023-06-30,483.0,170.0,653.0
+Sarawak,Julau,2024-06-30,476.0,171.0,647.0
+Sarawak,Julau,2025-06-30,494.0,170.0,664.0
+Sarawak,Kabong,2018-01-01,59.0,84.0,143.0
+Sarawak,Kabong,2019-01-01,60.0,83.0,143.0
+Sarawak,Kabong,2020-01-01,57.0,74.0,131.0
+Sarawak,Kabong,2021-01-01,55.0,73.0,128.0
+Sarawak,Kabong,2022-01-01,56.0,76.0,132.0
+Sarawak,Kanowit,2017-01-01,506.0,176.0,682.0
+Sarawak,Kanowit,2018-01-01,532.0,183.0,715.0
+Sarawak,Kanowit,2019-01-01,507.0,191.0,698.0
+Sarawak,Kanowit,2020-01-01,510.0,185.0,695.0
+Sarawak,Kanowit,2021-01-01,507.0,177.0,684.0
+Sarawak,Kanowit,2022-01-01,512.0,189.0,701.0
+Sarawak,Kanowit,2023-06-30,506.0,184.0,690.0
+Sarawak,Kanowit,2024-06-30,501.0,194.0,695.0
+Sarawak,Kanowit,2025-06-30,509.0,187.0,696.0
+Sarawak,Kapit,2017-01-01,785.0,380.0,1165.0
+Sarawak,Kapit,2018-01-01,844.0,378.0,1222.0
+Sarawak,Kapit,2019-01-01,807.0,372.0,1179.0
+Sarawak,Kapit,2020-01-01,795.0,362.0,1157.0
+Sarawak,Kapit,2021-01-01,759.0,341.0,1100.0
+Sarawak,Kapit,2022-01-01,699.0,369.0,1068.0
+Sarawak,Kapit,2023-06-30,664.0,378.0,1042.0
+Sarawak,Kapit,2024-06-30,703.0,397.0,1100.0
+Sarawak,Kapit,2025-06-30,744.0,395.0,1139.0
+Sarawak,Kuching,2017-01-01,4450.0,3707.0,8157.0
+Sarawak,Kuching,2018-01-01,4558.0,3735.0,8293.0
+Sarawak,Kuching,2019-01-01,4584.0,3673.0,8257.0
+Sarawak,Kuching,2020-01-01,4569.0,3620.0,8189.0
+Sarawak,Kuching,2021-01-01,4483.0,3509.0,7992.0
+Sarawak,Kuching,2022-01-01,4477.0,3602.0,8079.0
+Sarawak,Kuching,2023-06-30,2404.0,2115.0,4519.0
+Sarawak,Kuching,2024-06-30,2440.0,2180.0,4620.0
+Sarawak,Kuching,2025-06-30,2432.0,2172.0,4604.0
+Sarawak,Lawas,2017-01-01,511.0,228.0,739.0
+Sarawak,Lawas,2018-01-01,532.0,242.0,774.0
+Sarawak,Lawas,2019-01-01,518.0,237.0,755.0
+Sarawak,Lawas,2020-01-01,519.0,222.0,741.0
+Sarawak,Lawas,2021-01-01,503.0,206.0,709.0
+Sarawak,Lawas,2022-01-01,459.0,235.0,694.0
+Sarawak,Lawas,2023-06-30,476.0,237.0,713.0
+Sarawak,Lawas,2024-06-30,507.0,251.0,758.0
+Sarawak,Lawas,2025-06-30,535.0,243.0,778.0
+Sarawak,Limbang,2017-01-01,594.0,339.0,933.0
+Sarawak,Limbang,2018-01-01,622.0,353.0,975.0
+Sarawak,Limbang,2019-01-01,593.0,337.0,930.0
+Sarawak,Limbang,2020-01-01,579.0,338.0,917.0
+Sarawak,Limbang,2021-01-01,568.0,322.0,890.0
+Sarawak,Limbang,2022-01-01,533.0,341.0,874.0
+Sarawak,Limbang,2023-06-30,543.0,340.0,883.0
+Sarawak,Limbang,2024-06-30,567.0,351.0,918.0
+Sarawak,Limbang,2025-06-30,594.0,356.0,950.0
+Sarawak,Lubok Antu,2017-01-01,407.0,169.0,576.0
+Sarawak,Lubok Antu,2018-01-01,410.0,162.0,572.0
+Sarawak,Lubok Antu,2019-01-01,385.0,162.0,547.0
+Sarawak,Lubok Antu,2020-01-01,385.0,153.0,538.0
+Sarawak,Lubok Antu,2021-01-01,383.0,143.0,526.0
+Sarawak,Lubok Antu,2022-01-01,392.0,153.0,545.0
+Sarawak,Lubok Antu,2023-06-30,388.0,156.0,544.0
+Sarawak,Lubok Antu,2024-06-30,387.0,160.0,547.0
+Sarawak,Lubok Antu,2025-06-30,407.0,161.0,568.0
+Sarawak,Lundu,2017-01-01,495.0,229.0,724.0
+Sarawak,Lundu,2018-01-01,524.0,227.0,751.0
+Sarawak,Lundu,2019-01-01,525.0,229.0,754.0
+Sarawak,Lundu,2020-01-01,527.0,220.0,747.0
+Sarawak,Lundu,2021-01-01,508.0,218.0,726.0
+Sarawak,Lundu,2022-01-01,514.0,233.0,747.0
+Sarawak,Lundu,2023-06-30,497.0,230.0,727.0
+Sarawak,Lundu,2024-06-30,495.0,231.0,726.0
+Sarawak,Lundu,2025-06-30,507.0,231.0,738.0
+Sarawak,Maradong,2017-01-01,472.0,292.0,764.0
+Sarawak,Maradong,2018-01-01,499.0,290.0,789.0
+Sarawak,Maradong,2019-01-01,484.0,297.0,781.0
+Sarawak,Maradong,2020-01-01,481.0,286.0,767.0
+Sarawak,Maradong,2021-01-01,475.0,279.0,754.0
+Sarawak,Maradong,2022-01-01,472.0,286.0,758.0
+Sarawak,Marudi,2017-01-01,894.0,321.0,1215.0
+Sarawak,Marudi,2018-01-01,1053.0,362.0,1415.0
+Sarawak,Marudi,2019-01-01,1003.0,352.0,1355.0
+Sarawak,Marudi,2020-01-01,977.0,334.0,1311.0
+Sarawak,Marudi,2021-01-01,940.0,305.0,1245.0
+Sarawak,Marudi,2022-01-01,864.0,339.0,1203.0
+Sarawak,Meradong,2023-06-30,456.0,289.0,745.0
+Sarawak,Meradong,2024-06-30,463.0,284.0,747.0
+Sarawak,Meradong,2025-06-30,483.0,292.0,775.0
+Sarawak,Miri,2017-01-01,1641.0,1363.0,3004.0
+Sarawak,Miri,2018-01-01,1866.0,1592.0,3458.0
+Sarawak,Miri,2019-01-01,1851.0,1539.0,3390.0
+Sarawak,Miri,2020-01-01,1833.0,1502.0,3335.0
+Sarawak,Miri,2021-01-01,1799.0,1443.0,3242.0
+Sarawak,Miri,2022-01-01,1745.0,1513.0,3258.0
+Sarawak,Miri,2023-06-30,1617.0,1420.0,3037.0
+Sarawak,Miri,2024-06-30,1679.0,1467.0,3146.0
+Sarawak,Miri,2025-06-30,1745.0,1483.0,3228.0
+Sarawak,Mukah,2017-01-01,516.0,237.0,753.0
+Sarawak,Mukah,2018-01-01,549.0,236.0,785.0
+Sarawak,Mukah,2019-01-01,550.0,241.0,791.0
+Sarawak,Mukah,2020-01-01,548.0,242.0,790.0
+Sarawak,Mukah,2021-01-01,552.0,236.0,788.0
+Sarawak,Mukah,2022-01-01,561.0,247.0,808.0
+Sarawak,Mukah,2023-06-30,553.0,246.0,799.0
+Sarawak,Mukah,2024-06-30,549.0,259.0,808.0
+Sarawak,Mukah,2025-06-30,562.0,260.0,822.0
+Sarawak,Padawan,2023-06-30,1683.0,1234.0,2917.0
+Sarawak,Padawan,2024-06-30,1722.0,1255.0,2977.0
+Sarawak,Padawan,2025-06-30,1744.0,1254.0,2998.0
+Sarawak,Samarahan,2017-01-01,1153.0,865.0,2018.0
+Sarawak,Samarahan,2018-01-01,712.0,559.0,1271.0
+Sarawak,Samarahan,2019-01-01,720.0,562.0,1282.0
+Sarawak,Samarahan,2020-01-01,732.0,554.0,1286.0
+Sarawak,Samarahan,2021-01-01,757.0,545.0,1302.0
+Sarawak,Samarahan,2022-01-01,805.0,579.0,1384.0
+Sarawak,Samarahan,2023-06-30,1337.0,927.0,2264.0
+Sarawak,Samarahan,2024-06-30,1356.0,946.0,2302.0
+Sarawak,Samarahan,2025-06-30,1368.0,960.0,2328.0
+Sarawak,Saratok,2017-01-01,811.0,411.0,1222.0
+Sarawak,Saratok,2018-01-01,756.0,314.0,1070.0
+Sarawak,Saratok,2019-01-01,736.0,308.0,1044.0
+Sarawak,Saratok,2020-01-01,735.0,288.0,1023.0
+Sarawak,Saratok,2021-01-01,730.0,276.0,1006.0
+Sarawak,Saratok,2022-01-01,722.0,288.0,1010.0
+Sarawak,Saratok,2023-06-30,743.0,359.0,1102.0
+Sarawak,Saratok,2024-06-30,766.0,369.0,1135.0
+Sarawak,Saratok,2025-06-30,814.0,367.0,1181.0
+Sarawak,Sarikei,2017-01-01,723.0,391.0,1114.0
+Sarawak,Sarikei,2018-01-01,765.0,431.0,1196.0
+Sarawak,Sarikei,2019-01-01,759.0,428.0,1187.0
+Sarawak,Sarikei,2020-01-01,747.0,416.0,1163.0
+Sarawak,Sarikei,2021-01-01,752.0,412.0,1164.0
+Sarawak,Sarikei,2022-01-01,751.0,434.0,1185.0
+Sarawak,Sarikei,2023-06-30,750.0,392.0,1142.0
+Sarawak,Sarikei,2024-06-30,753.0,396.0,1149.0
+Sarawak,Sarikei,2025-06-30,782.0,401.0,1183.0
+Sarawak,Sebauh,2018-01-01,160.0,75.0,235.0
+Sarawak,Sebauh,2019-01-01,152.0,75.0,227.0
+Sarawak,Sebauh,2020-01-01,150.0,68.0,218.0
+Sarawak,Sebauh,2021-01-01,143.0,64.0,207.0
+Sarawak,Sebauh,2022-01-01,135.0,67.0,202.0
+Sarawak,Selangau,2017-01-01,333.0,48.0,381.0
+Sarawak,Selangau,2023-06-30,320.0,46.0,366.0
+Sarawak,Selangau,2024-06-30,324.0,49.0,373.0
+Sarawak,Selangau,2025-06-30,343.0,50.0,393.0
+Sarawak,Serian,2017-01-01,1173.0,569.0,1742.0
+Sarawak,Serian,2018-01-01,1253.0,561.0,1814.0
+Sarawak,Serian,2019-01-01,1245.0,558.0,1803.0
+Sarawak,Serian,2020-01-01,1255.0,548.0,1803.0
+Sarawak,Serian,2021-01-01,1224.0,529.0,1753.0
+Sarawak,Serian,2022-01-01,1220.0,569.0,1789.0
+Sarawak,Serian,2023-06-30,1548.0,865.0,2413.0
+Sarawak,Serian,2024-06-30,1534.0,891.0,2425.0
+Sarawak,Serian,2025-06-30,1588.0,895.0,2483.0
+Sarawak,Sibu,2017-01-01,2259.0,1851.0,4110.0
+Sarawak,Sibu,2018-01-01,2663.0,1922.0,4585.0
+Sarawak,Sibu,2019-01-01,2634.0,1895.0,4529.0
+Sarawak,Sibu,2020-01-01,2592.0,1853.0,4445.0
+Sarawak,Sibu,2021-01-01,2578.0,1813.0,4391.0
+Sarawak,Sibu,2022-01-01,2583.0,1861.0,4444.0
+Sarawak,Sibu,2023-06-30,2269.0,1809.0,4078.0
+Sarawak,Sibu,2024-06-30,2285.0,1827.0,4112.0
+Sarawak,Sibu,2025-06-30,2341.0,1810.0,4151.0
+Sarawak,Simunjan,2017-01-01,756.0,255.0,1011.0
+Sarawak,Simunjan,2018-01-01,766.0,241.0,1007.0
+Sarawak,Simunjan,2019-01-01,752.0,241.0,993.0
+Sarawak,Simunjan,2020-01-01,722.0,229.0,951.0
+Sarawak,Simunjan,2021-01-01,708.0,220.0,928.0
+Sarawak,Simunjan,2022-01-01,713.0,232.0,945.0
+Sarawak,Simunjan,2023-06-30,688.0,230.0,918.0
+Sarawak,Simunjan,2024-06-30,689.0,234.0,923.0
+Sarawak,Simunjan,2025-06-30,706.0,235.0,941.0
+Sarawak,Song,2017-01-01,267.0,127.0,394.0
+Sarawak,Song,2018-01-01,264.0,124.0,388.0
+Sarawak,Song,2019-01-01,254.0,126.0,380.0
+Sarawak,Song,2020-01-01,252.0,126.0,378.0
+Sarawak,Song,2021-01-01,251.0,118.0,369.0
+Sarawak,Song,2022-01-01,253.0,126.0,379.0
+Sarawak,Song,2023-06-30,253.0,126.0,379.0
+Sarawak,Song,2024-06-30,239.0,133.0,372.0
+Sarawak,Song,2025-06-30,252.0,131.0,383.0
+Sarawak,Sri Aman,2017-01-01,655.0,355.0,1010.0
+Sarawak,Sri Aman,2018-01-01,696.0,348.0,1044.0
+Sarawak,Sri Aman,2019-01-01,675.0,369.0,1044.0
+Sarawak,Sri Aman,2020-01-01,686.0,357.0,1043.0
+Sarawak,Sri Aman,2021-01-01,668.0,352.0,1020.0
+Sarawak,Sri Aman,2022-01-01,658.0,373.0,1031.0
+Sarawak,Sri Aman,2023-06-30,638.0,375.0,1013.0
+Sarawak,Sri Aman,2024-06-30,631.0,373.0,1004.0
+Sarawak,Sri Aman,2025-06-30,648.0,378.0,1026.0
+Sarawak,Subis,2017-01-01,662.0,288.0,950.0
+Sarawak,Subis,2018-01-01,338.0,123.0,461.0
+Sarawak,Subis,2019-01-01,324.0,117.0,441.0
+Sarawak,Subis,2020-01-01,315.0,110.0,425.0
+Sarawak,Subis,2021-01-01,311.0,106.0,417.0
+Sarawak,Subis,2022-01-01,288.0,115.0,403.0
+Sarawak,Subis,2023-06-30,597.0,298.0,895.0
+Sarawak,Subis,2024-06-30,623.0,309.0,932.0
+Sarawak,Subis,2025-06-30,681.0,311.0,992.0
+Sarawak,Tatau,2017-01-01,479.0,191.0,670.0
+Sarawak,Tatau,2018-01-01,255.0,122.0,377.0
+Sarawak,Tatau,2019-01-01,242.0,116.0,358.0
+Sarawak,Tatau,2020-01-01,253.0,111.0,364.0
+Sarawak,Tatau,2021-01-01,248.0,102.0,350.0
+Sarawak,Tatau,2022-01-01,249.0,110.0,359.0
+Sarawak,Tatau/Sebauh,2023-06-30,442.0,177.0,619.0
+Sarawak,Tatau/Sebauh,2024-06-30,461.0,195.0,656.0
+Sarawak,Tatau/Sebauh,2025-06-30,487.0,190.0,677.0
+Selangor,Gombak,2017-01-01,4526.0,3826.0,8352.0
+Selangor,Gombak,2018-01-01,4635.0,3819.0,8454.0
+Selangor,Gombak,2019-01-01,4520.0,3772.0,8292.0
+Selangor,Gombak,2020-01-01,4612.0,3751.0,8363.0
+Selangor,Gombak,2021-01-01,4615.0,3680.0,8295.0
+Selangor,Gombak,2022-01-01,4557.0,3832.0,8389.0
+Selangor,Gombak,2023-06-30,4514.0,3740.0,8254.0
+Selangor,Gombak,2024-06-30,4587.0,3724.0,8311.0
+Selangor,Gombak,2025-06-30,4566.0,3688.0,8254.0
+Selangor,Klang,2017-01-01,5651.0,4291.0,9942.0
+Selangor,Klang,2018-01-01,5778.0,4293.0,10071.0
+Selangor,Klang,2019-01-01,5680.0,4274.0,9954.0
+Selangor,Klang,2020-01-01,5747.0,4203.0,9950.0
+Selangor,Klang,2021-01-01,5727.0,4104.0,9831.0
+Selangor,Klang,2022-01-01,5632.0,4289.0,9921.0
+Selangor,Klang,2023-06-30,5608.0,4187.0,9795.0
+Selangor,Klang,2024-06-30,5725.0,4158.0,9883.0
+Selangor,Klang,2025-06-30,5750.0,4120.0,9870.0
+Selangor,Kuala Langat,2017-01-01,2019.0,1576.0,3595.0
+Selangor,Kuala Langat,2018-01-01,2069.0,1594.0,3663.0
+Selangor,Kuala Langat,2019-01-01,2077.0,1606.0,3683.0
+Selangor,Kuala Langat,2020-01-01,2148.0,1609.0,3757.0
+Selangor,Kuala Langat,2021-01-01,2151.0,1591.0,3742.0
+Selangor,Kuala Langat,2022-01-01,2160.0,1690.0,3850.0
+Selangor,Kuala Langat,2023-06-30,2158.0,1667.0,3825.0
+Selangor,Kuala Langat,2024-06-30,2301.0,1711.0,4012.0
+Selangor,Kuala Langat,2025-06-30,2328.0,1742.0,4070.0
+Selangor,Kuala Selangor,2017-01-01,2288.0,1728.0,4016.0
+Selangor,Kuala Selangor,2018-01-01,2351.0,1749.0,4100.0
+Selangor,Kuala Selangor,2019-01-01,2347.0,1754.0,4101.0
+Selangor,Kuala Selangor,2020-01-01,2356.0,1706.0,4062.0
+Selangor,Kuala Selangor,2021-01-01,2317.0,1676.0,3993.0
+Selangor,Kuala Selangor,2022-01-01,2323.0,1784.0,4107.0
+Selangor,Kuala Selangor,2023-06-30,2345.0,1758.0,4103.0
+Selangor,Kuala Selangor,2024-06-30,2378.0,1774.0,4152.0
+Selangor,Kuala Selangor,2025-06-30,2394.0,1793.0,4187.0
+Selangor,Petaling,2017-01-01,8795.0,7000.0,15795.0
+Selangor,Petaling,2018-01-01,9251.0,7080.0,16331.0
+Selangor,Petaling,2019-01-01,9025.0,7014.0,16039.0
+Selangor,Petaling,2020-01-01,9295.0,6923.0,16218.0
+Selangor,Petaling,2021-01-01,9344.0,6806.0,16150.0
+Selangor,Petaling,2022-01-01,9235.0,7144.0,16379.0
+Selangor,Petaling Perdana,2023-06-30,6490.0,4779.0,11269.0
+Selangor,Petaling Perdana,2024-06-30,6573.0,4756.0,11329.0
+Selangor,Petaling Perdana,2025-06-30,6593.0,4727.0,11320.0
+Selangor,Petaling Utama,2023-06-30,2770.0,2152.0,4922.0
+Selangor,Petaling Utama,2024-06-30,2817.0,2145.0,4962.0
+Selangor,Petaling Utama,2025-06-30,2815.0,2116.0,4931.0
+Selangor,Sabak Bernam,2017-01-01,1267.0,1284.0,2551.0
+Selangor,Sabak Bernam,2018-01-01,1231.0,1273.0,2504.0
+Selangor,Sabak Bernam,2019-01-01,1201.0,1242.0,2443.0
+Selangor,Sabak Bernam,2020-01-01,1175.0,1189.0,2364.0
+Selangor,Sabak Bernam,2021-01-01,1142.0,1158.0,2300.0
+Selangor,Sabak Bernam,2022-01-01,1138.0,1195.0,2333.0
+Selangor,Sabak Bernam,2023-06-30,1117.0,1191.0,2308.0
+Selangor,Sabak Bernam,2024-06-30,1100.0,1184.0,2284.0
+Selangor,Sabak Bernam,2025-06-30,1110.0,1154.0,2264.0
+Selangor,Sepang,2017-01-01,1626.0,1187.0,2813.0
+Selangor,Sepang,2018-01-01,1720.0,1236.0,2956.0
+Selangor,Sepang,2019-01-01,1746.0,1265.0,3011.0
+Selangor,Sepang,2020-01-01,1792.0,1263.0,3055.0
+Selangor,Sepang,2021-01-01,1850.0,1258.0,3108.0
+Selangor,Sepang,2022-01-01,1911.0,1319.0,3230.0
+Selangor,Sepang,2023-06-30,1932.0,1319.0,3251.0
+Selangor,Sepang,2024-06-30,1996.0,1352.0,3348.0
+Selangor,Sepang,2025-06-30,2029.0,1371.0,3400.0
+Selangor,Ulu Langat,2017-01-01,5930.0,4660.0,10590.0
+Selangor,Ulu Langat,2018-01-01,6160.0,4660.0,10820.0
+Selangor,Ulu Langat,2019-01-01,6088.0,4600.0,10688.0
+Selangor,Ulu Langat,2020-01-01,6225.0,4539.0,10764.0
+Selangor,Ulu Langat,2021-01-01,6192.0,4425.0,10617.0
+Selangor,Ulu Langat,2022-01-01,6149.0,4600.0,10749.0
+Selangor,Ulu Langat,2023-06-30,6129.0,4494.0,10623.0
+Selangor,Ulu Langat,2024-06-30,6324.0,4485.0,10809.0
+Selangor,Ulu Langat,2025-06-30,6382.0,4463.0,10845.0
+Selangor,Ulu Selangor,2017-01-01,1887.0,1381.0,3268.0
+Selangor,Ulu Selangor,2018-01-01,1941.0,1371.0,3312.0
+Selangor,Ulu Selangor,2019-01-01,1916.0,1362.0,3278.0
+Selangor,Ulu Selangor,2020-01-01,1934.0,1349.0,3283.0
+Selangor,Ulu Selangor,2021-01-01,1930.0,1324.0,3254.0
+Selangor,Ulu Selangor,2022-01-01,1913.0,1361.0,3274.0
+Selangor,Ulu Selangor,2023-06-30,1895.0,1342.0,3237.0
+Selangor,Ulu Selangor,2024-06-30,1940.0,1340.0,3280.0
+Selangor,Ulu Selangor,2025-06-30,1927.0,1340.0,3267.0
+Terengganu,Besut,2017-01-01,1815.0,1585.0,3400.0
+Terengganu,Besut,2018-01-01,1878.0,1650.0,3528.0
+Terengganu,Besut,2019-01-01,1855.0,1643.0,3498.0
+Terengganu,Besut,2020-01-01,1867.0,1640.0,3507.0
+Terengganu,Besut,2021-01-01,1815.0,1615.0,3430.0
+Terengganu,Besut,2022-01-01,1829.0,1674.0,3503.0
+Terengganu,Besut,2023-06-30,1789.0,1668.0,3457.0
+Terengganu,Besut,2024-06-30,1743.0,1664.0,3407.0
+Terengganu,Besut,2025-06-30,1754.0,1666.0,3420.0
+Terengganu,Dungun,2017-01-01,1551.0,1317.0,2868.0
+Terengganu,Dungun,2018-01-01,1612.0,1329.0,2941.0
+Terengganu,Dungun,2019-01-01,1615.0,1343.0,2958.0
+Terengganu,Dungun,2020-01-01,1608.0,1326.0,2934.0
+Terengganu,Dungun,2021-01-01,1592.0,1289.0,2881.0
+Terengganu,Dungun,2022-01-01,1617.0,1348.0,2965.0
+Terengganu,Dungun,2023-06-30,1594.0,1316.0,2910.0
+Terengganu,Dungun,2024-06-30,1588.0,1342.0,2930.0
+Terengganu,Dungun,2025-06-30,1599.0,1337.0,2936.0
+Terengganu,Hulu Terengganu,2017-01-01,994.0,826.0,1820.0
+Terengganu,Hulu Terengganu,2018-01-01,1030.0,833.0,1863.0
+Terengganu,Hulu Terengganu,2019-01-01,1039.0,821.0,1860.0
+Terengganu,Hulu Terengganu,2020-01-01,1037.0,826.0,1863.0
+Terengganu,Hulu Terengganu,2021-01-01,1018.0,815.0,1833.0
+Terengganu,Hulu Terengganu,2022-01-01,1050.0,872.0,1922.0
+Terengganu,Hulu Terengganu,2023-06-30,1033.0,857.0,1890.0
+Terengganu,Hulu Terengganu,2024-06-30,1023.0,876.0,1899.0
+Terengganu,Hulu Terengganu,2025-06-30,1029.0,893.0,1922.0
+Terengganu,Kemaman,2017-01-01,1818.0,1500.0,3318.0
+Terengganu,Kemaman,2018-01-01,1910.0,1567.0,3477.0
+Terengganu,Kemaman,2019-01-01,1914.0,1592.0,3506.0
+Terengganu,Kemaman,2020-01-01,1932.0,1584.0,3516.0
+Terengganu,Kemaman,2021-01-01,1920.0,1532.0,3452.0
+Terengganu,Kemaman,2022-01-01,1959.0,1575.0,3534.0
+Terengganu,Kemaman,2023-06-30,1928.0,1574.0,3502.0
+Terengganu,Kemaman,2024-06-30,1940.0,1607.0,3547.0
+Terengganu,Kemaman,2025-06-30,1958.0,1630.0,3588.0
+Terengganu,Kuala Nerus,2017-01-01,1165.0,1277.0,2442.0
+Terengganu,Kuala Nerus,2018-01-01,1209.0,1315.0,2524.0
+Terengganu,Kuala Nerus,2019-01-01,1210.0,1328.0,2538.0
+Terengganu,Kuala Nerus,2020-01-01,1205.0,1323.0,2528.0
+Terengganu,Kuala Nerus,2021-01-01,1166.0,1286.0,2452.0
+Terengganu,Kuala Nerus,2022-01-01,1207.0,1302.0,2509.0
+Terengganu,Kuala Nerus,2023-06-30,1178.0,1298.0,2476.0
+Terengganu,Kuala Nerus,2024-06-30,1188.0,1316.0,2504.0
+Terengganu,Kuala Nerus,2025-06-30,1204.0,1314.0,2518.0
+Terengganu,Kuala Terengganu,2017-01-01,2249.0,2020.0,4269.0
+Terengganu,Kuala Terengganu,2018-01-01,2311.0,2031.0,4342.0
+Terengganu,Kuala Terengganu,2019-01-01,2284.0,2011.0,4295.0
+Terengganu,Kuala Terengganu,2020-01-01,2264.0,1997.0,4261.0
+Terengganu,Kuala Terengganu,2021-01-01,2237.0,1962.0,4199.0
+Terengganu,Kuala Terengganu,2022-01-01,2280.0,2000.0,4280.0
+Terengganu,Kuala Terengganu,2023-06-30,2224.0,1952.0,4176.0
+Terengganu,Kuala Terengganu,2024-06-30,2217.0,1984.0,4201.0
+Terengganu,Kuala Terengganu,2025-06-30,2227.0,2006.0,4233.0
+Terengganu,Marang,2017-01-01,1035.0,947.0,1982.0
+Terengganu,Marang,2018-01-01,1080.0,944.0,2024.0
+Terengganu,Marang,2019-01-01,1076.0,928.0,2004.0
+Terengganu,Marang,2020-01-01,1072.0,927.0,1999.0
+Terengganu,Marang,2021-01-01,1053.0,902.0,1955.0
+Terengganu,Marang,2022-01-01,1086.0,930.0,2016.0
+Terengganu,Marang,2023-06-30,1065.0,922.0,1987.0
+Terengganu,Marang,2024-06-30,1081.0,919.0,2000.0
+Terengganu,Marang,2025-06-30,1090.0,927.0,2017.0
+Terengganu,Setiu,2017-01-01,942.0,773.0,1715.0
+Terengganu,Setiu,2018-01-01,972.0,769.0,1741.0
+Terengganu,Setiu,2019-01-01,971.0,754.0,1725.0
+Terengganu,Setiu,2020-01-01,976.0,762.0,1738.0
+Terengganu,Setiu,2021-01-01,931.0,760.0,1691.0
+Terengganu,Setiu,2022-01-01,940.0,767.0,1707.0
+Terengganu,Setiu,2023-06-30,922.0,779.0,1701.0
+Terengganu,Setiu,2024-06-30,913.0,780.0,1693.0
+Terengganu,Setiu,2025-06-30,906.0,797.0,1703.0
+W.P. Kuala Lumpur,Bangsar Pudu,2023-06-30,4384.0,3897.0,8281.0
+W.P. Kuala Lumpur,Bangsar Pudu,2024-06-30,4570.0,4004.0,8574.0
+W.P. Kuala Lumpur,Bangsar Pudu,2025-06-30,4524.0,4031.0,8555.0
+W.P. Kuala Lumpur,Keramat,2023-06-30,2059.0,1879.0,3938.0
+W.P. Kuala Lumpur,Keramat,2024-06-30,2152.0,1930.0,4082.0
+W.P. Kuala Lumpur,Keramat,2025-06-30,2187.0,1959.0,4146.0
+W.P. Kuala Lumpur,Sentul,2023-06-30,2217.0,2066.0,4283.0
+W.P. Kuala Lumpur,Sentul,2024-06-30,2303.0,2123.0,4426.0
+W.P. Kuala Lumpur,Sentul,2025-06-30,2305.0,2088.0,4393.0
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2017-01-01,9109.0,8286.0,17395.0
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2018-01-01,9270.0,8346.0,17616.0
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2019-01-01,8979.0,8326.0,17305.0
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2020-01-01,9105.0,8202.0,17307.0
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2021-01-01,9006.0,7941.0,16947.0
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2022-01-01,8644.0,7994.0,16638.0
+W.P. Labuan,Jpwp Labuan,2023-06-30,741.0,672.0,1413.0
+W.P. Labuan,Jpwp Labuan,2024-06-30,743.0,686.0,1429.0
+W.P. Labuan,Jpwp Labuan,2025-06-30,737.0,713.0,1450.0
+W.P. Labuan,W.P. Labuan,2017-01-01,708.0,673.0,1381.0
+W.P. Labuan,W.P. Labuan,2018-01-01,737.0,670.0,1407.0
+W.P. Labuan,W.P. Labuan,2019-01-01,741.0,646.0,1387.0
+W.P. Labuan,W.P. Labuan,2020-01-01,743.0,636.0,1379.0
+W.P. Labuan,W.P. Labuan,2021-01-01,742.0,613.0,1355.0
+W.P. Labuan,W.P. Labuan,2022-01-01,705.0,645.0,1350.0
+W.P. Putrajaya,Jpwp Putrajaya,2023-06-30,1475.0,966.0,2441.0
+W.P. Putrajaya,Jpwp Putrajaya,2024-06-30,1493.0,1003.0,2496.0
+W.P. Putrajaya,Jpwp Putrajaya,2025-06-30,1494.0,1033.0,2527.0
+W.P. Putrajaya,W.P. Putrajaya,2017-01-01,923.0,739.0,1662.0
+W.P. Putrajaya,W.P. Putrajaya,2018-01-01,1175.0,826.0,2001.0
+W.P. Putrajaya,W.P. Putrajaya,2019-01-01,1249.0,824.0,2073.0
+W.P. Putrajaya,W.P. Putrajaya,2020-01-01,1327.0,832.0,2159.0
+W.P. Putrajaya,W.P. Putrajaya,2021-01-01,1406.0,851.0,2257.0
+W.P. Putrajaya,W.P. Putrajaya,2022-01-01,1515.0,927.0,2442.0
