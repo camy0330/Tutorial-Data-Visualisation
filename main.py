@@ -59,7 +59,7 @@ def style_chart(fig, height=600):
             family="Arial, sans-serif",
             size=13,
             color=COLORS["dark"]
-        )),
+        ),
         title=dict(
             font=dict(
                 size=19,
