@@ -18,6 +18,7 @@ st.set_page_config(
 
 DATA_DIR = Path(__file__).parent / "processed_data"
 
+
 # =========================================================
 # 2. COLOUR PALETTE
 # =========================================================
@@ -34,7 +35,7 @@ COLORS = {
     "dark": "#202A35",
     "grey": "#687385",
     "grid": "#D9E0E8",
-    "background": "#FFFFFF"
+    "white": "#FFFFFF"
 }
 
 CATEGORY_COLORS = [
@@ -50,11 +51,12 @@ CATEGORY_COLORS = [
     "#4C6B3C"
 ]
 
+
 # =========================================================
 # 3. GLOBAL CHART STYLE
 # =========================================================
 
-def style_chart(fig, height=480):
+def style_chart(fig, height=600):
 
     fig.update_layout(
         template="plotly_white",
@@ -74,23 +76,30 @@ def style_chart(fig, height=480):
         ),
         paper_bgcolor="#FFFFFF",
         plot_bgcolor="#FFFFFF",
-        margin=dict(l=65, r=45, t=85, b=65),
+        margin=dict(
+            l=75,
+            r=65,
+            t=90,
+            b=75
+        ),
         legend=dict(
             font=dict(
                 size=12,
                 color=COLORS["dark"]
             ),
-            bgcolor="rgba(255,255,255,0.9)",
+            bgcolor="rgba(255,255,255,0.95)",
             bordercolor="#D9E0E8",
             borderwidth=1
         ),
         hoverlabel=dict(
             bgcolor="#FFFFFF",
+            bordercolor="#687385",
             font=dict(
                 color="#202A35",
                 size=13
             )
-        )
+        ),
+        hovermode="closest"
     )
 
     fig.update_xaxes(
@@ -106,7 +115,8 @@ def style_chart(fig, height=480):
         title_font=dict(
             size=13,
             color="#202A35"
-        )
+        ),
+        automargin=True
     )
 
     fig.update_yaxes(
@@ -122,31 +132,80 @@ def style_chart(fig, height=480):
         title_font=dict(
             size=13,
             color="#202A35"
-        )
+        ),
+        automargin=True
     )
 
     return fig
 
 
-def show_chart(fig):
+# =========================================================
+# 4. INTERACTIVE CHART DISPLAY
+# =========================================================
+
+def show_chart(fig, chart_key):
+
     fig = style_chart(fig)
-    st.plotly_chart(fig, use_container_width=True)
+
+    st.plotly_chart(
+        fig,
+        use_container_width=True,
+        key=chart_key,
+        config={
+            "displayModeBar": True,
+            "displaylogo": False,
+            "scrollZoom": True,
+            "doubleClick": "reset",
+            "responsive": True,
+            "modeBarButtonsToRemove": [
+                "lasso2d",
+                "select2d"
+            ],
+            "toImageButtonOptions": {
+                "format": "png",
+                "filename": chart_key,
+                "height": 900,
+                "width": 1600,
+                "scale": 2
+            }
+        }
+    )
 
 
 # =========================================================
-# 4. LOAD DATA
+# 5. LOAD DATA
 # =========================================================
 
 @st.cache_data
 def load_data():
 
-    poverty = pd.read_csv(DATA_DIR / "poverty_processed.csv")
-    population = pd.read_csv(DATA_DIR / "population_total.csv")
-    ethnicity = pd.read_csv(DATA_DIR / "population_ethnicity.csv")
-    age = pd.read_csv(DATA_DIR / "population_age.csv")
-    teachers = pd.read_csv(DATA_DIR / "teachers_processed.csv")
-    integrated = pd.read_csv(DATA_DIR / "integrated_2024.csv")
-    education = pd.read_csv(DATA_DIR / "education_features.csv")
+    poverty = pd.read_csv(
+        DATA_DIR / "poverty_processed.csv"
+    )
+
+    population = pd.read_csv(
+        DATA_DIR / "population_total.csv"
+    )
+
+    ethnicity = pd.read_csv(
+        DATA_DIR / "population_ethnicity.csv"
+    )
+
+    age = pd.read_csv(
+        DATA_DIR / "population_age.csv"
+    )
+
+    teachers = pd.read_csv(
+        DATA_DIR / "teachers_processed.csv"
+    )
+
+    integrated = pd.read_csv(
+        DATA_DIR / "integrated_2024.csv"
+    )
+
+    education = pd.read_csv(
+        DATA_DIR / "education_features.csv"
+    )
 
     datasets = [
         poverty,
@@ -161,12 +220,14 @@ def load_data():
     for df in datasets:
 
         if "date" in df.columns:
+
             df["date"] = pd.to_datetime(
                 df["date"],
                 errors="coerce"
             )
 
         if "year" not in df.columns and "date" in df.columns:
+
             df["year"] = df["date"].dt.year
 
     return (
@@ -205,7 +266,7 @@ except Exception as e:
 
 
 # =========================================================
-# 5. MAIN HEADER
+# 6. MAIN HEADER
 # =========================================================
 
 st.title("Malaysian District Data Visualisation")
@@ -221,7 +282,7 @@ st.markdown("---")
 
 
 # =========================================================
-# 6. SIDEBAR NAVIGATION
+# 7. SIDEBAR NAVIGATION
 # =========================================================
 
 st.sidebar.title("Dashboard Navigation")
@@ -251,16 +312,20 @@ def filter_states(df):
     if "state" not in df.columns:
         return df.copy()
 
-    return df[df["state"].isin(selected_states)].copy()
+    return df[
+        df["state"].isin(selected_states)
+    ].copy()
 
 
 # =========================================================
-# 7. PAGE 1: HOUSEHOLD POVERTY
+# 8. PAGE 1: HOUSEHOLD POVERTY
 # =========================================================
 
 if page == "1. Household Poverty Patterns":
 
-    st.header("Objective 1: Household Poverty Patterns")
+    st.header(
+        "Objective 1: Household Poverty Patterns"
+    )
 
     st.markdown(
         """
@@ -279,11 +344,18 @@ if page == "1. Household Poverty Patterns":
 
     if poverty_2024.empty:
 
-        st.warning("No poverty data available for the selected states.")
+        st.warning(
+            "No poverty data available for the selected states."
+        )
         st.stop()
 
-    avg_absolute = poverty_2024["poverty_absolute"].mean()
-    avg_relative = poverty_2024["poverty_relative"].mean()
+    avg_absolute = poverty_2024[
+        "poverty_absolute"
+    ].mean()
+
+    avg_relative = poverty_2024[
+        "poverty_relative"
+    ].mean()
 
     col1, col2, col3 = st.columns(3)
 
@@ -308,7 +380,9 @@ if page == "1. Household Poverty Patterns":
     # CHART 1: POVERTY TREND
     # -----------------------------------------------------
 
-    st.subheader("1. Household Poverty Trend (2019–2024)")
+    st.subheader(
+        "1. Household Poverty Trend (2019–2024)"
+    )
 
     years_required = {2019, 2022, 2024}
 
@@ -337,7 +411,10 @@ if page == "1. Household Poverty Patterns":
 
     trend_summary = (
         trend_data.groupby("year")[
-            ["poverty_absolute", "poverty_relative"]
+            [
+                "poverty_absolute",
+                "poverty_relative"
+            ]
         ]
         .mean()
         .reset_index()
@@ -356,7 +433,9 @@ if page == "1. Household Poverty Patterns":
         })
     )
 
-    trend_summary["year"] = trend_summary["year"].astype(str)
+    trend_summary["year"] = (
+        trend_summary["year"].astype(str)
+    )
 
     fig1 = px.line(
         trend_summary,
@@ -368,22 +447,37 @@ if page == "1. Household Poverty Patterns":
             "Absolute Poverty": COLORS["navy"],
             "Relative Poverty": COLORS["orange"]
         },
-        title="Average Poverty Rate Across Consistently Matched Districts"
+        title=(
+            "Average Poverty Rate Across "
+            "Consistently Matched Districts"
+        )
     )
 
     fig1.update_traces(
         line=dict(width=4),
-        marker=dict(size=11, line=dict(width=1, color="white"))
+        marker=dict(
+            size=12,
+            line=dict(
+                width=1.5,
+                color="white"
+            )
+        ),
+        hovertemplate=(
+            "<b>%{fullData.name}</b><br>"
+            "Year: %{x}<br>"
+            "Average Rate: %{y:.2f}%"
+            "<extra></extra>"
+        )
     )
 
     fig1.update_layout(
         xaxis_title="Year",
         yaxis_title="Average Poverty Rate (%)",
-        hovermode="x unified",
-        xaxis=dict(type="category")
+        xaxis=dict(type="category"),
+        hovermode="x unified"
     )
 
-    show_chart(fig1)
+    show_chart(fig1, "chart_1_poverty_trend")
 
     st.markdown(
         """
@@ -391,8 +485,8 @@ if page == "1. Household Poverty Patterns":
 
         The line chart compares average absolute and relative
         poverty rates across districts with records in all three
-        selected years. The consistent district coverage helps
-        reduce the influence of changes in the number of districts.
+        selected years. Consistent district coverage helps reduce
+        the influence of changes in the number of districts.
         """
     )
 
@@ -400,11 +494,19 @@ if page == "1. Household Poverty Patterns":
     # CHART 2: TOP 10 POVERTY DISTRICTS
     # -----------------------------------------------------
 
-    st.subheader("2. Top 10 Districts by Absolute Poverty (2024)")
+    st.subheader(
+        "2. Top 10 Districts by Absolute Poverty (2024)"
+    )
 
     top_poverty = (
-        poverty_2024.nlargest(10, "poverty_absolute")
-        .sort_values("poverty_absolute", ascending=True)
+        poverty_2024.nlargest(
+            10,
+            "poverty_absolute"
+        )
+        .sort_values(
+            "poverty_absolute",
+            ascending=True
+        )
     )
 
     fig2 = px.bar(
@@ -413,19 +515,29 @@ if page == "1. Household Poverty Patterns":
         y="district",
         orientation="h",
         text="poverty_absolute",
-        color_discrete_sequence=[COLORS["red"]],
-        title="Top 10 Districts with Highest Absolute Poverty Rates"
+        color_discrete_sequence=[
+            COLORS["red"]
+        ],
+        title=(
+            "Top 10 Districts with Highest "
+            "Absolute Poverty Rates"
+        ]
     )
 
     fig2.update_traces(
         texttemplate="%{text:.1f}%",
         textposition="outside",
         textfont=dict(
-            size=12,
+            size=13,
             color=COLORS["dark"]
         ),
         marker_line_color="#7D241C",
-        marker_line_width=0.8
+        marker_line_width=1,
+        hovertemplate=(
+            "District: %{y}<br>"
+            "Absolute Poverty: %{x:.2f}%"
+            "<extra></extra>"
+        )
     )
 
     fig2.update_layout(
@@ -434,7 +546,14 @@ if page == "1. Household Poverty Patterns":
         showlegend=False
     )
 
-    show_chart(fig2)
+    fig2.update_xaxes(
+        range=[
+            0,
+            top_poverty["poverty_absolute"].max() * 1.2
+        ]
+    )
+
+    show_chart(fig2, "chart_2_top_poverty")
 
     st.markdown(
         """
@@ -451,7 +570,9 @@ if page == "1. Household Poverty Patterns":
     # CHART 3: ABSOLUTE VS RELATIVE POVERTY
     # -----------------------------------------------------
 
-    st.subheader("3. Absolute vs Relative Poverty (2024)")
+    st.subheader(
+        "3. Absolute vs Relative Poverty (2024)"
+    )
 
     fig3 = px.scatter(
         poverty_2024,
@@ -460,17 +581,26 @@ if page == "1. Household Poverty Patterns":
         color="state",
         hover_name="district",
         color_discrete_sequence=CATEGORY_COLORS,
-        title="Relationship Between Absolute and Relative Poverty"
+        title=(
+            "Relationship Between Absolute "
+            "and Relative Poverty"
+        )
     )
 
     fig3.update_traces(
         marker=dict(
-            size=11,
-            opacity=0.85,
+            size=12,
+            opacity=0.9,
             line=dict(
-                width=1,
+                width=1.2,
                 color="#202A35"
             )
+        ),
+        hovertemplate=(
+            "District: %{hovertext}<br>"
+            "Absolute Poverty: %{x:.2f}%<br>"
+            "Relative Poverty: %{y:.2f}%"
+            "<extra></extra>"
         )
     )
 
@@ -480,7 +610,7 @@ if page == "1. Household Poverty Patterns":
         legend_title="State"
     )
 
-    show_chart(fig3)
+    show_chart(fig3, "chart_3_poverty_scatter")
 
     st.markdown(
         """
@@ -489,19 +619,19 @@ if page == "1. Household Poverty Patterns":
         The scatter plot compares absolute and relative poverty
         rates across districts. Points in the upper-right area
         represent districts with higher values for both measures.
-        Differences between the two measures highlight variations
-        in the way poverty is experienced across districts.
         """
     )
 
 
 # =========================================================
-# 8. PAGE 2: POPULATION DISTRIBUTION
+# 9. PAGE 2: POPULATION DISTRIBUTION
 # =========================================================
 
 elif page == "2. Population Distribution":
 
-    st.header("Objective 2: Population Distribution")
+    st.header(
+        "Objective 2: Population Distribution"
+    )
 
     st.markdown(
         """
@@ -530,10 +660,14 @@ elif page == "2. Population Distribution":
 
     if population_2024.empty:
 
-        st.warning("No population data available for the selected states.")
+        st.warning(
+            "No population data available for the selected states."
+        )
         st.stop()
 
-    total_population = population_2024["population"].sum()
+    total_population = population_2024[
+        "population"
+    ].sum()
 
     col1, col2, col3 = st.columns(3)
 
@@ -563,7 +697,9 @@ elif page == "2. Population Distribution":
     # CHART 4: POPULATION TREND
     # -----------------------------------------------------
 
-    st.subheader("1. Population Trend (2020–2026)")
+    st.subheader(
+        "1. Population Trend (2020–2026)"
+    )
 
     population_trend = (
         population_filtered.groupby("year")
@@ -584,16 +720,26 @@ elif page == "2. Population Distribution":
         x="year",
         y="total_population",
         markers=True,
-        color_discrete_sequence=[COLORS["navy"]],
+        color_discrete_sequence=[
+            COLORS["navy"]
+        ],
         title="Total Reported Population by Year"
     )
 
     fig4.update_traces(
         line=dict(width=4),
         marker=dict(
-            size=11,
+            size=12,
             color=COLORS["orange"],
-            line=dict(width=1.5, color=COLORS["navy"])
+            line=dict(
+                width=1.5,
+                color=COLORS["navy"]
+            )
+        ),
+        hovertemplate=(
+            "Year: %{x}<br>"
+            "Population: %{y:,.1f} thousand"
+            "<extra></extra>"
         )
     )
 
@@ -604,22 +750,21 @@ elif page == "2. Population Distribution":
         hovermode="x unified"
     )
 
-    show_chart(fig4)
+    show_chart(fig4, "chart_4_population_trend")
 
     st.caption(
         "Note: District coverage varies between years. "
-        "The yearly totals should therefore be interpreted "
-        "with this coverage difference in mind."
+        "Yearly totals should be interpreted with this "
+        "coverage difference in mind."
     )
 
     st.markdown(
         """
         **Interpretation:**
 
-        The line chart illustrates the changes in total reported
-        population from 2020 to 2026. The trend provides an overview
-        of population distribution over time, while changes in
-        district coverage should be considered when comparing totals.
+        The line chart illustrates changes in total reported
+        population from 2020 to 2026. Changes in district
+        coverage should be considered when comparing totals.
         """
     )
 
@@ -627,7 +772,9 @@ elif page == "2. Population Distribution":
     # CHART 5: POPULATION BY ETHNICITY
     # -----------------------------------------------------
 
-    st.subheader("2. Population by Ethnicity (2024)")
+    st.subheader(
+        "2. Population by Ethnicity (2024)"
+    )
 
     ethnicity_labels = {
         "bumi_malay": "Bumiputera Malay",
@@ -639,7 +786,9 @@ elif page == "2. Population Distribution":
     }
 
     ethnicity_summary = (
-        ethnicity_2024.groupby("ethnicity")["population"]
+        ethnicity_2024.groupby("ethnicity")[
+            "population"
+        ]
         .sum()
         .reset_index()
     )
@@ -671,7 +820,9 @@ elif page == "2. Population Distribution":
         y="Ethnic Group",
         orientation="h",
         text="percentage",
-        color_discrete_sequence=[COLORS["teal"]],
+        color_discrete_sequence=[
+            COLORS["teal"]
+        ],
         title="Population Distribution by Ethnic Group"
     )
 
@@ -679,11 +830,17 @@ elif page == "2. Population Distribution":
         texttemplate="%{text:.2f}%",
         textposition="outside",
         textfont=dict(
-            size=12,
+            size=13,
             color=COLORS["dark"]
         ),
         marker_line_color="#07515A",
-        marker_line_width=0.8
+        marker_line_width=1,
+        hovertemplate=(
+            "Ethnic Group: %{y}<br>"
+            "Population: %{x:,.1f} thousand"
+            "<br>Share: %{text:.2f}%"
+            "<extra></extra>"
+        )
     )
 
     fig5.update_layout(
@@ -692,16 +849,22 @@ elif page == "2. Population Distribution":
         showlegend=False
     )
 
-    show_chart(fig5)
+    fig5.update_xaxes(
+        range=[
+            0,
+            ethnicity_summary["population"].max() * 1.3
+        ]
+    )
+
+    show_chart(fig5, "chart_5_ethnicity")
 
     st.markdown(
         """
         **Interpretation:**
 
         The horizontal bar chart compares population sizes
-        across ethnic groups. The percentage labels indicate
-        the proportion of each group within the selected
-        districts and provide an overview of ethnic composition.
+        across ethnic groups. Percentage labels indicate
+        each group's proportion within the selected districts.
         """
     )
 
@@ -709,10 +872,14 @@ elif page == "2. Population Distribution":
     # CHART 6: POPULATION BY AGE
     # -----------------------------------------------------
 
-    st.subheader("3. Population by Age Group (2024)")
+    st.subheader(
+        "3. Population by Age Group (2024)"
+    )
 
     age_summary = (
-        age_2024.groupby("age")["population"]
+        age_2024.groupby("age")[
+            "population"
+        ]
         .sum()
         .reset_index()
     )
@@ -737,13 +904,20 @@ elif page == "2. Population Distribution":
         age_summary,
         x="age",
         y="population",
-        color_discrete_sequence=[COLORS["blue"]],
+        color_discrete_sequence=[
+            COLORS["blue"]
+        ],
         title="Population Distribution Across Age Groups"
     )
 
     fig6.update_traces(
         marker_line_color="#123D68",
-        marker_line_width=0.8
+        marker_line_width=1,
+        hovertemplate=(
+            "Age Group: %{x}<br>"
+            "Population: %{y:,.1f} thousand"
+            "<extra></extra>"
+        )
     )
 
     fig6.update_layout(
@@ -751,7 +925,7 @@ elif page == "2. Population Distribution":
         yaxis_title="Population (Thousands)"
     )
 
-    show_chart(fig6)
+    show_chart(fig6, "chart_6_age_distribution")
 
     st.markdown(
         """
@@ -759,19 +933,20 @@ elif page == "2. Population Distribution":
 
         The column chart shows how the population is distributed
         across different age groups. It helps identify age groups
-        with larger population representation and provides insight
-        into the demographic structure of the selected districts.
+        with larger population representation.
         """
     )
 
 
 # =========================================================
-# 9. PAGE 3: POVERTY & TEACHER AVAILABILITY
+# 10. PAGE 3: POVERTY & TEACHER AVAILABILITY
 # =========================================================
 
 elif page == "3. Poverty & Teacher Availability":
 
-    st.header("Objective 3: Poverty and Teacher Availability")
+    st.header(
+        "Objective 3: Poverty and Teacher Availability"
+    )
 
     st.markdown(
         """
@@ -795,12 +970,20 @@ elif page == "3. Poverty & Teacher Availability":
         )
         st.stop()
 
-    avg_poverty = education_2024["poverty_absolute"].mean()
-    avg_teacher = education_2024["teachers_per_1000"].mean()
+    avg_poverty = education_2024[
+        "poverty_absolute"
+    ].mean()
+
+    avg_teacher = education_2024[
+        "teachers_per_1000"
+    ].mean()
 
     priority_condition = (
         (education_2024["poverty_absolute"] > avg_poverty)
-        & (education_2024["teachers_per_1000"] < avg_teacher)
+        & (
+            education_2024["teachers_per_1000"]
+            < avg_teacher
+        )
     )
 
     priority_count = priority_condition.sum()
@@ -833,7 +1016,9 @@ elif page == "3. Poverty & Teacher Availability":
     # CHART 7: POVERTY VS TEACHER AVAILABILITY
     # -----------------------------------------------------
 
-    st.subheader("1. Poverty vs Teacher Availability")
+    st.subheader(
+        "1. Poverty vs Teacher Availability"
+    )
 
     fig7 = px.scatter(
         education_2024,
@@ -847,15 +1032,18 @@ elif page == "3. Poverty & Teacher Availability":
             "population": ":,.1f"
         },
         color_discrete_sequence=CATEGORY_COLORS,
-        title="Relationship Between Poverty and Teacher Availability"
+        title=(
+            "Relationship Between Poverty "
+            "and Teacher Availability"
+        )
     )
 
     fig7.update_traces(
         marker=dict(
-            size=11,
+            size=12,
             opacity=0.9,
             line=dict(
-                width=1,
+                width=1.2,
                 color="#202A35"
             )
         )
@@ -864,7 +1052,7 @@ elif page == "3. Poverty & Teacher Availability":
     fig7.add_hline(
         y=avg_poverty,
         line_dash="dash",
-        line_width=2,
+        line_width=2.5,
         line_color=COLORS["red"],
         annotation_text="Average Poverty",
         annotation_font_color=COLORS["red"]
@@ -873,7 +1061,7 @@ elif page == "3. Poverty & Teacher Availability":
     fig7.add_vline(
         x=avg_teacher,
         line_dash="dash",
-        line_width=2,
+        line_width=2.5,
         line_color=COLORS["navy"],
         annotation_text="Average Teacher Availability",
         annotation_font_color=COLORS["navy"]
@@ -885,7 +1073,7 @@ elif page == "3. Poverty & Teacher Availability":
         legend_title="State"
     )
 
-    show_chart(fig7)
+    show_chart(fig7, "chart_7_poverty_teacher")
 
     st.markdown(
         """
@@ -894,8 +1082,8 @@ elif page == "3. Poverty & Teacher Availability":
         Districts in the upper-left quadrant have above-average
         poverty and below-average teacher availability within
         the selected sample. These districts may warrant further
-        investigation. The comparison does not establish a causal
-        relationship or prove a teacher shortage.
+        investigation. This comparison does not establish
+        a causal relationship or prove a teacher shortage.
         """
     )
 
@@ -903,7 +1091,9 @@ elif page == "3. Poverty & Teacher Availability":
     # CHART 8: LOWEST TEACHER AVAILABILITY
     # -----------------------------------------------------
 
-    st.subheader("2. Ten Districts with Lowest Teacher Availability")
+    st.subheader(
+        "2. Ten Districts with Lowest Teacher Availability"
+    )
 
     lowest_teacher = (
         education_2024.nsmallest(
@@ -922,19 +1112,24 @@ elif page == "3. Poverty & Teacher Availability":
         y="district",
         orientation="h",
         text="teachers_per_1000",
-        color_discrete_sequence=[COLORS["orange"]],
-        title="Districts with the Lowest Teacher Availability"
+        color_discrete_sequence=[
+            COLORS["orange"]
+        ],
+        title=(
+            "Districts with the Lowest "
+            "Teacher Availability"
+        )
     )
 
     fig8.update_traces(
         texttemplate="%{text:.2f}",
         textposition="outside",
         textfont=dict(
-            size=12,
+            size=13,
             color=COLORS["dark"]
         ),
         marker_line_color="#9C4D08",
-        marker_line_width=0.8
+        marker_line_width=1
     )
 
     fig8.update_layout(
@@ -943,7 +1138,14 @@ elif page == "3. Poverty & Teacher Availability":
         showlegend=False
     )
 
-    show_chart(fig8)
+    fig8.update_xaxes(
+        range=[
+            0,
+            lowest_teacher["teachers_per_1000"].max() * 1.25
+        ]
+    )
+
+    show_chart(fig8, "chart_8_lowest_teacher")
 
     st.markdown(
         """
@@ -960,7 +1162,9 @@ elif page == "3. Poverty & Teacher Availability":
     # CHART 9: DISTRICT PRIORITY QUADRANT
     # -----------------------------------------------------
 
-    st.subheader("3. District Priority Quadrant Analysis")
+    st.subheader(
+        "3. District Priority Quadrant Analysis"
+    )
 
     quadrant_data = education_2024.copy()
 
@@ -968,19 +1172,31 @@ elif page == "3. Poverty & Teacher Availability":
         [
             (
                 (quadrant_data["poverty_absolute"] > avg_poverty)
-                & (quadrant_data["teachers_per_1000"] < avg_teacher)
+                & (
+                    quadrant_data["teachers_per_1000"]
+                    < avg_teacher
+                )
             ),
             (
                 (quadrant_data["poverty_absolute"] > avg_poverty)
-                & (quadrant_data["teachers_per_1000"] >= avg_teacher)
+                & (
+                    quadrant_data["teachers_per_1000"]
+                    >= avg_teacher
+                )
             ),
             (
                 (quadrant_data["poverty_absolute"] <= avg_poverty)
-                & (quadrant_data["teachers_per_1000"] < avg_teacher)
+                & (
+                    quadrant_data["teachers_per_1000"]
+                    < avg_teacher
+                )
             ),
             (
                 (quadrant_data["poverty_absolute"] <= avg_poverty)
-                & (quadrant_data["teachers_per_1000"] >= avg_teacher)
+                & (
+                    quadrant_data["teachers_per_1000"]
+                    >= avg_teacher
+                )
             )
         ],
         [
@@ -1012,15 +1228,18 @@ elif page == "3. Poverty & Teacher Availability":
             "teachers_per_1000": ":.2f",
             "poverty_absolute": ":.2f"
         },
-        title="District Classification by Poverty and Teacher Availability"
+        title=(
+            "District Classification by Poverty "
+            "and Teacher Availability"
+        )
     )
 
     fig9.update_traces(
         marker=dict(
-            size=11,
+            size=12,
             opacity=0.9,
             line=dict(
-                width=1,
+                width=1.2,
                 color="#202A35"
             )
         )
@@ -1029,7 +1248,7 @@ elif page == "3. Poverty & Teacher Availability":
     fig9.add_hline(
         y=avg_poverty,
         line_dash="dash",
-        line_width=2,
+        line_width=2.5,
         line_color="#202A35",
         annotation_text="Average Poverty",
         annotation_font_color="#202A35"
@@ -1038,7 +1257,7 @@ elif page == "3. Poverty & Teacher Availability":
     fig9.add_vline(
         x=avg_teacher,
         line_dash="dash",
-        line_width=2,
+        line_width=2.5,
         line_color="#202A35",
         annotation_text="Average Teacher Availability",
         annotation_font_color="#202A35"
@@ -1047,24 +1266,21 @@ elif page == "3. Poverty & Teacher Availability":
     fig9.update_layout(
         xaxis_title="Teachers per 1,000 Residents",
         yaxis_title="Absolute Poverty Rate (%)",
-        legend_title="District Classification",
-        legend=dict(
-            font=dict(size=11)
-        )
+        legend_title="District Classification"
     )
 
-    show_chart(fig9)
+    show_chart(fig9, "chart_9_priority_quadrant")
 
     st.markdown(
         """
         **Interpretation:**
 
-        The quadrant chart classifies districts using the average
-        poverty rate and average teacher availability as thresholds.
+        The quadrant chart classifies districts using average
+        poverty and teacher availability as thresholds.
         Districts in the higher-poverty/lower-teacher-availability
         group are potential priority areas for further investigation.
-        The categories represent relative comparisons within the
-        selected district sample.
+        The categories represent relative comparisons within
+        the selected district sample.
         """
     )
 
@@ -1106,7 +1322,7 @@ elif page == "3. Poverty & Teacher Availability":
 
 
 # =========================================================
-# 10. FOOTER
+# 11. FOOTER
 # =========================================================
 
 st.markdown("---")
@@ -1118,6 +1334,10 @@ st.caption(
 st.caption(
     "Household Poverty, Population Distribution and "
     "Teacher Availability Across Malaysian Districts."
+)
+
+st.caption(
+    "By Arissa Aida Kamilia Binti Aris (s23a0149)"
 )
 
 st.caption(
