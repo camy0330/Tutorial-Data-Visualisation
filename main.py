@@ -786,6 +786,10 @@ st.caption(
 )
 
 st.caption(
+    "By Arissa Aida Kamilia Binti Aris (S23A0149)"
+)
+
+st.caption(
     "Data interpretation should consider differences in "
     "dataset coverage, reporting dates and measurement units."
 )
