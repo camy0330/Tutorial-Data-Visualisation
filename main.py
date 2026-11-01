@@ -782,7 +782,6 @@ st.caption(
     "JIE42403 Scientific Visualisation Assignment | "
     "Household Poverty, Population Distribution and "
     "Teacher Availability Across Malaysian Districts"
-    "By Arissa Aida Kamilia Binti Aris (S23A0149)"
 )
 
 st.caption(
